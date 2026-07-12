@@ -1,0 +1,30 @@
+# Packages converted from Conda dependencies
+brotlicffi==1.2.0.0
+certifi==2026.6.17
+cffi==2.0.0
+charset-normalizer==3.4.4
+idna==3.18
+lxml==6.1.0
+numpy==2.4.6
+pandas==3.0.3
+pycparser==3.0
+pysocks==1.7.1
+python-dateutil==2.9.0post0
+requests==2.34.2
+six==1.17.0
+urllib3==2.7.0
+
+# Packages from the pip section
+daiquiri==3.4.0
+et-xmlfile==2.0.0
+html5rdf==1.2.1
+openpyxl==3.1.5
+owlrl==7.1.4
+packaging==26.2
+prettytable==3.18.0
+pyparsing==3.3.2
+pyshacl==0.30.1
+python-json-logger==4.1.0
+rdflib==7.6.0
+soso==1.1.0
+wcwidth==0.8.1
