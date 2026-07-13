@@ -5,14 +5,19 @@ from pathlib import Path
 import pandas as pd
 import re
 
-def shortResourceDiff():
+class spase_helio_compare:
+
+    def __init__(self,s):
+        pass
+
+def shortResourceDiff(save=False):
     """
     Compare short_name ('ID' on HelioData) in the yml file against SPASE 
     ResourceName column of the spreadsheet and show the differences
     """
     Path.cwd()
     # Read in SPASE observatory name spreadsheet as dataframe
-    excel_path = Path.cwd() / 'spase_helio_compare/SPASE_Observatory_AltNames.xlsx'
+    excel_path = Path.cwd() / 'spase_helio_compare/SPASE_Observatory_Names.xlsx'
     spase_df = pd.read_excel(excel_path)
     #print(spase_df.head)
 
@@ -26,7 +31,10 @@ def shortResourceDiff():
     # Create new dataframe of mismatched observatory names and write to file 
     shortRes_df = pd.concat([helio_df['short_name'].loc[ind_short_diff],
                     spase_df['ResourceName'].loc[ind_short_diff]],axis=1)
-    shortRes_df.to_csv('spase_helio_compare/short_Resource_diff.csv',index=False)
+    if save==True:
+        shortRes_df.to_csv('spase_helio_compare/short_Resource_diff.csv',index=False)
+
+    return(shortRes_df)
 
 def longAlternateCompare():
     # Read in SPASE observatory name spreadsheet as dataframe
