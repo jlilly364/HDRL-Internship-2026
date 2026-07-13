@@ -7,51 +7,47 @@ import re
 
 class spase_helio_compare:
 
-    def __init__(self,s):
-        pass
+    def __init__(self):
+        # Read in SPASE observatory name spreadsheet as dataframe
+        self.excel_path = Path.cwd() / 'spase_helio_compare/SPASE_Observatory_Names.xlsx'
+        self.spase_df = pd.read_excel(self.excel_path)
 
-def shortResourceDiff(save=False):
-    """
-    Compare short_name ('ID' on HelioData) in the yml file against SPASE 
-    ResourceName column of the spreadsheet and show the differences
-    """
-    Path.cwd()
-    # Read in SPASE observatory name spreadsheet as dataframe
-    excel_path = Path.cwd() / 'spase_helio_compare/SPASE_Observatory_Names.xlsx'
-    spase_df = pd.read_excel(excel_path)
-    #print(spase_df.head)
+        # Read in HelioData table as dataframe
+        self.helioData = Path.cwd() / 'spase_helio_compare/helioData.csv'
+        self.helio_df = pd.read_csv(self.helioData)
 
-    # Read in HelioData table as dataframe
-    helioData = Path.cwd() / 'spase_helio_compare/helioData.csv'
-    helio_df = pd.read_csv(helioData)
+    def shortResourceDiff(self,save=False):
+        """
+        Compare short_name ('ID' on HelioData) in the yml file against SPASE 
+        ResourceName column of the spreadsheet and show the differences
+        """
 
-    # Get indices where 'short_name' and 'ResourceName' differ
-    ind_short_diff = ~helio_df['short_name'].isin(spase_df['ResourceName'])
+        # Get indices where 'short_name' and 'ResourceName' differ
+        ind_short_diff = ~self.helio_df['short_name'].isin(self.spase_df['ResourceName'])
 
-    # Create new dataframe of mismatched observatory names and write to file 
-    shortRes_df = pd.concat([helio_df['short_name'].loc[ind_short_diff],
-                    spase_df['ResourceName'].loc[ind_short_diff]],axis=1)
-    if save==True:
-        shortRes_df.to_csv('spase_helio_compare/short_Resource_diff.csv',index=False)
+        # Create new dataframe of mismatched observatory names and write to file 
+        shortRes_df = pd.concat([self.helio_df['short_name'].loc[ind_short_diff],
+                        self.spase_df['ResourceName'].loc[ind_short_diff]],axis=1)
+        if save==True:
+            shortRes_df.to_csv('spase_helio_compare/short_Resource_diff.csv',index=False)
 
-    return(shortRes_df)
+        return(shortRes_df)
 
-def longAlternateCompare():
-    # Read in SPASE observatory name spreadsheet as dataframe
-    excel_path = Path.cwd() / 'spase_helio_compare/SPASE_Observatory_AltNames.xlsx'
-    spase_df = pd.read_excel(excel_path)
+    """def longAlternateCompare(self):
+        """
+        Compare long_name ('Name' on HelioData) in the yml file against SPASE 
+        AlternateName column of the spreadsheet and show the differences
+        """
 
-    # Read in HelioData table as dataframe
-    helioData = Path.cwd() / 'spase_helio_compare/helioData.csv'
-    helio_df = pd.read_csv(helioData)
+        """#Convert list that is represented as a string into list
+        https://stackoverflow.com/questions/74746796/cannot-understand-why-eval-is-passed-in-as-an-argument-i-e-df-col-name-app"""
 
-    """#Convert list that is represented as a string into list
-    https://stackoverflow.com/questions/74746796/cannot-understand-why-eval-is-passed-in-as-an-argument-i-e-df-col-name-app"""
-
-    spase_df['AlternateName'] = spase_df['AlternateName'].apply(eval)
-    print(spase_df['AlternateName'][1940])
-    print(helio_df['long_name'][1940])
+        self.spase_df['AlternateName'] = self.spase_df['AlternateName'].apply(eval)
+        print(self.spase_df['AlternateName'][1940])
+        print(self.helio_df['long_name'][1940])"""
     
+# Instantiate class
+comparison = spase_helio_compare()
 
-#spase_helio_compare()
-#longAlternateCompare()
+# Call shortResourceDiff function
+comparison.shortResourceDiff()
