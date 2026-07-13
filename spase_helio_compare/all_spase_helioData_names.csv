@@ -1,4 +1,4 @@
-ResourceName,short_name,AlternateName,long_name
+SPASE_ResourceName,HelioDate_short_name,SPASE_AlternateName,HelioDate_long_name
 Solar Orbiter Spacecraft,SolO,[''],Solar Orbiter
 AeroCube-6 (AC6) CubeSat,AeroCube-6,[''],AeroCube-6 CubeSat
 AeroCube-6A (AC6) CubeSat,AeroCube-6A,[''],AeroCube-6A CubeSat
