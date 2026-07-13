@@ -34,13 +34,13 @@ class spase_helio_compare:
         return(shortRes_df)
 
     """def longAlternateCompare(self):
-        """
-        Compare long_name ('Name' on HelioData) in the yml file against SPASE 
-        AlternateName column of the spreadsheet and show the differences
-        """
+        
+        #Compare long_name ('Name' on HelioData) in the yml file against SPASE 
+        #AlternateName column of the spreadsheet and show the differences
+        
 
-        """#Convert list that is represented as a string into list
-        https://stackoverflow.com/questions/74746796/cannot-understand-why-eval-is-passed-in-as-an-argument-i-e-df-col-name-app"""
+        #Convert list that is represented as a string into list
+        #https://stackoverflow.com/questions/74746796/cannot-understand-why-eval-is-passed-in-as-an-argument-i-e-df-col-name-app
 
         self.spase_df['AlternateName'] = self.spase_df['AlternateName'].apply(eval)
         print(self.spase_df['AlternateName'][1940])
