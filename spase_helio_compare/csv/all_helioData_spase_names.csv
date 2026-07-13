@@ -1,0 +1,1949 @@
+HelioData_short_name,HelioData_long_name,SPASE_AlternateName,SPASE_ResourceName
+SolO,Solar Orbiter Spacecraft,Solar Orbiter,['']
+AeroCube-6,AeroCube-6 (AC6) CubeSat,AeroCube-6 CubeSat,['']
+AeroCube-6A,AeroCube-6A (AC6) CubeSat,AeroCube-6A CubeSat,['']
+AeroCube-6B,AeroCube-6B (AC6) CubeSat,AeroCube-6B CubeSat,['']
+PUNCH,PUNCH Mission,Polarimeter to Unify the Corona and Heliosphere,['']
+PUNCH NFI,PUNCH-NFI,Polarimeter to Unify the Corona and Heliosphere Narrow Field Imager,['']
+PUNCH WFI,PUNCH-WFI,Polarimeter to Unify the Corona and Heliosphere Wide Field Imager,['']
+PUNCH WFI 1,PUNCH-WFI-1,Polarimeter to Unify the Corona and Heliosphere Wide-Field Imager 1,['']
+PUNCH WFI 2,PUNCH-WFI-2,Polarimeter to Unify the Corona and Heliosphere Wide-Field Imager 2,['']
+PUNCH WFI 3,PUNCH-WFI-3,Polarimeter to Unify the Corona and Heliosphere Wide-Field Imager 3,['']
+GOES 18,GOES 18,Geostationary Operational Environmental Satellite 18,"['Geostationary Operational Environmental Satellite 18', '2022-021A', 'GOES T']"
+GOES 19,GOES 19,Geostationary Operational Environmental Satellite 19,"['Geostationary Operational Environmental Satellite 19', '2024-119A', 'GOES U']"
+"GO ABOVE the Geospace Observatory   Array for
+   Broadband Observations of VLF ELF Emissions","GO-ABOVE the Geospace Observatory - Array for
+   Broadband Observations of VLF/ELF Emissions","GO-ABOVE the Geospace Observatory - Array for
+   Broadband Observations of VLF/ELF Emissions",['']
+ACE,ACE,Advanced Composition Explorer,"['Advanced Composition Explorer', '1997-045A', 'Explorer 71']"
+AE,AE Spacecraft,Atmosphere Explorer,['Atmosphere Explorer Spacecraft']
+AE C,AE-C,Atmosphere Explorer-C,"['1973-101A', 'Atmosphere Explorer-C', 'Explorer 51']"
+AE D,AE-D,Atmosphere Explorer-D,"['1975-096A', 'Explorer 54', 'Atmosphere Explorer-D']"
+AE E,AE-E,Atmosphere Explorer-E,"['1975-107A', 'Explorer 55', 'AE 5', 'Atmosphere Explorer-E']"
+Aeolus,Aeolus,Aeolus,['']
+Aeros A,Aeros-A,Aeros-A,"['1972-100A', 'Aeros 1']"
+AIM,AIM,AIM,['']
+AKEBONO,AKEBONO,EXOS-D,['EXOS-D']
+Alouette 1,Alouette 1,Alouette-A,"['1962-049A', 'Alouette-A']"
+Alouette 2,Alouette 2,Alouette-B,"['1965-098A', 'Alouette-B']"
+Advanced Modular Incoherent Scatter Radar (AMISR),Advanced Modular Incoherent Scatter Radar (AMISR),Advanced Modular Incoherent Scatter Radar (AMISR),['']
+Active Magnetosphere and Planetary Electrodynamics Response Experiment,Active Magnetosphere and Planetary Electrodynamics Response Experiment,AMPERE,['AMPERE']
+AMPTE,AMPTE Mission,Active Magnetospheric Particle Tracer Explorers,['']
+AMPTE CCE,AMPTE/CCE,AMPTE/Charge Composition Explorer,"['AMPTE/Charge Composition Explorer', 'CCE', 'Explorer 65']"
+AMPTE IRM,AMPTE/IRM,AMPTE/Ion Release Module,"['AMPTE/Ion Release Module', 'IRM']"
+AMPTE UKS,AMPTE/UKS,AMPTE/United Kingdom Subsatellite,"['AMPTE/United Kingdom Subsatellite', 'UKS']"
+Apollo 12 Lunar Module ALSEP,Apollo 12 Lunar Module/ALSEP,Apollo 12 LM/ALSEP,"['Intrepid', 'Apollo 12 LM/ALSEP', 'Apollo 12C', 'LEM 12', 'LM-6']"
+Apollo 14 Lunar Module   ALSEP,Apollo 14 Lunar Module / ALSEP,Apollo 14 LM/ALSEP,"['Antares', 'Apollo 14 LM/ALSEP', 'Apollo 14C', 'LEM 14', 'LM-8']"
+Apollo 15 Lunar Module ALSEP,Apollo 15 Lunar Module/ALSEP,Apollo 15 LM/ALSEP,"['Apollo 15 LM/ALSEP', 'Apollo 15C', 'LEM 15', 'LM-10', 'Falcon', 'Rover 15']"
+"Exploration of energization and Radiation in Geospace (ERG), now known as Arase","Exploration of energization and Radiation in Geospace (ERG), now known as Arase","Exploration of energization and Radiation in Geospace (ERG), now known as Arase",['']
+ARTEMIS,ARTEMIS,"Acceleration, Reconnection, Turbulence, Electrodynamics of the Moon’s Interaction with the Sun",['']
+BAS A80,BAS A80,BAS A80,['']
+BAS A81,BAS A81,BAS A81,['']
+BAS A84,BAS A84,BAS A84,['']
+Halley Bay,Halley Bay,Halley Bay,['']
+South Pole,South Pole,South Pole,['']
+Aureol,Aureol 3,1981-094A,"['1981-094A', 'Aureole 3', 'ARCAD 3', 'Oreol 3']"
+AUTUMN,AUTUMN,Athabasca University THEMIS UCLA Magnetometer Network,['Athabasca University THEMIS UCLA Magnetometer Network']
+AWESOME,AWESOME,"Atmospheric Weather Electromagnetic System for Observation, Modeling, and Education","['Atmospheric Weather Electromagnetic System for Observation, Modeling, and Education']"
+BARREL,BARREL,Balloon Array for Radiation-belt Relativistic Electron Losses,['']
+BARREL Balloon 1A,BARREL Balloon 1A,BARREL Balloon 1A,['']
+BARREL Balloon 1B,BARREL Balloon 1B,BARREL Balloon 1B,['']
+BARREL Balloon 1C,BARREL Balloon 1C,BARREL Balloon 1C,['']
+BARREL Balloon 1D,BARREL Balloon 1D,BARREL Balloon 1D,['']
+BARREL Balloon 1G,BARREL Balloon 1G,BARREL Balloon 1G,['']
+BARREL Balloon 1H,BARREL Balloon 1H,BARREL Balloon 1H,['']
+BARREL Balloon 1I,BARREL Balloon 1I,BARREL Balloon 1I,['']
+BARREL Balloon 1J,BARREL Balloon 1J,BARREL Balloon 1J,['']
+BARREL Balloon 1K,BARREL Balloon 1K,BARREL Balloon 1K,['']
+BARREL Balloon 1M,BARREL Balloon 1M,BARREL Balloon 1M,['']
+BARREL Balloon 1N,BARREL Balloon 1N,BARREL Balloon 1N,['']
+BARREL Balloon 1O,BARREL Balloon 1O,BARREL Balloon 1O,['']
+BARREL Balloon 1Q,BARREL Balloon 1Q,BARREL Balloon 1Q,['']
+BARREL Balloon 1R,BARREL Balloon 1R,BARREL Balloon 1R,['']
+BARREL Balloon 1S,BARREL Balloon 1S,BARREL Balloon 1S,['']
+BARREL Balloon 1T,BARREL Balloon 1T,BARREL Balloon 1T,['']
+BARREL Balloon 1U,BARREL Balloon 1U,BARREL Balloon 1U,['']
+BARREL Balloon 1V,BARREL Balloon 1V,BARREL Balloon 1V,['']
+BARREL Balloon 2A,BARREL Balloon 2A,BARREL Balloon 2A,['']
+BARREL Balloon 2B,BARREL Balloon 2B,BARREL Balloon 2B,['']
+BARREL Balloon 2C,BARREL Balloon 2C,BARREL Balloon 2C,['']
+BARREL Balloon 2D,BARREL Balloon 2D,BARREL Balloon 2D,['']
+BARREL Balloon 2E,BARREL Balloon 2E,BARREL Balloon 2E,['']
+BARREL Balloon 2F,BARREL Balloon 2F,BARREL Balloon 2F,['']
+BARREL Balloon 2I,BARREL Balloon 2I,BARREL Balloon 2I,['']
+BARREL Balloon 2K,BARREL Balloon 2K,BARREL Balloon 2K,['']
+BARREL Balloon 2L,BARREL Balloon 2L,BARREL Balloon 2L,['']
+BARREL Balloon 2M,BARREL Balloon 2M,BARREL Balloon 2M,['']
+BARREL Balloon 2N,BARREL Balloon 2N,BARREL Balloon 2N,['']
+BARREL Balloon 2O,BARREL Balloon 2O,BARREL Balloon 2O,['']
+BARREL Balloon 2P,BARREL Balloon 2P,BARREL Balloon 2P,['']
+BARREL Balloon 2Q,BARREL Balloon 2Q,BARREL Balloon 2Q,['']
+BARREL Balloon 2T,BARREL Balloon 2T,BARREL Balloon 2T,['']
+BARREL Balloon 2W,BARREL Balloon 2W,BARREL Balloon 2W,['']
+BARREL Balloon 2X,BARREL Balloon 2X,BARREL Balloon 2X,['']
+BARREL Balloon 2Y,BARREL Balloon 2Y,BARREL Balloon 2Y,['']
+BARREL Balloon 3A,BARREL Balloon 3A,BARREL Balloon 3A,['']
+BARREL Balloon 3B,BARREL Balloon 3B,BARREL Balloon 3B,['']
+BARREL Balloon 3C,BARREL Balloon 3C,BARREL Balloon 3C,['']
+BARREL Balloon 3D,BARREL Balloon 3D,BARREL Balloon 3D,['']
+BARREL Balloon 3E,BARREL Balloon 3E,BARREL Balloon 3E,['']
+BARREL Balloon 3F,BARREL Balloon 3F,BARREL Balloon 3F,['']
+BARREL Balloon 3G,BARREL Balloon 3G,BARREL Balloon 3G,['']
+BARREL Balloon 4A,BARREL Balloon 4A,BARREL Balloon 4A,['']
+BARREL Balloon 4B,BARREL Balloon 4B,BARREL Balloon 4B,['']
+BARREL Balloon 4C,BARREL Balloon 4C,BARREL Balloon 4C,['']
+BARREL Balloon 4D,BARREL Balloon 4D,BARREL Balloon 4D,['']
+BARREL Balloon 4E,BARREL Balloon 4E,BARREL Balloon 4E,['']
+BARREL Balloon 4F,BARREL Balloon 4F,BARREL Balloon 4F,['']
+BARREL Balloon 4G,BARREL Balloon 4G,BARREL Balloon 4G,['']
+BARREL Balloon 4H,BARREL Balloon 4H,BARREL Balloon 4H,['']
+BARREL Balloon 5A,BARREL Balloon 5A,BARREL Balloon 5A,['']
+BARREL Balloon 6A,BARREL Balloon 6A,BARREL Balloon 6A,['']
+BARREL Balloon 7A,BARREL Balloon 7A,BARREL Balloon 7A,['']
+British Antarctic Survey,British Antarctic Survey,BAS,['BAS']
+Big Bear Solar Observatory (BBSO),Big Bear Solar Observatory (BBSO),Big Bear Solar Observatory (BBSO),['']
+BepiColombo,BepiColombo Spacecraft,BepiColombo Spacecraft,['']
+CARISMA,CARISMA,Canadian Auroral Network for the OPEN (Origins of Plasmas in Earth’s Neighborhood) Program Unified Study,"['Canadian Array for Realtime Investigations of Magnetic Activity', 'CANOPUS', 'Canadian Auroral Network for the OPEN (Origins of Plasmas in Earth’s Neighborhood) Program Unified Study']"
+Cassini,Cassini,Cassini Orbiter,['Cassini Orbiter']
+CHAMP,CHAMP,CHAMP,['']
+CLIMAX,CLIMAX,CLIMAX,['']
+Cluster,Cluster Mission,Cluster,['Cluster II']
+Cluster FM5 (Rumba),Cluster FM5 (Rumba),Cluster 2/FM5 (Rumba),"['Cluster 2/FM5 (Rumba)', '2000-045A', 'FM5', 'Rumba', 'Cluster-1']"
+Cluster FM6 (Salsa),Cluster FM6 (Salsa),Cluster 2/FM6 (Salsa),"['Cluster 2/FM6 (Salsa)', '2000-041B', 'FM6', 'Salsa', 'Cluster-2']"
+Cluster FM7 (Samba),Cluster FM7 (Samba),Cluster 2/FM7 (Samba),"['Cluster 2/FM7 (Samba)', '2000-041A', 'FM7', 'Samba', 'Cluster-3']"
+Cluster FM8 (Tango),Cluster FM8 (Tango),Cluster 2/FM8 (Tango),"['Cluster 2/FM8 (Tango)', '2000-045B', 'Cluster-4', 'Tango', 'FM8']"
+CNOFS,Communication/Navigation Outage Forecasting System (C/NOFS),Communication/Navigation Outage Forecasting System,['Coupled Ion Neutral Dynamics Investigation (CINDI)']
+CONT,CONT,CONT,['']
+Coriolis,Coriolis,2003-001A,"['2003-001A', '27640']"
+CORONAS-F,CORONAS-F,CORONAS F,"['KORONAS-F', 'AUS-SM-KF']"
+CRRES,CRRES,Combined Release and Radiation Effects Satellite,"['1990-065A', 'Combined Release and Radiation Effects Satellite']"
+CSSWE,CSSWE,Colorado Student Space Weather Experiment,"['Colorado Student Space Weather Experiment, CSSWE, CubeSat']"
+Dawn,Dawn,Dawn,['']
+DAWS,DAWS,DAWS,['']
+DE,Dynamics Explorer Mission,Dynamics Explorer,['DE']
+Daniel K Inouye Solar Telescope (DKIST),Daniel K Inouye Solar Telescope (DKIST),Daniel K Inouye Solar Telescope (DKIST),['']
+Geophysical Institute Magnetometer Array,Geophysical Institute Magnetometer Array,DMI,['DMI']
+DMSP,DMSP Series,Defense Meteorological Satellite Program,['Defense Meteorological Satellite Program']
+DMSP_5D 2,DMSP_5D-2,DMSP_5D-2,['']
+DMSP_5D 2 F08,DMSP_5D-2/F08,DMSP-F8,"['DMSP-F8', 'USA 26', 'WX9543', '18123']"
+DMSP_5D 2 F09,DMSP_5D-2/F09,DMSP-F9,"['DMSP-F9', 'USA 29', '18822']"
+DMSP_5D 2 F10,DMSP_5D-2/F10,DMSP-F10,"['DMSP-F10', 'USA 68', '20978']"
+DMSP_5D 2 F11,DMSP_5D-2/F11,DMSP-F11,"['DMSP-F11', 'USA 73', '21798']"
+DMSP_5D 2 F12,DMSP_5D-2/F12,DMSP-F12,"['DMSP-F12', 'USA 106', '23233']"
+DMSP_5D 2 F13,DMSP_5D-2/F13,DMSP-F13,"['DMSP-F13', 'USA 109', '23533']"
+DMSP_5D 2 F14,DMSP_5D-2/F14,DMSP-F14,"['DMSP-F14', 'USA 131', '24753']"
+"Defense Meteorological Satellite Program, DMSP F15","Defense Meteorological Satellite Program, DMSP-F15",DMSP_5D-3/F15,"['DMSP_5D-3/F15', 'DMSP-F15', 'USA 147', '25991']"
+"Defense Meteorological Satellite Program, DMSP F16","Defense Meteorological Satellite Program, DMSP-F16",DMSP_5D-3/F16,"['DMSP_5D-3/F16', 'DMSP-F16', 'USA 171', '28054']"
+"Defense Meteorological Satellite Program, DMSP F17","Defense Meteorological Satellite Program, DMSP-F17",DMSP_5D-3/F17,"['DMSP_5D-3/F17', 'DMSP-F17', '29522']"
+"Defense Meteorological Satellite Program, DMSP F18","Defense Meteorological Satellite Program, DMSP-F18",DMSP_5D-3/F18,"['DMSP_5D-3/F18', 'DMSP-F18', 'USA 210', '35951']"
+"Defense Meteorological Satellite Program, DMSP F19","Defense Meteorological Satellite Program, DMSP-F19",DMSP_5D-3/F19,"['DMSP_5D-3/F19', 'DMSP-F19', 'USA 249', '39630']"
+"Defense Meteorological Satellite Program, DMSP S20","Defense Meteorological Satellite Program, DMSP-S20",DMSP_5D-3/S20,['DMSP_5D-3/S20']
+Double Star,Double Star Mission,Tan Ce,"['Tan Ce', 'TC']"
+Double Star 1,Double Star 1,2003-061A,"['2003-061A', 'Tan Ce1', 'TC 1', '28140']"
+Double Star 2,Double Star 2,Explorer  2,"['2004-029A', 'Explorer  2', 'Tan Ce 2', 'TC 2']"
+DRAO,DRAO,Dominion Radio Astrophysical Observatory,['Dominion Radio Astrophysical Observatory']
+DSCOVR,"Deep Space Climate Observatory, DSCOVR",Deep Space Climate Observatory,['2015-007A']
+Dunn Solar Telescope (DST),Dunn Solar Telescope (DST),Dunn Solar Telescope (DST),['']
+Dst Index Observatory Group,Dst Index Observatory Group,Observatory Group created to represent the chain of magnetic field stations used to calculate the Dst Index.,['Observatory Group created to represent the chain of magnetic field stations used to calculate the Dst Index.']
+DSX,DSX,Demonstrations and Science Experiment,['Demonstrations and Science Experiment']
+Technical University of Denmark Magnetic Ground Stations,Technical University of Denmark Magnetic Ground Stations,Technical University of Denmark Magnetic Ground Stations,['']
+Dynamics Explorer 1,Dynamics Explorer 1,Dynamics Explorer-A,"['1981-070A', 'Explorer 62', 'DE-A', 'DE 1', 'Dynamics Explorer-A']"
+Dynamics Explorer 2,Dynamics Explorer 2,Dynamics Explorer-B,"['1981-070B', 'Explorer 63', 'DE-B', 'DE 2', 'Dynamics Explorer-B']"
+e CALLISTO International Network of Solar Radio Spectrometers,e-CALLISTO International Network of Solar Radio Spectrometers,e-CALLISTO International Network of Solar Radio Spectrometers,['']
+ELFIN A,"ELFIN A, CubeSat","Electron Losses and Fields Investigation A, CubeSat",['']
+ELFIN B,"ELFIN B, CubeSat","Electron Losses and Fields Investigation B, CubeSat",['']
+Emirates Mars (EMM),Emirates Mars Mission (EMM),Emirates Mars Mission (EMM),['']
+Equator S,Equator-S,ISTP/Equator-S,"['ISTP/Equator-S', '25068']"
+ESKI,ESKI,ESKI,['']
+Evans Solar Facility,Evans Solar Facility,John W. Evans Solar Facility,"['ESF', 'John W. Evans Solar Facility']"
+Explorer Spacecraft Series,Explorer Spacecraft Series,Explorer Spacecraft Series,['']
+Explorer 22,Explorer 22,Beacon Explorer-B,"['1964-064A', 'BE-B', 'Beacon Explorer-B']"
+Explorer 31,Explorer 31,1965-098B,"['1965-098B', 'DME-A', '01806']"
+Explorer 32,Explorer 32,Atmosphere Explorer-B,"['1966-044A', 'AE-B', 'Atmosphere Explorer-B', '02183']"
+Explorer 33,Explorer 33,AIMP A,"['IMP D', 'AIMP A', 'AIMP 1', '02258']"
+Explorer,Explorer 35,Anchored IMP 2,"['IMP E', 'AIMP B', 'AIMP 2', 'Anchored IMP 2', '02884']"
+FAST,FAST,Fast Auroral Snapshot,"['1996-049A', 'Small Explorer/FAST', 'Explorer 70', 'SMEX/FAST', 'Fast Auroral SnapshoT Explorer']"
+Fermi Gamma ray Space Telescope,Fermi Gamma-ray Space Telescope,Fermi Gamma-ray Space Telescope,['']
+MCMU,MCMU,MCMU,['']
+FSIM,FSIM,FSIM,['']
+FSMI,FSMI,FSMI,['']
+Galileo,Galileo,Galileo Orbiter-Probe,"['Galileo Orbiter-Probe', 'Jupiter Orbiter-Probe']"
+Genesis,Genesis,Genesis Solar Wind Sample Return,"['2001-034A', 'Genesis Solar Wind Sample Return']"
+Geotail,Geotail,Geomagnetic Tail Lab,"['1992-044A', 'GTL', 'ISTP/Geotail', 'GGS/Geotail', 'Geomagnetic Tail Lab']"
+GILL,GILL,GILL,['']
+Giotto,Giotto,Giotto,['']
+Gravity Field and Steady State Ocean Circulation Explorer (GOCE),Gravity Field and Steady-State Ocean Circulation Explorer (GOCE),Gravity Field and Steady-State Ocean Circulation Explorer (GOCE),['']
+GOES1,Geostationary Operational Environmental Satellites,Geostationary Operational Environmental Satellites,['GOES Satellite Series']
+GOES 1,GOES 1,Geostationary Operational Environmental Satellites 1,"['Geostationary Operational Environmental Satellites 1', '1975-100A']"
+GOES 10,GOES 10,1997-019A,"['1997-019A', 'GOES-K']"
+GOES 11,GOES 11,2000-022A,"['2000-022A', 'GOES-L', 'GOES-NEXT']"
+GOES 12,GOES 12,2001-031A,"['2001-031A', 'GOES-M']"
+GOES 13,GOES 13,Geostationary Operational Environmental Satellite 13,"['Geostationary Operational Environmental Satellite 13', '2006-018A', 'GOES N']"
+GOES 14,GOES 14,Geostationary Operational Environmental Satellite 14,"['Geostationary Operational Environmental Satellite 14', 'GOES O', '2009-033A']"
+GOES 15,GOES 15,Geostationary Operational Environmental Satellite 15,"['Geostationary Operational Environmental Satellite 15', '2010-008A', 'GOES P']"
+GOES 16,GOES 16,Geostationary Operational Environmental Satellite 16,"['Geostationary Operational Environmental Satellite 16', '2016-071A', 'GOES R']"
+GOES 17,GOES 17,Geostationary Operational Environmental Satellite 17,"['Geostationary Operational Environmental Satellite 17', '2018-022A', 'GOES S']"
+GOES 2,GOES 2,Geostationary Operational Environmental Satellites 2,"['Geostationary Operational Environmental Satellites 2', '1977-048A']"
+GOES 3,GOES 3,Geostationary Operational Environmental Satellites 3,"['Geostationary Operational Environmental Satellites 3', '1978-062A']"
+Geostationary Operational Environmental Satellites,Geostationary Operational Environmental Satellites 4,1980-074A,"['GOES 4', '1980-074A']"
+GOES 5,GOES 5,1981-049A,"['1981-049A', 'GOES-E']"
+GOES 6,GOES 6,1983-041A,"['1983-041A', 'GOES-F']"
+GOES 7,GOES 7,1987-022A,"['1987-022A', 'GOES-H', 'PEACESAT']"
+GOES 8,GOES 8,1994-022A,"['1994-022A', 'GOES-NEXT', 'GOES-I']"
+GOES 9,GOES 9,1995-025A,"['1995-025A', 'GOES-NEXT', 'GOES-J']"
+GOLD,GOLD,Global-scale Observations of the Limb and Disk,"['SES-14', '43175']"
+GONG Observatory Group,GONG Observatory Group,Global Oscillation Network Group,['Global Oscillation Network Group']
+Gravity Recovery and Climate Experiment (GRACE),Gravity Recovery and Climate Experiment (GRACE),Gravity Recovery and Climate Experiment (GRACE),['']
+Granat,Granat,ASTRON 2,['ASTRON 2']
+Abinger,Abinger,Observatory Station Code: ABN,['Observatory Station Code: ABN']
+Abisko,Abisko,Observatory Station Code: ABK,['Observatory Station Code: ABK']
+Addis Ababa,Addis Ababa,Observatory Station Code: AAE,['Observatory Station Code: AAE']
+Agincourt,Agincourt,Observatory Station Code: AGN,['Observatory Station Code: AGN']
+Akulivik Geophysical Observatory,Akulivik Geophysical Observatory,Akulivik Geophysical Observatory,['']
+Alert,Alert,Observatory Station Code: ALE,['Observatory Station Code: ALE']
+Alibag,Alibag,Observatory Station Code: ABG,['Observatory Station Code: ABG']
+Alma Ata,Alma Ata,Observatory Station Code: AAA,['Observatory Station Code: AAA']
+Almeria,Almeria,Observatory Station Code: ALM,['Observatory Station Code: ALM']
+Amatsia,Amatsia,Observatory Station Code: AMT,['Observatory Station Code: AMT']
+Amberley,Amberley,Observatory Station Code: AML,['Observatory Station Code: AML']
+Amderma Geophysical Observatory,Amderma Geophysical Observatory,Amderma Geophysical Observatory,['']
+Americus Geophysical Observatory,Americus Geophysical Observatory,Observatory Station Code: AMER,['Observatory Station Code: AMER']
+Anchorage Geophysical Observatory,Anchorage Geophysical Observatory,Anchorage Geophysical Observatory,['']
+Andenes Geophysical Observatory,Andenes Geophysical Observatory,Andenes Geophysical Observatory,['']
+Annamalainagar,Annamalainagar,Observatory Station Code: ANN,['Observatory Station Code: ANN']
+Antananarivo,Antananarivo,Observatory Station Code: TAN,['Observatory Station Code: TAN']
+Apia,Apia,Observatory Station Code: API,['Observatory Station Code: API']
+Arctic Village Geophysical Observatory,Arctic Village Geophysical Observatory,Observatory Station Code: ARCT,['Observatory Station Code: ARCT']
+Arctowski,Arctowski,Observatory Station Code: ARC,['Observatory Station Code: ARC']
+Arequipa,Arequipa,Observatory Station Code: ARE,['Observatory Station Code: ARE']
+Arkhangelsk,Arkhangelsk,Observatory Station Code: ARK,['Observatory Station Code: ARK']
+Arti,Arti,Observatory Station Code: ARS,['Observatory Station Code: ARS']
+Ascension Island,Ascension Island,Observatory Station Code: ASC,['Observatory Station Code: ASC']
+Ashkhabad,Ashkhabad,Observatory Station Code: ASH,"['Vannovskaya', 'Observatory Station Code: ASH']"
+Aso,Aso,Observatory Station Code: ASO,['Observatory Station Code: ASO']
+Athabasca Geophysical Observatory,Athabasca Geophysical Observatory,Athabasca Geophysical Observatory,['']
+Attu Geophysical Observatory,Attu Geophysical Observatory,Attu Geophysical Observatory,['']
+Augsburg Searchcoil Observatory Group,Augsburg Searchcoil Observatory Group,Augsburg College Search Coil Ground Observatory Group,['Augsburg College Search Coil Ground Observatory Group']
+AUTUMN,AUTUMN,Athabasca University THEMIS UCLA Magnetometer Network,['Athabasca University THEMIS UCLA Magnetometer Network']
+Baguio,Baguio,Observatory Station Code: BAG,['Observatory Station Code: BAG']
+Baker Lake Geophysical Observatory,Baker Lake Geophysical Observatory,Baker Lake Geophysical Observatory,['']
+Bangui,Bangui,Observatory Station Code: BNG,['Observatory Station Code: BNG']
+Bar Gyora,Bar Gyora,Observatory Station Code: BGY,['Observatory Station Code: BGY']
+Baranov Geophysical Observatory,Baranov Geophysical Observatory,Baranov Geophysical Observatory,['']
+Barentsburg Geophysical Observatory,Barentsburg Geophysical Observatory,Barentsburg Geophysical Observatory,['']
+Barrow Geophysical Observatory,Barrow Geophysical Observatory,Barrow Geophysical Observatory,['']
+British Antarctic Survey,British Antarctic Survey,BAS,['BAS']
+BMLS,Bay Mills Geophysical Observatory,Observatory Station Code: BMLS,['Observatory Station Code: BMLS']
+Big Bear Solar Observatory,Big Bear Solar Observatory,BBSO,['BBSO']
+BCMT,BCMT,Bureau Central De Magnetisme Terrestre France,"['French National Magnetic Observatory', 'Bureau Central De Magnetisme Terrestre France']"
+Bear Island,Bear Island,Observatory Station Code: BJN,"['Observatory Station Code: BJN', 'Bjørnøya']"
+Beijing,Beijing,Observatory Station Code: BJI,['Observatory Station Code: BJI']
+Beijing Ming Tombs,Beijing Ming Tombs,Observatory Station Code: BMT,['Observatory Station Code: BMT']
+Beloit,Beloit,Observatory Station Code: BLT,['Observatory Station Code: BLT']
+Belsk,Belsk,Observatory Station Code: BEL,['Observatory Station Code: BEL']
+BENN,Bennington Geophysical Observatory,Bennington Geophysical Observatory,['']
+Bereznyaki,Bereznyaki,Observatory Station Code: KGD,['Observatory Station Code: KGD']
+BETT,Bettles Geophysical Observatory,Bettles Geophysical Observatory,['']
+BGS,BGS,British Geological Survey,['British Geological Survey']
+Big Delta,Big Delta,Observatory Station Code: BDE,['Observatory Station Code: BDE']
+Bjorn,Bjorn,Observatory Station Code: BJN,['Observatory Station Code: BJN']
+Bjornoya Geophysical Observatory,Bjornoya Geophysical Observatory,Bjornoya Geophysical Observatory,['']
+Black Forest,Black Forest,Observatory Station Code: BFO,['Observatory Station Code: BFO']
+Borok,Borok,Observatory Station Code: BOX,['Observatory Station Code: BOX']
+Boulder Geophysical Observatory,Boulder Geophysical Observatory,Boulder Geophysical Observatory,['']
+Brorfelde Geophysical Observatory,Brorfelde Geophysical Observatory,Brorfelde Geophysical Observatory,['']
+Budkov,Budkov,Observatory Station Code: BDV,['Observatory Station Code: BDV']
+Burlington,Burlington,Observatory Station Code: BRT,['Observatory Station Code: BRT']
+Byrd Station 2,Byrd Station 2,Observatory Station Code: BYR,['Observatory Station Code: BYR']
+Cambridge Bay Geophysical Observatory,Cambridge Bay Geophysical Observatory,Cambridge Bay Geophysical Observatory,['']
+CANMOS,CANadian Magnetic Observatory System,CANMOS,['CANMOS']
+CANOPUS,CANOPUS,Canadian Auroral Network for the OPEN (Origins of Plasmas in Earth°s Neighborhood) Program Unified Study,"['Canadian Auroral Network for the OPEN (Origins of Plasmas in Earth°s Neighborhood) Program Unified Study', 'CARISMA', 'Canadian Array for Realtime Investigations of Magnetic Activity']"
+Cape Chelyuskin,Cape Chelyuskin,Observatory Station Code: CCS,['Observatory Station Code: CCS']
+CDRT,Cape Dorset Geophysical Observatory,Cape Dorset Geophysical Observatory,['']
+Cape Town,Cape Town,Observatory Station Code: CTO,['Observatory Station Code: CTO']
+Cape Wellen,Cape Wellen,Observatory Station Code: CWE,"['Uelen', 'Observatory Station Code: CWE']"
+CARISMA,CARISMA,Canadian Auroral Network for the OPEN (Origins of Plasmas in Earth°s Neighborhood) Program Unified Study,"['Canadian Array for Realtime Investigations of Magnetic Activity', 'CANOPUS', 'Canadian Auroral Network for the OPEN (Origins of Plasmas in Earth°s Neighborhood) Program Unified Study']"
+Carrollton,Carrollton,Observatory Station Code: CAX,['Observatory Station Code: CAX']
+CCNV,Carson City Geophysical Observatory,Carson City Geophysical Observatory,['']
+Castellaccio,Castellaccio,Observatory Station Code: CAO,['Observatory Station Code: CAO']
+Centro Geofisico,Centro Geofisico,Observatory Station Code: HVN,['Observatory Station Code: HVN']
+Cha Pa,Cha Pa,Observatory Station Code: CPA,"['Sapa', 'Observatory Station Code: CPA']"
+Chambon la Foret,Chambon-la-Foret,Observatory Station Code: CLF,['Observatory Station Code: CLF']
+Changchun,Changchun,Observatory Station Code: CNH,"['Helong', 'Observatory Station Code: CNH']"
+Charcot,Charcot,Observatory Station Code: CTX,['Observatory Station Code: CTX']
+Charters Towers,Charters Towers,Observatory Station Code: CTA,['Observatory Station Code: CTA']
+Cheltenham,Cheltenham,Observatory Station Code: CLH,['Observatory Station Code: CLH']
+Chengdu,Chengdu,Observatory Station Code: CDP,['Observatory Station Code: CDP']
+CHBG,Chibougamau Geophysical Observatory,Chibougamau Geophysical Observatory,['']
+Chibougaou,Chibougaou,Observatory Station Code: CHBG,['Observatory Station Code: CHBG']
+Chichijima,Chichijima,Observatory Station Code: CBI,['Observatory Station Code: CBI']
+CRVR,Clyde River Geophysical Observatory,Clyde River Geophysical Observatory,['']
+Coimbra,Coimbra,Observatory Station Code: COI,['Observatory Station Code: COI']
+College Geophysical Observatory,College Geophysical Observatory,College Geophysical Observatory,['']
+Colville National Forest Geophysical Observatory,Colville National Forest Geophysical Observatory,Colville National Forest Geophysical Observatory,['']
+CHBR,Coral Harbour Geophysical Observatory,Observatory Station Code: CHBR,['Observatory Station Code: CHBR']
+CTIO,CTIO,CTIO,['']
+Dallas,Dallas,Observatory Station Code: DAL,['Observatory Station Code: DAL']
+DNB,Daneborg Geophysical Observatory,Daneborg Geophysical Observatory,['']
+DMH,Danmarkshavn Geophysical Observatory,Danmarkshavn Geophysical Observatory,['']
+Davao,Davao,Observatory Station Code: DAV,['Observatory Station Code: DAV']
+De Bilt,De Bilt,Observatory Station Code: DBN,['Observatory Station Code: DBN']
+DED,Dead Horse Geophysical Observatory,Dead Horse Geophysical Observatory,['']
+GUA,Dededo Geophysical Observatory,Dededo Geophysical Observatory,['']
+Del Rio,Del Rio,Observatory Station Code: DLR,['Observatory Station Code: DLR']
+DRBY,Derby Geophysical Observatory,Derby Geophysical Observatory,['']
+Dikson Geophysical Observatory,Dikson Geophysical Observatory,Dikson Geophysical Observatory,['']
+Dombas Geophysical Observatory,Dombas Geophysical Observatory,Dombas Geophysical Observatory,['']
+Dome Concordia,Dome Concordia,Observatory Station Code: DMC,['Observatory Station Code: DMC']
+Donna Geophysical Observatory,Donna Geophysical Observatory,Donna Geophysical Observatory,['']
+Dourbes,Dourbes,Observatory Station Code: DOU,['Observatory Station Code: DOU']
+Technical University of Danmark,Technical University of Danmark,DTU,['DTU']
+Dumont d'Urville,Dumont d'Urville,Observatory Station Code: DRV,['Observatory Station Code: DRV']
+Dusheti,Dusheti,Observatory Station Code: TFS,"['Tblisi', 'Observatory Station Code: TFS']"
+Dymer,Dymer,Observatory Station Code: KIV,['Observatory Station Code: KIV']
+EAGL,Eagle Geophysical Observatory,Eagle Geophysical Observatory,['']
+Easter Island,Easter Island,Observatory Station Code: EIC,['Observatory Station Code: EIC']
+Ebro,Ebro,Observatory Station Code: EBR,['Observatory Station Code: EBR']
+Eights,Eights,Observatory Station Code: EGS,['Observatory Station Code: EGS']
+Eilat,Eilat,Observatory Station Code: ELT,['Observatory Station Code: ELT']
+Ekaterinburg,Ekaterinburg,Observatory Station Code: EKT,['Observatory Station Code: EKT']
+EKAT,Ekati Geophysical Observatory,Observatory Station Code: EKAT,['Observatory Station Code: EKAT']
+Esashi,Esashi,Observatory Station Code: ESA,['Observatory Station Code: ESA']
+Eskdalemuir,Eskdalemuir,Observatory Station Code: ESK,['Observatory Station Code: ESK']
+Etaiyapuram,Etaiyapuram,Observatory Station Code: ETT,['Observatory Station Code: ETT']
+Eyrewell,Eyrewell,Observatory Station Code: EYR,['Observatory Station Code: EYR']
+Fanning,Fanning,Observatory Station Code: FAN,['Observatory Station Code: FAN']
+Faraday Islands,Faraday Islands,Observatory Station Code: AIA,"['Argentine Island', 'Observatory Station Code: AIA']"
+Flin Flon Geophysical Observatory,Flin Flon Geophysical Observatory,Flin Flon Vector Magnetic Field 0.5 s Data Geophysical Observatory,"['Flin Flon Vector Magnetic Field 0.5 s Data Geophysical Observatory', 'Observatory Station Code: TPAS', 'The Pas']"
+Fort Churchill Geophysical Observatory,Fort Churchill Geophysical Observatory,Observatory Station Code: FCC,['Observatory Station Code: FCC']
+Fort Churchill Geophysical Observatory,Fort Churchill Geophysical Observatory,Observatory Station Code: FCHU,['Observatory Station Code: FCHU']
+FTN,Fort Nelson Geophysical Observatory,Observatory Station Code: FTN,['Observatory Station Code: FTN']
+Fort Rae,Fort Rae 2,Observatory Station Code: FRA,['Observatory Station Code: FRA']
+Fort Simpson Geophysical Observatory,Fort Simpson Geophysical Observatory,Observatory Station Code: FSIM,['Observatory Station Code: FSIM']
+Fort Smith Geophysical Observatory,Fort Smith Geophysical Observatory,Observatory Station Code: FSMI,['Observatory Station Code: FSMI']
+FSJ,Fort St. John Geophysical Observatory,Observatory Station Code: FSJ,['Observatory Station Code: FSJ']
+FYTS,Fort Yates Geophysical Observatory,Observatory Station Code: FYTS,['Observatory Station Code: FYTS']
+Fort Yukon Geophysical Observatory,Fort Yukon Geophysical Observatory,Observatory Station Code: FYKN,['Observatory Station Code: FYKN']
+Fredericksburg Geophysical Observatory,Fredericksburg Geophysical Observatory,Observatory Station Code: FRD,['Observatory Station Code: FRD']
+Freetown,Freetown 2,Observatory Station Code: FTN,['Observatory Station Code: FTN']
+Fresno Geophysical Observatory,Fresno Geophysical Observatory,Observatory Station Code: FRN,['Observatory Station Code: FRN']
+Fuquene,Fuquene,Observatory Station Code: FUQ,['Observatory Station Code: FUQ']
+Furstenfeldbruck,Furstenfeldbruck,Observatory Station Code: FUR,['Observatory Station Code: FUR']
+Geoscience Australia,Geoscience Australia,GA,['GA']
+Gakona Geophysical Observatory,Gakona Geophysical Observatory,Observatory Station Code: GAKO,['Observatory Station Code: GAKO']
+Geomagnetic Data Center Russia Ukraine,Geomagnetic Data Center Russia Ukraine,GCRAS,['GCRAS']
+GeoForschungsZentrum,GeoForschungsZentrum ,German Research Centre for Geosciences,"['German Research Centre for Geosciences', 'GFZ']"
+Gillam Geophysical Observatory,Gillam Geophysical Observatory,Observatory Station Code: GILL,['Observatory Station Code: GILL']
+GIMA,Geophysical Institute Magnetometer Array,GIMA,['GIMA']
+GJOA,Gjoa Haven Geophysical Observatory,Observatory Station Code: GJOA,['Observatory Station Code: GJOA']
+Glenlea,Glenlea,Observatory Station Code: GLN,['Observatory Station Code: GLN']
+GLYN,Glyndon Geophysical Observatory,Observatory Station Code: GLYN,['Observatory Station Code: GLYN']
+GMAG,THEMIS-Associated Ground Magnetometer Stations,THEMIS-Associated Ground Magnetometer Stations,['']
+Gnangara,Gnangara,Observatory Station Code: GNA,['Observatory Station Code: GNA']
+Golmud,Golmud,Observatory Station Code: GLM,['Observatory Station Code: GLM']
+GBAY,Goose Bay Geophysical Observatory,Observatory Station Code: GBAY,['Observatory Station Code: GBAY']
+Gornotayezhnaya,Gornotayezhnaya,Observatory Station Code: VLA,['Observatory Station Code: VLA']
+Grahamstown,Grahamstown,Observatory Station Code: GRM,['Observatory Station Code: GRM']
+Great Whale River,Great Whale River,Observatory Station Code: GWC,['Observatory Station Code: GWC']
+Grocka,Grocka,Observatory Station Code: GCK,['Observatory Station Code: GCK']
+Guam,Guam,Observatory Station Code: GUA,['Observatory Station Code: GUA']
+Guangzhou,Guangzhou,Observatory Station Code: GZH,['Observatory Station Code: GZH']
+Guimar,Guimar,Observatory Station Code: GUI,['Observatory Station Code: GUI']
+Halley Bay,Halley Bay,Observatory Station Code: HBA,['Observatory Station Code: HBA']
+Hankasalmi Geophysical Observatory,Hankasalmi Geophysical Observatory,Hankasalmi Geophysical Observatory,['']
+HRIS,Harris Geophysical Observatory,Observatory Station Code: HRIS,['Observatory Station Code: HRIS']
+Hartebeesthoek,Hartebeesthoek,Observatory Station Code: HBK,['Observatory Station Code: HBK']
+Hartland,Hartland,Observatory Station Code: HAD,['Observatory Station Code: HAD']
+Hatizyo,Hatizyo,Observatory Station Code: HTY,['Observatory Station Code: HTY']
+Heiss Island,Heiss Island,Observatory Station Code: HIS,['Observatory Station Code: HIS']
+Hel,Hel,Observatory Station Code: HLP,['Observatory Station Code: HLP']
+Helwan,Helwan,Observatory Station Code: HLW,['Observatory Station Code: HLW']
+Hermanus,Hermanus,Observatory Station Code: HER,['Observatory Station Code: HER']
+Hollandia,Hollandia,Observatory Station Code: HNA,['Observatory Station Code: HNA']
+Homer Geophysical Observatory,Homer Geophysical Observatory,Observatory Station Code: HOMR,['Observatory Station Code: HOMR']
+Honolulu Geophysical Observatory,Honolulu Geophysical Observatory,Observatory Station Code: HON,['Observatory Station Code: HON']
+Hopen Geophysical Observatory,Hopen Geophysical Observatory,Observatory Station Code: HOP,['Observatory Station Code: HOP']
+Hornepayne Geophysical Observatory,Hornepayne Geophysical Observatory,Observatory Station Code: HRP,['Observatory Station Code: HRP']
+Hornsund,Hornsund,Observatory Station Code: HRN,['Observatory Station Code: HRN']
+Hot Springs Geophysical Observatory,Hot Springs Geophysical Observatory,Observatory Station Code: HOTS,['Observatory Station Code: HOTS']
+Hov Faroe Islands Geophysical Observatory,Hov Faroe Islands Geophysical Observatory,Hov Faroe Islands Geophysical Observatory,['']
+Huancayo,Huancayo,Observatory Station Code: HUA,['Observatory Station Code: HUA']
+Hurbanovo,Hurbanovo,Observatory Station Code: HRB,['Observatory Station Code: HRB']
+Hyderabad,Hyderabad,Observatory Station Code: HYB,['Observatory Station Code: HYB']
+Ibadan,Ibadan,Observatory Station Code: IBD,['Observatory Station Code: IBD']
+IGLO,Igloolik Geophysical Observatory,Observatory Station Code: IGLO,['Observatory Station Code: IGLO']
+Indian Institute of Geomagnetism,Indian Institute of Geomagnetism,IIG,['IIG']
+International Monitor for Auroral Geomagnetic Effects,International Monitor for Auroral Geomagnetic Effects,IMAGE,['IMAGE']
+INTERMAGNET,INTERMAGNET,International Real-time Magnetic Observatory Network,['International Real-time Magnetic Observatory Network']
+INUK,Inukjuak Geophysical Observatory,Observatory Station Code: INUK,['Observatory Station Code: INUK']
+Inuvik Geophysical Observatory,Inuvik Geophysical Observatory,Observatory Station Code: INUV,['Observatory Station Code: INUV']
+Iqaluit Geophysical Observatory,Iqaluit Geophysical Observatory,Observatory Station Code: IQA,['Observatory Station Code: IQA']
+Istanbul Kandilli,Istanbul-Kandilli,Observatory Station Code: ISK,['Observatory Station Code: ISK']
+SCO,Ittoqqortoormiit Geophysical Observatory,Observatory Station Code: SCO,['Observatory Station Code: SCO']
+Ivalo Geophysical Observatory,Ivalo Geophysical Observatory,Observatory Station Code: IVA,['Observatory Station Code: IVA']
+Iznik,Iznik,Observatory Station Code: IZN,['Observatory Station Code: IZN']
+JCK,Jackvik Geophysical Observatory,Observatory Station Code: JCK,['Observatory Station Code: JCK']
+Jaipur,Jaipur,Observatory Station Code: JAI,['Observatory Station Code: JAI']
+Jan Mayen Geophysical Observatory,Jan Mayen Geophysical Observatory,Observatory Station Code: JAN,['Observatory Station Code: JAN']
+Jarvis Island,Jarvis Island,Observatory Station Code: JRV,['Observatory Station Code: JRV']
+Jim Carrigan Observatory,Jim Carrigan Observatory,Observatory Station Code: JCO,['Observatory Station Code: JCO']
+Kakadu,Kakadu,Observatory Station Code: KDU,['Observatory Station Code: KDU']
+Kakioka,Kakioka,Observatory Station Code: KAK,['Observatory Station Code: KAK']
+KAKO,Kaktovik Geophysical Observatory,Observatory Station Code: KAKO,['Observatory Station Code: KAKO']
+STF,Kangerlussuaq Geophysical Observatory,Observatory Station Code: STF,['Observatory Station Code: STF']
+Kanoya,Kanoya,Observatory Station Code: KNY,['Observatory Station Code: KNY']
+Kanozan,Kanozan,Observatory Station Code: KNZ,['Observatory Station Code: KNZ']
+KAPU,Kapuskasing Geophysical Observatory,Observatory Station Code: KAPU,['Observatory Station Code: KAPU']
+Karachi,Karachi,Observatory Station Code: KRC,['Observatory Station Code: KRC']
+KAR,Karmoy Geophysical Observatory,Karmoy Geophysical Observatory,['']
+Kashi,Kashi,Observatory Station Code: KSH,['Observatory Station Code: KSH']
+Keetmanshoop,Keetmanshoop,Observatory Station Code: KMH,['Observatory Station Code: KMH']
+KENA,Kenai Geophysical Observatory,Observatory Station Code: KENA,['Observatory Station Code: KENA']
+KEV,Kevo Geophysical Observatory,Observatory Station Code: KEV,['Observatory Station Code: KEV']
+KIAN,Kiana Geophysical Observatory,Observatory Station Code: KIAN,['Observatory Station Code: KIAN']
+KIL,Kilpisjarvi Geophysical Observatory,Observatory Station Code: KIL,['Observatory Station Code: KIL']
+Kiruna,Kiruna,Observatory Station Code: KIR,['Observatory Station Code: KIR']
+Kodaikanal,Kodaikanal,Observatory Station Code: KOD,['Observatory Station Code: KOD']
+KODK,Kodiak Geophysical Observatory,Observatory Station Code: KODK,['Observatory Station Code: KODK']
+Koror,Koror,Observatory Station Code: KOR,['Observatory Station Code: KOR']
+Kourou,Kourou,Observatory Station Code: KOU,['Observatory Station Code: KOU']
+Krasnaya Pakhra,Krasnaya Pakhra,Observatory Station Code: MOS,"['Moscow', 'Observatory Station Code: MOS']"
+KUV,Kullorsuaq Geophysical Observatory,Observatory Station Code: KUV,['Observatory Station Code: KUV']
+KUUJ,Kuujjuaq Geophysical Observatory,Observatory Station Code: KUUJ,['Observatory Station Code: KUUJ']
+KJPK,Kuujjuarapik Geophysical Observatory,Observatory Station Code: KJPK,['Observatory Station Code: KJPK']
+L'Aquila,L'Aquila,Observatory Station Code: AQU,['Observatory Station Code: AQU']
+La Paz,La Paz,Observatory Station Code: LPB,['Observatory Station Code: LPB']
+La Quiaca,La Quiaca,Observatory Station Code: LQA,['Observatory Station Code: LQA']
+LRG,La Ronge Geophysical Observatory,Observatory Station Code: LRG,['Observatory Station Code: LRG']
+Lanzhou,Lanzhou,Observatory Station Code: LZH,['Observatory Station Code: LZH']
+Las Mesas,Las Mesas,Observatory Station Code: TEN,"['Tenerife', 'Observatory Station Code: TEN']"
+LREL,Laurel Geophysical Observatory,Observatory Station Code: LREL,['Observatory Station Code: LREL']
+Leadville,Leadville,Observatory Station Code: LDV,['Observatory Station Code: LDV']
+Learmonth,Learmonth,Learmonth,['']
+Leirvogur Geophysical Observatory,Leirvogur Geophysical Observatory,Leirvogur Geophysical Observatory,['']
+Leningradskaya,Leningradskaya,Observatory Station Code: LEN,['Observatory Station Code: LEN']
+Lerwick,Lerwick,Observatory Station Code: LER,['Observatory Station Code: LER']
+LETH,Lethbridge Geophysical Observatory,Observatory Station Code: LETH,['Observatory Station Code: LETH']
+LRES,Linares Geophysical Observatory,Observatory Station Code: LRES,['Observatory Station Code: LRES']
+Little America,Little America,Observatory Station Code: LAA,['Observatory Station Code: LAA']
+Livingston Island,Livingston Island,Observatory Station Code: LIV,['Observatory Station Code: LIV']
+Logrono,Logrono,Observatory Station Code: LGR,['Observatory Station Code: LGR']
+LYR,Longyearbyen Geophysical Observatory,Observatory Station Code: LYR,['Observatory Station Code: LYR']
+Loparskaya,Loparskaya,Observatory Station Code: MMK,['Observatory Station Code: MMK']
+Lovo,Lovo,Observatory Station Code: LOV,['Observatory Station Code: LOV']
+Lovozero Geophysical Observatory,Lovozero Geophysical Observatory,Observatory Station Code: LOZ,['Observatory Station Code: LOZ']
+LOYS,Loysburg Geophysical Observatory,Observatory Station Code: LOYS,['Observatory Station Code: LOYS']
+Luanda Belas,Luanda Belas,Observatory Station Code: LUA,['Observatory Station Code: LUA']
+Lucky Lake Geophysical Observatory,Lucky Lake Geophysical Observatory,Observatory Station Code: LCL,['Observatory Station Code: LCL']
+Lunping,Lunping,Observatory Station Code: LNP,['Observatory Station Code: LNP']
+Lvov,Lvov,Observatory Station Code: LVV,['Observatory Station Code: LVV']
+Lwiro,Lwiro,Observatory Station Code: LWI,['Observatory Station Code: LWI']
+Lycksele,Lycksele,Observatory Station Code: LYC,['Observatory Station Code: LYC']
+LYFD,Lyford Geophysical Observatory,Observatory Station Code: LYFD,['Observatory Station Code: LYFD']
+MACCS,Magnetometer Array for Cusp and Cleft Studies,MACCS,['MACCS']
+Manhay,Manhay,Observatory Station Code: MAB,['Observatory Station Code: MAB']
+SKT,Maniitsoq Geophysical Observatory,Observatory Station Code: SKT,['Observatory Station Code: SKT']
+Manzhouli,Manzhouli,Observatory Station Code: MZL,['Observatory Station Code: MZL']
+Maputo,Maputo,Observatory Station Code: LMM,['Observatory Station Code: LMM']
+Marion Island,Marion Island,Observatory Station Code: MRN,['Observatory Station Code: MRN']
+Martin de Vivies,Martin de Vivies,Observatory Station Code: AMS,['Observatory Station Code: AMS']
+MAS,Masi Geophysical Observatory,Observatory Station Code: MAS,['Observatory Station Code: MAS']
+MLSO,MLSO,Mauna Loa Solar Observatory,['Mauna Loa Solar Observatory']
+MBour,MBour,Observatory Station Code: MBO,['Observatory Station Code: MBO']
+MCGR,McGrath Geophysical Observatory,Observatory Station Code: MCGR,['Observatory Station Code: MCGR']
+McMAC,"Mid-continent Magnetoseismic Chain, McMAC, Observatory Chain","Mid-continent Magnetoseismic Chain, McMAC, Observatory Chain",['']
+Meanook Geophysical Observatory,Meanook Geophysical Observatory,Observatory Station Code: MEA,['Observatory Station Code: MEA']
+MEK,Mekrijarvi Geophysical Observatory,Observatory Station Code: MEK,['Observatory Station Code: MEK']
+Memambetsu,Memambetsu,Observatory Station Code: MMB,['Observatory Station Code: MMB']
+Midway,Midway,Observatory Station Code: MID,['Observatory Station Code: MID']
+Mirny,Mirny,Observatory Station Code: MIR,['Observatory Station Code: MIR']
+Misallat,Misallat,Observatory Station Code: MLT,['Observatory Station Code: MLT']
+Mizusawa,Mizusawa,Observatory Station Code: MIZ,['Observatory Station Code: MIZ']
+Moca,Moca,Observatory Station Code: MFP,['Observatory Station Code: MFP']
+Molodezhnaya,Molodezhnaya,Observatory Station Code: MOL,['Observatory Station Code: MOL']
+Monte Capellino,Monte Capellino,Observatory Station Code: MCP,['Observatory Station Code: MCP']
+Mould Bay,Mould Bay,Observatory Station Code: MBC,['Observatory Station Code: MBC']
+Muntinlupa,Muntinlupa,Observatory Station Code: MUT,['Observatory Station Code: MUT']
+MUO,Muono Geophysical Observatory,Observatory Station Code: Muo,['Observatory Station Code: Muo']
+Murchison Bay,Murchison Bay,Observatory Station Code: MUB,['Observatory Station Code: MUB']
+Near Conjugate Northern Auroral Electrojet Index,Near Conjugate Northern Auroral Electrojet Index,Near Conjugate Northern Auroral Electrojet Index,['']
+Nagpur,Nagpur,Observatory Station Code: NGP,['Observatory Station Code: NGP']
+Nagycenk,Nagycenk,Observatory Station Code: NCK,['Observatory Station Code: NCK']
+Nain Geophysical Observatory,Nain Geophysical Observatory,Observatory Station Code: NAIN,['Observatory Station Code: NAIN']
+Nairobi,Nairobi,Observatory Station Code: NAI,['Observatory Station Code: NAI']
+Nampula,Nampula,Observatory Station Code: NMP,['Observatory Station Code: NMP']
+NRSQ,Narsarsuaq Geophysical Observatory,Observatory Station Code: NRSQ,['Observatory Station Code: NRSQ']
+BSL,NASA Stennis Space Center Geophysical Observatory,Observatory Station Code: BSL,['Observatory Station Code: BSL']
+Neumayer Station III,Neumayer Station III,Observatory Station Code: VNA,['Observatory Station Code: VNA']
+Newport,Newport,Observatory Station Code: NEW,['Observatory Station Code: NEW']
+Niemegk,Niemegk,Observatory Station Code: NGK,['Observatory Station Code: NGK']
+Nord Geophysical Observatory,Nord Geophysical Observatory,Observatory Station Code: NRD,['Observatory Station Code: NRD']
+NOR,Nordkapp Geophysical Observatory,Observatory Station Code: NOR,['Observatory Station Code: NOR']
+Norway Station,Norway Station,Observatory Station Code: NWS,['Observatory Station Code: NWS']
+Novokazalinsk,Novokazalinsk,Observatory Station Code: NKK,['Observatory Station Code: NKK']
+Novolazarevskaya,Novolazarevskaya,Observatory Station Code: NVL,['Observatory Station Code: NVL']
+Novosibirsk,Novosibirsk,Observatory Station Code: NVS,"['Klyuchi', 'Observatory Station Code: NVS']"
+Nurmijarvi Geophysical Observatory,Nurmijarvi Geophysical Observatory,Observatory Station Code: NUR,['Observatory Station Code: NUR']
+GHB,Nuuk Geophysical Observatory,Godthap Vector Magnetic Field 1.0 min Data Geophysical Observatory,"['Godthap Vector Magnetic Field 1.0 min Data Geophysical Observatory', 'Observatory Station Code: GHB']"
+Ny Alesund Geophysical Observatory,Ny Alesund Geophysical Observatory,Observatory Station Code: NAL,['Observatory Station Code: NAL']
+NAL,Nyalesund,Observatory Station Code: NAL,['Observatory Station Code: NAL']
+Oasis,Oasis,Observatory Station Code: OAS,['Observatory Station Code: OAS']
+Ottawa Geophysical Observatory,Ottawa Geophysical Observatory,Observatory Station Code: OTT,['Observatory Station Code: OTT']
+Oulujarvi Geophysical Observatory,Oulujarvi Geophysical Observatory,Observatory Station Code: OUJ,['Observatory Station Code: OUJ']
+FHB,Paamiut Geophysical Observatory,Frederikshap Vector Magnetic Field 1.0 min Data Geophysical Observatory,"['Observatory Station Code: FHB', 'Frederikshap Vector Magnetic Field 1.0 min Data Geophysical Observatory']"
+Pamatai,Pamatai,Observatory Station Code: PPT,"['Papeete', 'Observatory Station Code: PPT']"
+Panagjurishte,Panagjurishte,Observatory Station Code: PAG,['Observatory Station Code: PAG']
+PANG,Pangnirtung Geophysical Observatory,Observatory Station Code: PANG,['Observatory Station Code: PANG']
+Paramaribo,Paramaribo,Observatory Station Code: PAB,['Observatory Station Code: PAB']
+Paratunka,Paratunka,Observatory Station Code: PET,"['Petropavlovsk', 'Observatory Station Code: PET']"
+Parc St Maur,Parc St Maur,Observatory Station Code: PSM,['Observatory Station Code: PSM']
+PKS,Park Site Geophysical Observatory,Observatory Station Code: PKS,['Observatory Station Code: PKS']
+Patrony,Patrony,Observatory Station Code: IRT,['Observatory Station Code: IRT']
+Pedeli,Pedeli,Observatory Station Code: PEG,"['Penteli', 'Observatory Station Code: PEG']"
+PEL,Pello Geophysical Observatory,Observatory Station Code: PEL,['Observatory Station Code: PEL']
+Pelly Bay Geophysical Observatory,Pelly Bay Geophysical Observatory,Observatory Station Code: PEB,['Observatory Station Code: PEB']
+PENGUIn,PENGUIn,Polar Experimental Network for Geospace Upper atmosphere Investigations,['Polar Experimental Network for Geospace Upper atmosphere Investigations']
+PG0,PENGUIn-0 Geophysical Observatory,Observatory Station Code: PG0,['Observatory Station Code: PG0']
+PG1,PENGUIn-1 Geophysical Observatory,Observatory Station Code: PG1,['Observatory Station Code: PG1']
+PG2,PENGUIn-2 Geophysical Observatory,Observatory Station Code: PG2,['Observatory Station Code: PG2']
+PG3,PENGUIn-3 Geophysical Observatory,Observatory Station Code: PG3,['Observatory Station Code: PG3']
+PG4,PENGUIn-4 Geophysical Observatory,Observatory Station Code: PG4,['Observatory Station Code: PG4']
+PG5,PENGUIn-5 Geophysical Observatory,Observatory Station Code: PG5,['Observatory Station Code: PG5']
+PTRS,Petersburg Geophysical Observatory,Observatory Station Code: PTRS,['Observatory Station Code: PTRS']
+PBK,Pevek Geophysical Observatory,Observatory Station Code: PBK,['Observatory Station Code: PBK']
+Phuthuy,Phuthuy,Observatory Station Code: PHU,['Observatory Station Code: PHU']
+Pilar,Pilar,Observatory Station Code: PIL,['Observatory Station Code: PIL']
+PINA,Pinawa Geophysical Observatory,Observatory Station Code: PINA,['Observatory Station Code: PINA']
+PINE,Pine Ridge Geophysical Observatory,Observatory Station Code: PINE,['Observatory Station Code: PINE']
+Pionerskaya,Pionerskaya,Observatory Station Code: PIO,['Observatory Station Code: PIO']
+Plateau,Plateau,Observatory Station Code: PTU,['Observatory Station Code: PTU']
+Pleshenitzi,Pleshenitzi,Observatory Station Code: MNK,"['Minsk', 'Observatory Station Code: MNK']"
+Podkamennaya Tunguska,Podkamennaya Tunguska,Observatory Station Code: POD,['Observatory Station Code: POD']
+Poker Flat Geophysical Observatory,Poker Flat Geophysical Observatory,Observatory Station Code: POKR,['Observatory Station Code: POKR']
+Pondicherry,Pondicherry,Observatory Station Code: PND,['Observatory Station Code: PND']
+Port Alfred,Port Alfred,Observatory Station Code: CZT,['Observatory Station Code: CZT']
+Port aux Francais,Port-aux-Francais,Observatory Station Code: PAF,['Observatory Station Code: PAF']
+Port Stanley,Port Stanley,Observatory Station Code: PST,['Observatory Station Code: PST']
+Poste de la Baleine,Poste-de-la-Baleine,Observatory Station Code: PBQ,['Observatory Station Code: PBQ']
+Price,Price,Observatory Station Code: PCU,['Observatory Station Code: PCU']
+ROTH,Priddis Geophysical Observatory,Observatory Station Code: ROTH,['Observatory Station Code: ROTH']
+PGEO,Prince George Geophysical Observatory,Observatory Station Code: PGEO,['Observatory Station Code: PGEO']
+Pruhonice,Pruhonice,Observatory Station Code: PRU,['Observatory Station Code: PRU']
+PBLO,Pueblo Geophysical Observatory,Observatory Station Code: PBLO,['Observatory Station Code: PBLO']
+PCEL,Purcell Geophysical Observatory,Observatory Station Code: PCEL,['Observatory Station Code: PCEL']
+PUVR,Puvirnituq Geophysical Observatory,Observatory Station Code: PUVR,['Observatory Station Code: PUVR']
+THL,Qaanaaq Geophysical Observatory,Observatory Station Code: THL,"['Observatory Station Code: THL', 'Thule Geophysical Observatory']"
+GDH,Qeqertarsuaq Geophysical Observatory,Godhavn Geophysical Observatory,"['Observatory Station Code: GDH', 'Godhavn Geophysical Observatory']"
+Qianling,Qianling,Observatory Station Code: QIX,['Observatory Station Code: QIX']
+Qiongzhong,Qiongzhong,Observatory Station Code: QGZ,['Observatory Station Code: QGZ']
+Qsaybeh,Qsaybeh,Observatory Station Code: QSB,['Observatory Station Code: QSB']
+Quanzhou,Quanzhou,Observatory Station Code: QZH,['Observatory Station Code: QZH']
+Quetta,Quetta,Observatory Station Code: QUE,['Observatory Station Code: QUE']
+RADI,Radisson Geophysical Observatory,Radisson Geophysical Observatory,['']
+RAM,Russian Arctic and Antarctic Magnetometer network,RAM,['RAM']
+Rankin Inlet Geophysical Observatory,Rankin Inlet Geophysical Observatory,Observatory Station Code: RANK,['Observatory Station Code: RANK']
+RAN,Ranua Geophysical Observatory,Observatory Station Code: RAN,['Observatory Station Code: RAN']
+REDR,Red Deer Geophysical Observatory,Observatory Station Code: REDR,['Observatory Station Code: REDR']
+RMUS,Remus Geophysical Observatory,Observatory Station Code: RMUS,['Observatory Station Code: RMUS']
+RBAY,Repulse Bay Geophysical Observatory,Observatory Station Code: RBAY,['Observatory Station Code: RBAY']
+Resolute Bay,Resolute Bay,Observatory Station Code: RES,['Observatory Station Code: RES']
+RICH,Richardson Geophysical Observatory,Observatory Station Code: RICH,['Observatory Station Code: RICH']
+Roburent,Roburent,Observatory Station Code: ROB,['Observatory Station Code: ROB']
+ROE,Roemoe,Observatory Station Code: ROE,['Observatory Station Code: ROE']
+Roi Baudouin,Roi Baudouin 2,Observatory Station Code: RBD,['Observatory Station Code: RBD']
+Romo Geophysical Observatory,Romo Geophysical Observatory,Romo Geophysical Observatory,['']
+RVK,Rorvik Geophysical Observatory,Observatory Station Code: RVK,['Observatory Station Code: RVK']
+Rude Skov,Rude Skov,Observatory Station Code: RSV,['Observatory Station Code: RSV']
+Sabhawala,Sabhawala,Observatory Station Code: SAB,['Observatory Station Code: SAB']
+Sable Island,Sable Island,Observatory Station Code: SBL,['Observatory Station Code: SBL']
+Southern Auroral Electrojet Index,Southern Auroral Electrojet Index,Southern Auroral Electrojet Index,['']
+STFL,Saint-Felicien Geophysical Observatory,Observatory Station Code: STFL,['Observatory Station Code: STFL']
+Saint Johns,Saint Johns,Observatory Station Code: STJ,['Observatory Station Code: STJ']
+SALU,Salluit Geophysical Observatory,Observatory Station Code: SALU,['Observatory Station Code: SALU']
+SAMBA Ground Observatory Group,SAMBA Ground Observatory Group,Chain of ground stations in the SAMBA Array.,"['Chain of ground stations in the SAMBA Array.', 'SAMBA Ground Observatory Group']"
+Antofagasta,Antofagasta,Antofagasta,['']
+Escudero,Escudero,Escudero,['']
+La Serena,La Serena,La Serena,['']
+Los Cerrillos,Los Cerrillos,Los Cerrillos,['']
+O'Higgins,O'Higgins,O'Higgins,['']
+Osorno,Osorno,Osorno,['']
+Puerto Natales,Puerto Natales,Puerto Natales,['']
+Punta Arenas,Punta Arenas,Punta Arenas,['']
+Putre,Putre,Putre,['']
+Valdivia,Valdivia,Valdivia,['']
+SATX,San Antonio Geophysical Observatory,Observatory Station Code: SATX,['Observatory Station Code: SATX']
+San Fernando,San Fernando,Observatory Station Code: SFS,['Observatory Station Code: SFS']
+San Juan Geophysical Observatory,San Juan Geophysical Observatory,Observatory Station Code: SJG,['Observatory Station Code: SJG']
+San Pablo Toledo,San Pablo-Toledo,Observatory Station Code: SPT,['Observatory Station Code: SPT']
+Sanae III,Sanae III,Observatory Station Code: SNA,['Observatory Station Code: SNA']
+SNKQ,Sanikiluaq Geophysical Observatory,Observatory Station Code: SNKQ,['Observatory Station Code: SNKQ']
+Sao Miguel,Sao Miguel,Observatory Station Code: SMG,['Observatory Station Code: SMG']
+SVS,Savissivik Geophysical Observatory,Observatory Station Code: SVS,['Observatory Station Code: SVS']
+SCHF,Schefferville Geophysical Observatory,Observatory Station Code: SCHF,['Observatory Station Code: SCHF']
+Scoresby Sund,Scoresby Sund 2,Observatory Station Code: SCO,['Observatory Station Code: SCO']
+SEPT,Sept Iles Geophysical Observatory,Observatory Station Code: SEPT,['Observatory Station Code: SEPT']
+SWNO,Shawano Geophysical Observatory,Observatory Station Code: SWNO,['Observatory Station Code: SWNO']
+Sheshan,Sheshan,Observatory Station Code: SSH,"['Zo-Se', 'Observatory Station Code: SSH']"
+Shillong,Shillong,Observatory Station Code: SHL,['Observatory Station Code: SHL']
+Shumagin Geophysical Observatory,Shumagin Geophysical Observatory,Observatory Station Code: SHU,['Observatory Station Code: SHU']
+Silchar,Silchar,Observatory Station Code: SIL,['Observatory Station Code: SIL']
+Simosato,Simosato,Observatory Station Code: SSO,['Observatory Station Code: SSO']
+Sitka Geophysical Observatory,Sitka Geophysical Observatory,Observatory Station Code: SIT,['Observatory Station Code: SIT']
+SNAP,Snap Lake Geophysical Observatory,Observatory Station Code: SNAP,['Observatory Station Code: SNAP']
+Sodankyla,Sodankyla,Observatory Station Code: SOD,['Observatory Station Code: SOD']
+SOL,Solund Geophysical Observatory,Observatory Station Code: SOL,['Observatory Station Code: SOL']
+SOR,Soroya Geophysical Observatory,Observatory Station Code: SOR,['Observatory Station Code: SOR']
+South Georgia,South Georgia,Observatory Station Code: SGE,"['Grytviken', 'Observatory Station Code: SGE']"
+South Pole,South Pole,Observatory Station Code: SPA,['Observatory Station Code: SPA']
+St. John Geophysical Observatory,St. John Geophysical Observatory,Observatory Station Code: STJ,['Observatory Station Code: STJ']
+STFD,Stanford Geophysical Observatory,Observatory Station Code: STFD,['Observatory Station Code: STFD']
+Stekolnyy,Stekolnyy,Observatory Station Code: MGD,"['Magadan', 'Observatory Station Code: MGD']"
+Stennis Space Centre,Stennis Space Centre,Observatory Station Code: BSL,"['Bay St. Louis', 'Observatory Station Code: BSL']"
+STEP,STEP Observatory Group,Solar Terrestrial Energy Program,"['Solar-Terrestrial Energy Program, STEP, Polar Network', 'UAPM', 'Upper Atmospheric Monitoring Program']"
+Stepanovka,Stepanovka,Observatory Station Code: ODE,['Observatory Station Code: ODE']
+Stonyhurst,Stonyhurst,Observatory Station Code: STO,['Observatory Station Code: STO']
+Sukkertoppen,Sukkertoppen,Observatory Station Code: SKT,['Observatory Station Code: SKT']
+SUM,Summit Geophysical Observatory,Observatory Station Code: SUM,['Observatory Station Code: SUM']
+Surlari,Surlari,Observatory Station Code: SUA,['Observatory Station Code: SUA']
+Swider,Swider,Observatory Station Code: SWI,['Observatory Station Code: SWI']
+Tahiti,Tahiti,Observatory Station Code: TAH,['Observatory Station Code: TAH']
+Talara,Talara,Observatory Station Code: TAL,['Observatory Station Code: TAL']
+Tamanrasset,Tamanrasset,Observatory Station Code: TAM,['Observatory Station Code: TAM']
+Tangerang,Tangerang,Observatory Station Code: TNG,['Observatory Station Code: TNG']
+TAR,Tartu Geophysical Observatory,Observatory Station Code: TAR,['Observatory Station Code: TAR']
+Tasiilaq Geophysical Observatory,Tasiilaq Geophysical Observatory,Tasiilaq Geophysical Observatory,['']
+Tatuoca,Tatuoca,Observatory Station Code: TTB,['Observatory Station Code: TTB']
+Tehran,Tehran,Observatory Station Code: TEH,['Observatory Station Code: TEH']
+TEIDE Observatory,TEIDE Observatory,TEIDE Observatory,['']
+Teoloyucan,Teoloyucan,Observatory Station Code: TEO,['Observatory Station Code: TEO']
+Tromso Geophysical Observatory,Tromso Geophysical Observatory,TGO,['TGO']
+TPAS,The Pas,Observatory Station Code: TPAS,"['Flin Flon', 'Observatory Station Code: TPAS']"
+TAB,Thule Air Base Geophysical Observatory,Observatory Station Code: TAB,['Observatory Station Code: TAB']
+Tihany,Tihany,Observatory Station Code: THY,['Observatory Station Code: THY']
+Tikhaya Bay,Tikhaya Bay,Observatory Station Code: TKH,['Observatory Station Code: TKH']
+TIK,Tiksi Geophysical Observatory,Observatory Station Code: TIK,['Observatory Station Code: TIK']
+Tirunelveli,Tirunelveli,Observatory Station Code: TIR,['Observatory Station Code: TIR']
+Tokyo,Tokyo,Observatory Station Code: TOK,['Observatory Station Code: TOK']
+Toledo,Toledo,Observatory Station Code: TOL,['Observatory Station Code: TOL']
+Tomsk,Tomsk,Observatory Station Code: TMK,['Observatory Station Code: TMK']
+Tondano,Tondano,Observatory Station Code: TND,['Observatory Station Code: TND']
+Tonghai,Tonghai,Observatory Station Code: THJ,['Observatory Station Code: THJ']
+Toolangi,Toolangi,Observatory Station Code: TOO,['Observatory Station Code: TOO']
+TOOL,Toolik Lake Geophysical Observatory,Toolik Lake Geophysical Observatory,['']
+TRAP,Trapper Creek Geophysical Observatory,Trapper Creek Geophysical Observatory,['']
+Trelew,Trelew,Observatory Station Code: TRW,['Observatory Station Code: TRW']
+TDC,Tristan Da Cunha Geophysical Observatory,Observatory Station Code: TDC,['Observatory Station Code: TDC']
+Trivandrum,Trivandrum 2,Observatory Station Code: TRD,['Observatory Station Code: TRD']
+TRO,Tromso Geophysical Observatory,Tromso Geophysical Observatory,['Observatory Station Code: TRO']
+Tsumeb,Tsumeb,Observatory Station Code: TSU,['Observatory Station Code: TSU']
+Tucson Geophysical Observatory,Tucson Geophysical Observatory,Observatory Station Code: TUC,['Observatory Station Code: TUC']
+Tuntungan,Tuntungan,Observatory Station Code: TUN,['Observatory Station Code: TUN']
+UAPM Observatory Group,UAPM Observatory Group,"Solar-Terrestrial Energy Program, STEP, Polar Network","['Upper Atmospheric Monitoring Program', 'STEP', 'Solar-Terrestrial Energy Program, STEP, Polar Network']"
+Udaipur,Udaipur,Udaipur,['']
+Ujjain,Ujjain,Observatory Station Code: UJJ,['Observatory Station Code: UJJ']
+UKIA,Ukiah Geophysical Observatory,Observatory Station Code: UKIA,['Observatory Station Code: UKIA']
+Ulan Bator,Ulan Bator,Observatory Station Code: UBA,['Observatory Station Code: UBA']
+UPN,Upernavik Geophysical Observatory,Upernavik Geophysical Observatory,['']
+Uppsala,Uppsala,Observatory Station Code: UPS,"['Fiby', 'Observatory Station Code: UPS']"
+United State Geological Survey,United State Geological Survey,USGA,['USGA']
+UPS,Uummannaq Geophysical Observatory,Observatory Station Code: UPS,['Observatory Station Code: UPS']
+VLDR,Val-d'Or Geophysical Observatory,Observatory Station Code: VLDR,['Observatory Station Code: VLDR']
+Val Joyeux,Val Joyeux,Observatory Station Code: VLJ,['Observatory Station Code: VLJ']
+Valentia,Valentia,Observatory Station Code: VAL,['Observatory Station Code: VAL']
+Vassouras,Vassouras,Observatory Station Code: VSS,['Observatory Station Code: VSS']
+Victoria Geophysical Observatory,Victoria Geophysical Observatory,Observatory Station Code: VIC,['Observatory Station Code: VIC']
+Vieques,Vieques,Observatory Station Code: VQS,['Observatory Station Code: VQS']
+Visakhapatnam,Visakhapatnam,Observatory Station Code: VSK,['Observatory Station Code: VSK']
+VIZ,Vize Island Geophysical Observatory,Observatory Station Code: VIZ,['Observatory Station Code: VIZ']
+Voeikovo,Voeikovo,Observatory Station Code: LNN,"['Leningrad', 'Observatory Station Code: LNN']"
+Vostok,Vostok,Observatory Station Code: VOS,['Observatory Station Code: VOS']
+Vysokaya Dubrava,Vysokaya Dubrava,Observatory Station Code: SVD,['Observatory Station Code: SVD']
+WLPS,Wallops Island Geophysical Observatory,Observatory Station Code: WLPS,['Observatory Station Code: WLPS']
+World Data Center Ground Data Master Catalog,World Data Center Ground Data Master Catalog,WDC Ground Observatories,"['WDC Ground Observatories', 'WDC']"
+White Horse,White Horse,Observatory Station Code: WHIT,['Observatory Station Code: WHIT']
+WHIT,Whitehorse Geophysical Observatory,Observatory Station Code: WHS,['Observatory Station Code: WHS']
+Whiteshell,Whiteshell,Observatory Station Code: WHS,['Observatory Station Code: WHS']
+Wien Auhof,Wien Auhof,Observatory Station Code: WIA,['Observatory Station Code: WIA']
+Wien Kobenzl,Wien Kobenzl,Observatory Station Code: WIK,['Observatory Station Code: WIK']
+Wilkes,Wilkes,Observatory Station Code: WIL,['Observatory Station Code: WIL']
+Wingst,Wingst,Observatory Station Code: WNG,['Observatory Station Code: WNG']
+Witteveen,Witteveen,Observatory Station Code: WIT,['Observatory Station Code: WIT']
+WRTH,Worthington Geophysical Observatory,Observatory Station Code: WRTH,['Observatory Station Code: WRTH']
+Wuhan,Wuhan,Observatory Station Code: WHN,['Observatory Station Code: WHN']
+Yakutsk,Yakutsk,Observatory Station Code: YAK,['Observatory Station Code: YAK']
+Yangi Bazar,Yangi Bazar,Observatory Station Code: TKT,"['Tashkent', 'Observatory Station Code: TKT']"
+Yellowknife Geophysical Observatory,Yellowknife Geophysical Observatory,Observatory Station Code: YKNF,"['Observatory Station Code: YKNF', 'Observatory Station Code: YKC']"
+Yuzhno Sakhalinsk,Yuzhno Sakhalinsk,Observatory Station Code: YSS,['Observatory Station Code: YSS']
+Zaymishche,Zaymishche,Observatory Station Code: KZN,['Observatory Station Code: KZN']
+HANET Observatory Network,HANET Observatory Network,HANET Observatory Network,['']
+Hawkeye,Hawkeye,Neutral Point Explorer,"['Hawkeye 1', 'Neutral Point Explorer', 'Injun-F', 'Explorer 52']"
+Helios,Helios Mission,Helios Mission,['']
+Helios 1,Helios 1,Helios-A,['Helios-A']
+Helios 2,Helios 2,Helios-B,['Helios-B']
+HEO 1,HEO-1,HEO-1,['']
+HEO 2,HEO-2,HEO-2,['']
+HEO 3,HEO-3,HEO-3,['']
+Heliophysics Environmental and Radiation Measurement Experiment Suite (HERMES),Heliophysics Environmental and Radiation Measurement Experiment Suite (HERMES),Heliophysics Environmental and Radiation Measurement Experiment Suite (HERMES),['']
+Hinode,Hinode,Hinode,['']
+Hinotori,Hinotori,Astronomical Satellite-A,"['1981-017A', 'Astronomical Satellite-A', 'ASTRO-A']"
+IAGA,IAGA,International Association of Geomagnetism and Aeronomy,['International Association of Geomagnetism and Aeronomy']
+Aberystwyth,Aberystwyth,Aberystwyth,"['Aberystwyth', 'IAGA:AWY']"
+Abinger,Abinger,IAGA:ABN,"['Abinger', 'IAGA:ABN']"
+Abisko,Abisko,IAGA:ABK,"['Abisko', 'IAGA:ABK']"
+Accra,Accra,IAGA:ACR,"['Accra', 'IAGA:ACR']"
+Adak,Adak,IAGA:ADA,"['Adak', 'IAGA:ADA']"
+Addis Ababa,Addis Ababa,Addis.Ababa,"['Addis.Ababa', 'IAGA:AAE']"
+Adelaide,Adelaide,Adelaide,"['Adelaide', 'IAGA:ADE']"
+Aedey,Aedey,IAGA:AED,"['Aedey', 'IAGA:AED']"
+Agincourt,Agincourt,Agincourt,"['Agincourt', 'IAGA:AGN']"
+Ahmedabad,Ahmedabad,Ahmedabad,"['Ahmedabad', 'IAGA:AHM']"
+Alert,Alert,IAGA:ALE,"['Alert', 'IAGA:ALE']"
+Alger Island,Alger Island,Alger.Island,"['Alger.Island', 'IAGA:ALG']"
+Alibag,Alibag,IAGA:ABG,"['Alibag', 'IAGA:ABG']"
+Alice Springs,Alice Springs,Alice.Springs,"['Alice.Springs', 'IAGA:ASP']"
+Allahabad,Allahabad,Allahabad,"['Allahabad', 'IAGA:ALH']"
+Alma Ata,Alma Ata,Alma.Ata,"['Alma.Ata', 'IAGA:AAA']"
+Almeria,Almeria,IAGA:ALM,"['Almeria', 'IAGA:ALM']"
+Aloushta,Aloushta,Aloushta,"['Aloushta', 'IAGA:ALU']"
+Amatsia,Amatsia,IAGA:AMT,"['Amatsia', 'IAGA:AMT']"
+Ambarnaya,Ambarnaya,Ambarnaya,"['Ambarnaya', 'IAGA:AMN']"
+Amberley,Amberley,Amberley,"['Amberley', 'IAGA:AML']"
+AMD,Amderma,IAGA:AMD,"['Amderma', 'IAGA:AMD']"
+AMU,Anchorage,Anchorage,"['Anchorage', 'IAGA:AMU']"
+Ancon,Ancon,IAGA:ANC,"['Ancon', 'IAGA:ANC']"
+Andrews AFB,Andrews AFB,Andrews.AFB,"['Andrews.AFB', 'IAGA:AWS']"
+Angmakssalik,Angmakssalik,Angmakssalik,"['Angmakssalik', 'IAGA:AMK']"
+Angra Do Heroismo,Angra Do Heroismo,Angra.Do.Heroismo,"['Angra.Do.Heroismo', 'IAGA:ANH']"
+Ankara,Ankara,IAGA:ANK,"['Ankara', 'IAGA:ANK']"
+Annamalainagar,Annamalainagar,Annamalainagar,"['Annamalainagar', 'IAGA:ANN']"
+Antananarivo,Antananarivo,Antananarivo,"['Antananarivo', 'IAGA:TAN']"
+Antipolo,Antipolo,Antipolo,"['Antipolo', 'IAGA:ANO']"
+Apatity,Apatity,IAGA:APA,"['Apatity', 'IAGA:APA']"
+Apia,Apia,IAGA:API,"['Apia', 'IAGA:API']"
+Arctic Ice Flo,Arctic Ice Flo,Arctic.Ice.Flo,"['Arctic.Ice.Flo', 'IAGA:AIF']"
+AVI,Arctic Village,Arctic.Village,"['Arctic.Village', 'IAGA:AVI']"
+Arctowski,Arctowski,Arctowski,"['Arctowski', 'IAGA:ARC']"
+Arequipa,Arequipa,Arequipa,"['Arequipa', 'IAGA:ARE']"
+Argentine Island Vernadski,Argentine Island/Vernadski,Vernadski,"['Vernadski', 'IAGA:AIA']"
+Arkhangel'Sk,Arkhangel'Sk,Arkhangel'Sk,"[""Arkhangel'Sk"", 'IAGA:ARK']"
+Arti,Arti,IAGA:ARS,"['Arti', 'IAGA:ARS']"
+Ascension Island,Ascension Island,Ascension.Island,"['Ascension.Island', 'IAGA:ASC']"
+Ashkhabad Vannovskaya,Ashkhabad/Vannovskaya,Vannovskaya,"['Vannovskaya', 'IAGA:ASH']"
+Aso,Aso,IAGA:ASO,"['Aso', 'IAGA:ASO']"
+Asuka Station,Asuka Station,Asuka.Station,"['Asuka.Station', 'IAGA:ASK']"
+Athens,Athens,IAGA:ATH,"['Athens', 'IAGA:ATH']"
+Au Tau,Au-Tau,IAGA:AUT,"['Au-Tau', 'IAGA:AUT']"
+Auckland Island,Auckland Island,Auckland.Island,"['Auckland.Island', 'IAGA:AUI']"
+Averroes,Averroes,Averroes,"['Averroes', 'IAGA:AVE']"
+Back,Back,IAGA:BKC,"['Back', 'IAGA:BKC']"
+Baclieu,Baclieu,IAGA:BCL,"['Baclieu', 'IAGA:BCL']"
+Baffin Island,Baffin Island,Baffin.Island,"['Baffin.Island', 'IAGA:BFI']"
+Baghdad,Baghdad,IAGA:BGH,"['Baghdad', 'IAGA:BGH']"
+Baguio,Baguio,IAGA:BAG,"['Baguio', 'IAGA:BAG']"
+BLC,Baker Lake,Baker.Lake,"['Baker.Lake', 'IAGA:BLC']"
+Baldwin,Baldwin,IAGA:BAL,"['Baldwin', 'IAGA:BAL']"
+Bangkok,Bangkok,IAGA:BKK,"['Bangkok', 'IAGA:BKK']"
+Bangui,Bangui,IAGA:BNG,"['Bangui', 'IAGA:BNG']"
+Bar Gyora,Bar Gyora,Bar.Gyora,"['Bar.Gyora', 'IAGA:BGY']"
+BBG,Barentsburg,Barentsburg,"['Barentsburg', 'IAGA:BBG']"
+Barnaul,Barnaul,IAGA:BRN,"['Barnaul', 'IAGA:BRN']"
+Barrackpore,Barrackpore,Barrackpore,"['Barrackpore', 'IAGA:BAP']"
+BRW,Barrow,IAGA:BRW,"['Barrow', 'IAGA:BRW']"
+Barter Island,Barter Island,Barter.Island,"['Barter.Island', 'IAGA:BTI']"
+Barth,Barth,IAGA:BAH,"['Barth', 'IAGA:BAH']"
+Batavia,Batavia,IAGA:BTV,"['Batavia', 'IAGA:BTV']"
+Bay St Louis,Bay St Louis,Bay.St.Louis,"['Bay.St.Louis', 'IAGA:BSL']"
+Bei Jing,Bei-Jing,Bei-Jing,"['Bei-Jing', 'IAGA:BJI']"
+Beijing Ming Tombs,Beijing Ming Tombs,Beijing.Ming.Tombs,"['Beijing.Ming.Tombs', 'IAGA:BMT']"
+Beliy Island,Beliy Island,Beliy.Island,"['Beliy.Island', 'IAGA:BEY']"
+Beloit,Beloit,IAGA:BLT,"['Beloit', 'IAGA:BLT']"
+Belsk,Belsk,IAGA:BEL,"['Belsk', 'IAGA:BEL']"
+Berezniaki Karaganda,Berezniaki/Karaganda,Karaganda,"['Karaganda', 'IAGA:KGD']"
+Beuthen,Beuthen,IAGA:BEU,"['Beuthen', 'IAGA:BEU']"
+Big Delta,Big Delta,Big.Delta,"['Big.Delta', 'IAGA:BDE']"
+Binza,Binza,IAGA:BIN,"['Binza', 'IAGA:BIN']"
+Bjornoya,Bjornoya,Bjornoya,"['Bjornoya', 'IAGA:BJN']"
+Black Forest,Black Forest,Black.Forest,"['Black.Forest', 'IAGA:BFO']"
+Bochum,Bochum,IAGA:BOC,"['Bochum', 'IAGA:BOC']"
+Bodo,Bodo,IAGA:BOD,"['Bodo', 'IAGA:BOD']"
+Borga,Borga,IAGA:BGA,"['Borga', 'IAGA:BGA']"
+Borok,Borok,IAGA:BOX,"['Borok', 'IAGA:BOX']"
+Bossekop,Bossekop,Bossekop,"['Bossekop', 'IAGA:BOP']"
+BOU,Boulder,IAGA:BOU,"['Boulder', 'IAGA:BOU']"
+Bouzareah,Bouzareah,Bouzareah,"['Bouzareah', 'IAGA:BZR']"
+Breslau,Breslau,IAGA:BRE,"['Breslau', 'IAGA:BRE']"
+Brisbane,Brisbane,Brisbane,"['Brisbane', 'IAGA:BRS']"
+BFE,Brorfelde,Brorfelde,"['Brorfelde', 'IAGA:BFE']"
+Bucharest,Bucharest,Bucharest,"['Bucharest', 'IAGA:BUC']"
+Budakeszi,Budakeszi,Budakeszi,"['Budakeszi', 'IAGA:BUZ']"
+Budapest,Budapest,Budapest,"['Budapest', 'IAGA:BUP']"
+Budkov,Budkov,IAGA:BDV,"['Budkov', 'IAGA:BDV']"
+Bunia,Bunia,IAGA:BNA,"['Bunia', 'IAGA:BNA']"
+Burlington,Burlington,Burlington,"['Burlington', 'IAGA:BRT']"
+Byrd Station 1,Byrd Station 1,Byrd.Station.1,"['Byrd.Station.1', 'IAGA:BYR']"
+Cachoeira Paulista,Cachoeira Paulista,Cachoeira.Paulista,"['Cachoeira.Paulista', 'IAGA:CHP']"
+CBB,Cambridge Bay,Cambridge.Bay,"['Cambridge.Bay', 'IAGA:CBB']"
+Camp Douglas,Camp Douglas,Camp.Douglas,"['Camp.Douglas', 'IAGA:CDS']"
+Campbell Island,Campbell Island,Campbell.Island,"['Campbell.Island', 'IAGA:CAI']"
+Canberra,Canberra,Canberra,"['Canberra', 'IAGA:CNB']"
+Cap Thordsen,Cap Thordsen,Cap.Thordsen,"['Cap.Thordsen', 'IAGA:CTH']"
+Cape Chelyuskin,Cape Chelyuskin,Cape.Chelyuskin,"['Cape.Chelyuskin', 'IAGA:CCS']"
+Cape Denison,Cape Denison,Cape.Denison,"['Cape.Denison', 'IAGA:CDE']"
+Cape Evans,Cape Evans,Cape.Evans,"['Cape.Evans', 'IAGA:CEV']"
+Cape Kamenniy,Cape Kamenniy,Cape.Kamenniy,"['Cape.Kamenniy', 'IAGA:CKA']"
+Cape Of Good Hope,Cape Of Good Hope,Cape.Of.Good.Hope,"['Cape.Of.Good.Hope', 'IAGA:CGH']"
+Cape Parry,Cape Parry,Cape.Parry,"['Cape.Parry', 'IAGA:CPY']"
+Cape Schmidt,Cape Schmidt,Cape.Schmidt,"['Cape.Schmidt', 'IAGA:CPS']"
+Cape Town,Cape Town,Cape.Town,"['Cape.Town', 'IAGA:CTO']"
+Cape Wellen,Cape Wellen,Cape.Wellen,"['Cape.Wellen', 'IAGA:CWE']"
+Cape Zhelania,Cape Zhelania,Cape.Zhelania,"['Cape.Zhelania', 'IAGA:CZA']"
+Capodimonte,Capodimonte,Capodimonte,"['Capodimonte', 'IAGA:CPD']"
+Capri,Capri,IAGA:CPI,"['Capri', 'IAGA:CPI']"
+Carrollton,Carrollton,Carrollton,"['Carrollton', 'IAGA:CAX']"
+Casey,Casey,IAGA:CSY,"['Casey', 'IAGA:CSY']"
+Casper,Casper,IAGA:CSR,"['Casper', 'IAGA:CSR']"
+Castellaccio,Castellaccio,Castellaccio,"['Castellaccio', 'IAGA:CAO']"
+Castello Tesino,Castello Tesino,Castello.Tesino,"['Castello.Tesino', 'IAGA:CTS']"
+Castle Rock,Castle Rock,Castle.Rock,"['Castle.Rock', 'IAGA:CRC']"
+Cebu,Cebu,IAGA:CCP,"['Cebu', 'IAGA:CCP']"
+Cha Pa,Cha-Pa,IAGA:CPA,"['Cha-Pa', 'IAGA:CPA']"
+Chambon La Foret,Chambon La Foret,Chambon.La.Foret,"['Chambon.La.Foret', 'IAGA:CLF']"
+Changchun,Changchun,Changchun,"['Changchun', 'IAGA:CNH']"
+Charcot,Charcot,IAGA:CTX,"['Charcot', 'IAGA:CTX']"
+Charters Towers,Charters Towers,Charters.Towers,"['Charters.Towers', 'IAGA:CTA']"
+Cheltenham,Cheltenham,Cheltenham,"['Cheltenham', 'IAGA:CLH']"
+Chengdu,Chengdu,IAGA:CDP,"['Chengdu', 'IAGA:CDP']"
+Chesterfield Inlet,Chesterfield Inlet,Chesterfield.Inlet,"['Chesterfield.Inlet', 'IAGA:CFI']"
+Chichijima,Chichijima,Chichijima,"['Chichijima', 'IAGA:CBI']"
+Chiclayo,Chiclayo,Chiclayo,"['Chiclayo', 'IAGA:CCL']"
+Chilbolton,Chilbolton,Chilbolton,"['Chilbolton', 'IAGA:CLB']"
+Chimbote,Chimbote,Chimbote,"['Chimbote', 'IAGA:CMB']"
+Chiripa,Chiripa,IAGA:CRP,"['Chiripa', 'IAGA:CRP']"
+Chittagong,Chittagong,Chittagong,"['Chittagong', 'IAGA:CHT']"
+Christchurch,Christchurch,Christchurch,"['Christchurch', 'IAGA:CHR']"
+Clausthal,Clausthal,Clausthal,"['Clausthal', 'IAGA:CLZ']"
+Climax,Climax,IAGA:CLI,"['Climax', 'IAGA:CLI']"
+Coimbra,Coimbra,IAGA:COI,"['Coimbra', 'IAGA:COI']"
+Colaba,Colaba,IAGA:CLA,"['Colaba', 'IAGA:CLA']"
+CMO,College,IAGA:CMO,"['College', 'IAGA:CMO']"
+Collmberg,Collmberg,Collmberg,"['Collmberg', 'IAGA:CLL']"
+Colorado Springs,Colorado Springs,Colorado.Springs,"['Colorado.Springs', 'IAGA:CSS']"
+Copenhagen,Copenhagen,Copenhagen,"['Copenhagen', 'IAGA:COP']"
+Crozet Port Alfred,Crozet/Port Alfred,Port.Alfred,"['Port.Alfred', 'IAGA:CZT']"
+Cuajimalpa,Cuajimalpa,Cuajimalpa,"['Cuajimalpa', 'IAGA:CUA']"
+Cuzco,Cuzco,IAGA:CUS,"['Cuzco', 'IAGA:CUS']"
+Dalat,Dalat,IAGA:DLT,"['Dalat', 'IAGA:DLT']"
+Dalian,Dalian,IAGA:DLN,"['Dalian', 'IAGA:DLN']"
+Dallas,Dallas,IAGA:DAL,"['Dallas', 'IAGA:DAL']"
+Dar Es Salaam,Dar Es Salaam,Dar.Es.Salaam,"['Dar.Es.Salaam', 'IAGA:DRS']"
+Darwin,Darwin,IAGA:DAR,"['Darwin', 'IAGA:DAR']"
+Davao,Davao,IAGA:DAV,"['Davao', 'IAGA:DAV']"
+Davis,Davis,IAGA:DVS,"['Davis', 'IAGA:DVS']"
+De Bilt,De Bilt,IAGA:DBN,"['De.Bilt', 'IAGA:DBN']"
+Dehra Dun,Dehra Dun,Dehra.Dun,"['Dehra.Dun', 'IAGA:DDI']"
+Dekelia,Dekelia,IAGA:DEK,"['Dekelia', 'IAGA:DEK']"
+Del Rio,Del Rio,IAGA:DLR,"['Del.Rio', 'IAGA:DLR']"
+Discovery Bay North,Discovery Bay North,Discovery.Bay.North,"['Discovery.Bay.North', 'IAGA:DIS']"
+Discovery Bay South,Discovery Bay South,Discovery.Bay.South,"['Discovery.Bay.South', 'IAGA:HUT']"
+Dixon,Dixon,IAGA:DIK,"['Dixon', 'IAGA:DIK']"
+Djibouti,Djibouti,Djibouti,"['Djibouti', 'IAGA:DJI']"
+DOB,Dombas,IAGA:DOB,"['Dombas', 'IAGA:DOB']"
+Dome Concordia,Dome Concordia,Dome.Concordia,"['Dome.Concordia', 'IAGA:DMC']"
+Dome Fuji,Dome Fuji,Dome.Fuji,"['Dome.Fuji', 'IAGA:DMF']"
+Donnersberg,Donnersberg,Donnersberg,"['Donnersberg', 'IAGA:DNB']"
+Dourbes,Dourbes,IAGA:DOU,"['Dourbes', 'IAGA:DOU']"
+Dublin,Dublin,IAGA:DUB,"['Dublin', 'IAGA:DUB']"
+Dumont Durville,Dumont Durville,Dumont.Durville,"['Dumont.Durville', 'IAGA:DRV']"
+Durham,Durham,IAGA:DUR,"['Durham', 'IAGA:DUR']"
+Dusheti,Dusheti,IAGA:TFS,"['Dusheti', 'IAGA:TFS']"
+Dymer,Dymer,IAGA:KIV,"['Dymer', 'IAGA:KIV']"
+East Anglia,East Anglia,East.Anglia,"['East.Anglia', 'IAGA:EAA']"
+Easter Island,Easter Island,Easter.Island,"['Easter.Island', 'IAGA:EIC']"
+Eastport,Eastport,Eastport,"['Eastport', 'IAGA:ETP']"
+Ebro,Ebro,IAGA:EBR,"['Ebro', 'IAGA:EBR']"
+Eielson AFB,Eielson AFB,Eielson.AFB,"['Eielson.AFB', 'IAGA:ENB']"
+Eights Station,Eights Station,Eights.Station,"['Eights.Station', 'IAGA:EGS']"
+Eilat,Eilat,IAGA:ELT,"['Eilat', 'IAGA:ELT']"
+El Abiod Sidi,El Abiod Sidi,El.Abiod.Sidi,"['El.Abiod.Sidi', 'IAGA:EAS']"
+Elizabethville,Elizabethville,Elizabethville,"['Elizabethville', 'IAGA:ELI']"
+Enkoping,Enkoping,Enkoping,"['Enkoping', 'IAGA:ENK']"
+Esashi,Esashi,IAGA:ESA,"['Esashi', 'IAGA:ESA']"
+Eskdalemuir,Eskdalemuir,Eskdalemuir,"['Eskdalemuir', 'IAGA:ESK']"
+Eskimo Point,Eskimo Point,Eskimo.Point,"['Eskimo.Point', 'IAGA:EKP']"
+Espanola,Espanola,Espanola,"['Espanola', 'IAGA:EPN']"
+Etah,Etah,IAGA:ETA,"['Etah', 'IAGA:ETA']"
+Etaiyapuram,Etaiyapuram,Etaiyapuram,"['Etaiyapuram', 'IAGA:ETT']"
+Eureka,Eureka,IAGA:EUA,"['Eureka', 'IAGA:EUA']"
+Eusebio,Eusebio,IAGA:EUS,"['Eusebio', 'IAGA:EUS']"
+Eyrewell,Eyrewell,Eyrewell,"['Eyrewell', 'IAGA:EYR']"
+Falmouth,Falmouth,Falmouth,"['Falmouth', 'IAGA:FAL']"
+Fanning Island,Fanning Island,Fanning.Island,"['Fanning.Island', 'IAGA:FAN']"
+Flensburg,Flensburg,Flensburg,"['Flensburg', 'IAGA:FLE']"
+Floeberg Beach,Floeberg Beach,Floeberg.Beach,"['Floeberg.Beach', 'IAGA:FLB']"
+Fort Chipewyan,Fort Chipewyan,Fort.Chipewyan,"['Fort.Chipewyan', 'IAGA:FCP']"
+Fort Churchill,Fort Churchill 2,Fort.Churchill.2,"['Fort.Churchill.2', 'IAGA:FCC']"
+Fort Conger,Fort Conger,Fort.Conger,"['Fort.Conger', 'IAGA:FCR']"
+Fort Mcmurray,Fort Mcmurray,Fort.Mcmurray,"['Fort.Mcmurray', 'IAGA:FMM']"
+Fort Rae,Fort Rae,Fort.Rae,"['Fort.Rae', 'IAGA:FRA']"
+Fort Severn,Fort Severn,Fort.Severn,"['Fort.Severn', 'IAGA:FSV']"
+FSP,Fort Simpson,Fort.Simpson,"['Fort.Simpson', 'IAGA:FSP']"
+FSM,Fort Smith,Fort.Smith,"['Fort.Smith', 'IAGA:FSM']"
+FYU,Fort Yukon,Fort.Yukon,"['Fort.Yukon', 'IAGA:FYU']"
+FRD,Fredericksburg,Fredericksburg,"['Fredericksburg', 'IAGA:FRD']"
+Freetown,Freetown,Freetown,"['Freetown', 'IAGA:FTN']"
+Freiberg,Freiberg,Freiberg,"['Freiberg', 'IAGA:FRB']"
+FRN,Fresno,IAGA:FRN,"['Fresno', 'IAGA:FRN']"
+Fuquene,Fuquene,IAGA:FUQ,"['Fuquene', 'IAGA:FUQ']"
+Furstenfeldbruck,Furstenfeldbruck,Furstenfeldbruck,"['Furstenfeldbruck', 'IAGA:FUR']"
+Gauss Station,Gauss Station,Gauss.Station,"['Gauss.Station', 'IAGA:GAS']"
+Gelania,Gelania,IAGA:GEL,"['Gelania', 'IAGA:GEL']"
+Genova C,Genova C,Genova.C,"['Genova.C', 'IAGA:GEN']"
+Genova Monte Capellino,Genova Monte Capellino,Genova.Monte.Capellino,"['Genova.Monte.Capellino', 'IAGA:MCP']"
+Georg Von Neumayer,Georg Von Neumayer,Georg.Von.Neumayer,"['Georg.Von.Neumayer', 'IAGA:GVN']"
+Gibilmanna,Gibilmanna,Gibilmanna,"['Gibilmanna', 'IAGA:GIB']"
+Gilgit,Gilgit,IAGA:GIT,"['Gilgit', 'IAGA:GIT']"
+GIM,Gillam,IAGA:GIM,"['Gillam', 'IAGA:GIM']"
+Girardville,Girardville,Girardville,"['Girardville', 'IAGA:GIR']"
+Gjoahavn,Gjoahavn,Gjoahavn,"['Gjoahavn', 'IAGA:GJO']"
+Glenlea,Glenlea,IAGA:GLN,"['Glenlea', 'IAGA:GLN']"
+Gnangara,Gnangara,Gnangara,"['Gnangara', 'IAGA:GNA']"
+Godhavn,Godhavn,IAGA:GDH,"['Godhavn', 'IAGA:GDH']"
+Godthaab,Godthaab,Godthaab,"['Godthaab', 'IAGA:GHB']"
+Golmud,Golmud,IAGA:GLM,"['Golmud', 'IAGA:GLM']"
+Gonzales Videla,Gonzales Videla,Gonzales.Videla,"['Gonzales.Videla', 'IAGA:GVD']"
+Gornotayezhnaya Vladivostok,Gornotayezhnaya/Vladivostok,Vladivostok,"['Vladivostok', 'IAGA:VLA']"
+Gottingen 1,Gottingen-1,Gottingen-1,"['Gottingen-1', 'IAGA:GOT']"
+Gottingen 2,Gottingen-2,Gottingen-2,"['Gottingen-2', 'IAGA:GTT']"
+Grahamstown,Grahamstown,Grahamstown,"['Grahamstown', 'IAGA:GRM']"
+Great Wall Station,Great Wall Station,Great.Wall.Station,"['Great.Wall.Station', 'IAGA:GTW']"
+Great Whale River,Great Whale River,Great.Whale.River,"['Great.Whale.River', 'IAGA:GWC']"
+Greenwich,Greenwich,Greenwich,"['Greenwich', 'IAGA:GRW']"
+Grocka,Grocka,IAGA:GCK,"['Grocka', 'IAGA:GCK']"
+Gross Raum,Gross Raum,Gross.Raum,"['Gross.Raum', 'IAGA:GRR']"
+Grytviken,Grytviken,Grytviken,"['Grytviken', 'IAGA:GTV']"
+Guam,Guam,IAGA:GUA,"['Guam', 'IAGA:GUA']"
+Guangzhou,Guangzhou,Guangzhou,"['Guangzhou', 'IAGA:GZH']"
+Guimar,Guimar,IAGA:GUI,"['Guimar', 'IAGA:GUI']"
+Hackney Wick 1,Hackney Wick 1,Hackney.Wick.1,"['Hackney.Wick.1', 'IAGA:HWK']"
+Hackney Wick 2,Hackney Wick 2,Hackney.Wick.2,"['Hackney.Wick.2', 'IAGA:BYH']"
+Hallet,Hallet,IAGA:HLL,"['Hallet', 'IAGA:HLL']"
+Halley Bay,Halley Bay,Halley.Bay,"['Halley.Bay', 'IAGA:HBA']"
+Hamburg,Hamburg,IAGA:HAM,"['Hamburg', 'IAGA:HAM']"
+HAN,Hankasalmi,Hankasalmi,"['Hankasalmi', 'IAGA:HAN']"
+Hartebeesthoek,Hartebeesthoek,Hartebeesthoek,"['Hartebeesthoek', 'IAGA:HBK']"
+Hartland,Hartland,Hartland,"['Hartland', 'IAGA:HAD']"
+Hatizyo,Hatizyo,IAGA:HTY,"['Hatizyo', 'IAGA:HTY']"
+Havana,Havana,IAGA:HVN,"['Havana', 'IAGA:HVN']"
+Hayriver,Hayriver,Hayriver,"['Hayriver', 'IAGA:HRI']"
+Healy,Healy,IAGA:HEA,"['Healy', 'IAGA:HEA']"
+Heard Island,Heard Island,Heard.Island,"['Heard.Island', 'IAGA:HII']"
+Heiss Island,Heiss Island,Heiss.Island,"['Heiss.Island', 'IAGA:HIS']"
+Hel,Hel,IAGA:HLP,"['Hel', 'IAGA:HLP']"
+Helsinki,Helsinki,Helsinki,"['Helsinki', 'IAGA:HLS']"
+Helwan,Helwan,IAGA:HLW,"['Helwan', 'IAGA:HLW']"
+Herchmer,Herchmer,Herchmer,"['Herchmer', 'IAGA:HCR']"
+Hermanus,Hermanus,Hermanus,"['Hermanus', 'IAGA:HER']"
+Hermsdorf,Hermsdorf,Hermsdorf,"['Hermsdorf', 'IAGA:HDF']"
+Hobart,Hobart,IAGA:HBT,"['Hobart', 'IAGA:HBT']"
+Hollandia,Hollandia,Hollandia,"['Hollandia', 'IAGA:HNA']"
+Holsteinsborg,Holsteinsborg,Holsteinsborg,"['Holsteinsborg', 'IAGA:HST']"
+Hong Kong,Hong Kong 1,Hong.Kong.1,"['Hong.Kong.1', 'IAGA:HKC']"
+Honolulu 1 2 3,Honolulu 1-2-3,Honolulu.1-2-3,"['Honolulu.1-2-3', 'IAGA:HON']"
+Hornsund,Hornsund,Hornsund,"['Hornsund', 'IAGA:HRN']"
+Huancayo,Huancayo,Huancayo,"['Huancayo', 'IAGA:HUA']"
+Hurbanovo,Hurbanovo,Hurbanovo,"['Hurbanovo', 'IAGA:HRB']"
+Husafell,Husafell,Husafell,"['Husafell', 'IAGA:HUS']"
+Hyderabad,Hyderabad,Hyderabad,"['Hyderabad', 'IAGA:HYB']"
+Ibadan,Ibadan,IAGA:IBD,"['Ibadan', 'IAGA:IBD']"
+Ile Ife,Ile-Ife,IAGA:IIF,"['Ile-Ife', 'IAGA:IIF']"
+Inge Lehmann,Inge Lehmann,Inge.Lehmann,"['Inge.Lehmann', 'IAGA:ILN']"
+INK,Inuvik,IAGA:INK,"['Inuvik', 'IAGA:INK']"
+IQA,Iqaluit,IAGA:IQA,"['Iqaluit', 'IAGA:IQA']"
+Isachsen,Isachsen,Isachsen,"['Isachsen', 'IAGA:ISC']"
+Islamabad,Islamabad,Islamabad,"['Islamabad', 'IAGA:ISP']"
+Island Lake,Island Lake,Island.Lake,"['Island.Lake', 'IAGA:ISL']"
+Istanbul Kandilly,Istanbul Kandilly,Istanbul.Kandilly,"['Istanbul.Kandilly', 'IAGA:ISK']"
+IVA,Ivalo,IAGA:IVA,"['Ivalo', 'IAGA:IVA']"
+Ivigtut,Ivigtut,IAGA:IVI,"['Ivigtut', 'IAGA:IVI']"
+Iznik,Iznik,IAGA:IZN,"['Iznik', 'IAGA:IZN']"
+Jaipur,Jaipur,IAGA:JAI,"['Jaipur', 'IAGA:JAI']"
+Jaluit,Jaluit,IAGA:JAL,"['Jaluit', 'IAGA:JAL']"
+JMI,Jan Mayen,Jan.Mayen,"['Jan.Mayen', 'IAGA:JMI']"
+Janow,Janow,IAGA:YNV,"['Janow', 'IAGA:YNV']"
+Jarvis Island,Jarvis Island,Jarvis.Island,"['Jarvis.Island', 'IAGA:JRV']"
+Jassy,Jassy,IAGA:JSS,"['Jassy', 'IAGA:JSS']"
+Jekman Island,Jekman Island,Jekman.Island,"['Jekman.Island', 'IAGA:JKI']"
+Johnson Point,Johnson Point,Johnson.Point,"['Johnson.Point', 'IAGA:JOP']"
+Julianehaab,Julianehaab,Julianehaab,"['Julianehaab', 'IAGA:JUL']"
+Kakadu,Kakadu,IAGA:KDU,"['Kakadu', 'IAGA:KDU']"
+Kakioka,Kakioka,IAGA:KAK,"['Kakioka', 'IAGA:KAK']"
+Kaliningrad 1,Kaliningrad-1,Kaliningrad-1,"['Kaliningrad-1', 'IAGA:KLD']"
+Kaliningrad 2,Kaliningrad-2,Kaliningrad-2,"['Kaliningrad-2', 'IAGA:KNG']"
+Kamenniyj Mys,Kamenniyj Mys,Kamenniyj.Mys,"['Kamenniyj.Mys', 'IAGA:KAM']"
+Kandalaksha,Kandalaksha,Kandalaksha,"['Kandalaksha', 'IAGA:KND']"
+Kanoya,Kanoya,IAGA:KNY,"['Kanoya', 'IAGA:KNY']"
+Kanozan,Kanozan,IAGA:KNZ,"['Kanozan', 'IAGA:KNZ']"
+Kap Tobin,Kap Tobin,Kap.Tobin,"['Kap.Tobin', 'IAGA:KTG']"
+Karachi,Karachi,IAGA:KRC,"['Karachi', 'IAGA:KRC']"
+Karavia,Karavia,IAGA:KVA,"['Karavia', 'IAGA:KVA']"
+Karmakuli,Karmakuli,Karmakuli,"['Karmakuli', 'IAGA:KAR']"
+Karsani,Karsani,IAGA:KAS,"['Karsani', 'IAGA:KAS']"
+Kashi,Kashi,IAGA:KSH,"['Kashi', 'IAGA:KSH']"
+Katuura,Katuura,IAGA:KAT,"['Katuura', 'IAGA:KAT']"
+Keetmanshoop,Keetmanshoop,Keetmanshoop,"['Keetmanshoop', 'IAGA:KEE']"
+Keles,Keles,IAGA:KEL,"['Keles', 'IAGA:KEL']"
+Kem,Kem,IAGA:KEM,"['Kem', 'IAGA:KEM']"
+Kerguelen,Kerguelen,Kerguelen,"['Kerguelen', 'IAGA:KGL']"
+Kew,Kew,IAGA:KEW,"['Kew', 'IAGA:KEW']"
+Key West,Key West,Key.West,"['Key.West', 'IAGA:KWT']"
+Khabarovsk,Khabarovsk,Khabarovsk,"['Khabarovsk', 'IAGA:KHB']"
+Kharasavey,Kharasavey,Kharasavey,"['Kharasavey', 'IAGA:KHS']"
+Kiel,Kiel,IAGA:KIE,"['Kiel', 'IAGA:KIE']"
+King George Island,King George Island,King.George.Island,"['King.George.Island', 'IAGA:KGI']"
+King Point,King Point,King.Point,"['King.Point', 'IAGA:KPT']"
+Kinguafjord,Kinguafjord,Kinguafjord,"['Kinguafjord', 'IAGA:KGF']"
+Kiruna,Kiruna,IAGA:KIR,"['Kiruna', 'IAGA:KIR']"
+Klagenfurt,Klagenfurt,Klagenfurt,"['Klagenfurt', 'IAGA:KFT']"
+Klyuchi,Klyuchi,IAGA:KLY,"['Klyuchi', 'IAGA:KLY']"
+Kodaikanal,Kodaikanal,Kodaikanal,"['Kodaikanal', 'IAGA:KOD']"
+Kontagora,Kontagora,Kontagora,"['Kontagora', 'IAGA:KNT']"
+Korets,Korets,IAGA:KTS,"['Korets', 'IAGA:KTS']"
+Koror,Koror,IAGA:KOR,"['Koror', 'IAGA:KOR']"
+Kotzebue,Kotzebue,Kotzebue,"['Kotzebue', 'IAGA:KOT']"
+Kourou,Kourou,IAGA:KOU,"['Kourou', 'IAGA:KOU']"
+Krakau,Krakau,IAGA:CRA,"['Krakau', 'IAGA:CRA']"
+Krasnaya Pakhra,Krasnaya Pakhra,Krasnaya.Pakhra,"['Krasnaya.Pakhra', 'IAGA:MOS']"
+Kremsmunster,Kremsmunster,Kremsmunster,"['Kremsmunster', 'IAGA:KRE']"
+Ksara,Ksara,IAGA:KSA,"['Ksara', 'IAGA:KSA']"
+Kuchino,Kuchino,IAGA:KTC,"['Kuchino', 'IAGA:KTC']"
+Kumasi,Kumasi,IAGA:KUM,"['Kumasi', 'IAGA:KUM']"
+Kupang,Kupang,IAGA:KUP,"['Kupang', 'IAGA:KUP']"
+Kuyper,Kuyper,IAGA:KUY,"['Kuyper', 'IAGA:KUY']"
+Kwajalein,Kwajalein,Kwajalein,"['Kwajalein', 'IAGA:KWJ']"
+Kzil Agach,Kzil-Agach,Kzil-Agach,"['Kzil-Agach', 'IAGA:KZA']"
+La Maddalena,La Maddalena,La.Maddalena,"['La.Maddalena', 'IAGA:LMD']"
+La Paz,La Paz,IAGA:LPB,"['La.Paz', 'IAGA:LPB']"
+La Quiaca,La Quiaca,La.Quiaca,"['La.Quiaca', 'IAGA:LQA']"
+Langenberg And Bochum,Langenberg And Bochum,Langenberg.And.Bochum,"['Langenberg.And.Bochum', 'IAGA:BOC']"
+Lanzhou,Lanzhou,IAGA:LZH,"['Lanzhou', 'IAGA:LZH']"
+L'Aquila,L'Aquila,L'Aquila,"[""L'Aquila"", 'IAGA:AQU']"
+Las Acacias,Las Acacias,Las.Acacias,"['Las.Acacias', 'IAGA:LAS']"
+Lauder,Lauder,IAGA:LAU,"['Lauder', 'IAGA:LAU']"
+Lazarev,Lazarev,IAGA:LZV,"['Lazarev', 'IAGA:LZV']"
+Leadville,Leadville,Leadville,"['Leadville', 'IAGA:LDV']"
+Learmonth,Learmonth,Learmonth,"['Learmonth', 'IAGA:LRM']"
+Leduc,Leduc,IAGA:LED,"['Leduc', 'IAGA:LED']"
+LRV,Leirvogur,Leirvogur,"['Leirvogur', 'IAGA:LRV']"
+Lerwick,Lerwick,IAGA:LER,"['Lerwick', 'IAGA:LER']"
+Lhasa,Lhasa,IAGA:LSA,"['Lhasa', 'IAGA:LSA']"
+Lisbon,Lisbon,IAGA:LIS,"['Lisbon', 'IAGA:LIS']"
+Little America,Little America,Little.America,"['Little.America', 'IAGA:LAA']"
+Livingston Island,Livingston Island,Livingston.Island,"['Livingston.Island', 'IAGA:LIV']"
+Logrono,Logrono,IAGA:LGR,"['Logrono', 'IAGA:LGR']"
+Lompoc,Lompoc,IAGA:LOC,"['Lompoc', 'IAGA:LOC']"
+Loparskaya Murmansk,Loparskaya/Murmansk,Murmansk,"['Murmansk', 'IAGA:MMK']"
+Loring AFB,Loring AFB,Loring.AFB,"['Loring.AFB', 'IAGA:LOB']"
+Los Angeles,Los Angeles,Los.Angeles,"['Los.Angeles', 'IAGA:LOS']"
+Lourenco Marques,Lourenco Marques,Lourenco.Marques,"['Lourenco.Marques', 'IAGA:LMM']"
+Lovo,Lovo,IAGA:LOV,"['Lovo', 'IAGA:LOV']"
+LOZ,Lovozero,Lovozero,"['Lovozero', 'IAGA:LOZ']"
+Luanda,Luanda,IAGA:LUA,"['Luanda', 'IAGA:LUA']"
+Lubeck,Lubeck,IAGA:LUB,"['Lubeck', 'IAGA:LUB']"
+LUC,Lucky Lake,Lucky.Lake,"['Lucky.Lake', 'IAGA:LUC']"
+Lukiapang 1,Lukiapang-1,Lukiapang-1,"['Lukiapang-1', 'IAGA:LKP']"
+Lukiapang 2,Lukiapang-2,Lukiapang-2,"['Lukiapang-2', 'IAGA:LUK']"
+Lunping,Lunping,IAGA:LNP,"['Lunping', 'IAGA:LNP']"
+Lvov,Lvov,IAGA:LVV,"['Lvov', 'IAGA:LVV']"
+Lwiro,Lwiro,IAGA:LWI,"['Lwiro', 'IAGA:LWI']"
+Lynn Lake,Lynn Lake,Lynn.Lake,"['Lynn.Lake', 'IAGA:LYN']"
+Macquarie Island,Macquarie Island,Macquarie.Island,"['Macquarie.Island', 'IAGA:MCQ']"
+Madras,Madras,IAGA:MDS,"['Madras', 'IAGA:MDS']"
+Madrid,Madrid,IAGA:MDD,"['Madrid', 'IAGA:MDD']"
+Magadan,Magadan,IAGA:MGD,"['Magadan', 'IAGA:MGD']"
+Magallanes,Magallanes,Magallanes,"['Magallanes', 'IAGA:MGS']"
+Maisach 1,Maisach-1,Maisach-1,"['Maisach-1', 'IAGA:MAS']"
+Maisach 2,Maisach-2,Maisach-2,"['Maisach-2', 'IAGA:MSC']"
+Maitun Vladivostok,Maitun/Vladivostok,Vladivostok,"['Vladivostok', 'IAGA:MAI']"
+Majuro,Majuro,IAGA:MJR,"['Majuro', 'IAGA:MJR']"
+Makerstoun,Makerstoun,Makerstoun,"['Makerstoun', 'IAGA:MAK']"
+Malyye Karmakuly,Malyye Karmakuly,Malyye.Karmakuly,"['Malyye.Karmakuly', 'IAGA:MKL']"
+Manado,Manado,IAGA:MND,"['Manado', 'IAGA:MND']"
+Manhay,Manhay,IAGA:MAB,"['Manhay', 'IAGA:MAB']"
+Manila,Manila,IAGA:MAN,"['Manila', 'IAGA:MAN']"
+Manzhouli,Manzhouli,Manzhouli,"['Manzhouli', 'IAGA:MZL']"
+Marion Island,Marion Island,Marion.Island,"['Marion.Island', 'IAGA:MRN']"
+Martin De Vivies,Martin De Vivies,Martin.De.Vivies,"['Martin.De.Vivies', 'IAGA:AMS']"
+Matochkin Shar,Matochkin Shar,Matochkin.Shar,"['Matochkin.Shar', 'IAGA:MSR']"
+Mauritius,Mauritius,Mauritius,"['Mauritius', 'IAGA:MRI']"
+Mawson,Mawson,IAGA:MAW,"['Mawson', 'IAGA:MAW']"
+MBour,MBour,IAGA:MBO,"['MBour', 'IAGA:MBO']"
+Mcmath Hulbert,Mcmath-Hulbert,Mcmath-Hulbert,"['Mcmath-Hulbert', 'IAGA:MMH']"
+Mcmurdo,Mcmurdo,IAGA:MCM,"['Mcmurdo', 'IAGA:MCM']"
+MEA,Meanook,IAGA:MEA,"['Meanook', 'IAGA:MEA']"
+Melbourne,Melbourne,Melbourne,"['Melbourne', 'IAGA:MEL']"
+Melville AFB,Melville AFB,Melville.AFB,"['Melville.AFB', 'IAGA:MEV']"
+Memambetsu,Memambetsu,Memambetsu,"['Memambetsu', 'IAGA:MMB']"
+Mexico City,Mexico City,Mexico.City,"['Mexico.City', 'IAGA:MEX']"
+Midway 1,Midway-1,Midway-1,"['Midway-1', 'IAGA:MDY']"
+Midway 2,Midway-2,Midway-2,"['Midway-2', 'IAGA:MID']"
+Mikolow,Mikolow,IAGA:BMK,"['Mikolow', 'IAGA:BMK']"
+Minamitory Shima,Minamitory Shima,Minamitory.Shima,"['Minamitory.Shima', 'IAGA:MIN']"
+Minneapolis,Minneapolis,Minneapolis,"['Minneapolis', 'IAGA:MNN']"
+Minsk Pleshenitzi,Minsk/Pleshenitzi,Pleshenitzi,"['Pleshenitzi', 'IAGA:MNK']"
+Mirny,Mirny,IAGA:MIR,"['Mirny', 'IAGA:MIR']"
+Misallat,Misallat,Misallat,"['Misallat', 'IAGA:MLT']"
+Miyazu,Miyazu,IAGA:MIU,"['Miyazu', 'IAGA:MIU']"
+Mizuho,Mizuho,IAGA:MIO,"['Mizuho', 'IAGA:MIO']"
+Mizusawa,Mizusawa,Mizusawa,"['Mizusawa', 'IAGA:MIZ']"
+Mo He,Mo He,IAGA:MOH,"['Mo.He', 'IAGA:MOH']"
+Moca,Moca,IAGA:MFP,"['Moca', 'IAGA:MFP']"
+Modiim,Modiim,IAGA:MOD,"['Modiim', 'IAGA:MOD']"
+Mogadiscio,Mogadiscio,Mogadiscio,"['Mogadiscio', 'IAGA:MOG']"
+Molodezhnaya,Molodezhnaya,Molodezhnaya,"['Molodezhnaya', 'IAGA:MOL']"
+Moskva,Moskva,IAGA:MSK,"['Moskva', 'IAGA:MSK']"
+Mould Bay,Mould Bay,Mould.Bay,"['Mould.Bay', 'IAGA:MBC']"
+Mount Weather,Mount Weather,Mount.Weather,"['Mount.Weather', 'IAGA:MWR']"
+Mt Clemens,Mt Clemens,Mt.Clemens,"['Mt.Clemens', 'IAGA:MCL']"
+Mt Wilson,Mt Wilson,Mt.Wilson,"['Mt.Wilson', 'IAGA:MWC']"
+Munchen,Munchen,IAGA:MNH,"['Munchen', 'IAGA:MNH']"
+Muntinlupa,Muntinlupa,Muntinlupa,"['Muntinlupa', 'IAGA:MUT']"
+Murchison Bay,Murchison Bay,Murchison.Bay,"['Murchison.Bay', 'IAGA:MUB']"
+Murmansk,Murmansk,Murmansk,"['Murmansk', 'IAGA:MRM']"
+Nagpur,Nagpur,IAGA:NGP,"['Nagpur', 'IAGA:NGP']"
+Nagycenk,Nagycenk,Nagycenk,"['Nagycenk', 'IAGA:NCK']"
+Nairobi,Nairobi,IAGA:NAI,"['Nairobi', 'IAGA:NAI']"
+Nampula,Nampula,IAGA:NMP,"['Nampula', 'IAGA:NMP']"
+Nanortalik,Nanortalik,Nanortalik,"['Nanortalik', 'IAGA:NNT']"
+Nantes,Nantes,IAGA:NTS,"['Nantes', 'IAGA:NTS']"
+Narssarssuaq,Narssarssuaq,Narssarssuaq,"['Narssarssuaq', 'IAGA:NAQ']"
+Nerchinsk,Nerchinsk,Nerchinsk,"['Nerchinsk', 'IAGA:NER']"
+Neufahrwasser,Neufahrwasser,Neufahrwasser,"['Neufahrwasser', 'IAGA:NFW']"
+Neumayer Station III,Neumayer Station III,IAGA:VNA,"['VNA', 'IAGA:VNA']"
+New Alesund,New Alesund,New.Alesund,"['New.Alesund', 'IAGA:NAL']"
+New Year Island,New Year Island,New.Year.Island,"['New.Year.Island', 'IAGA:NYI']"
+Newport,Newport,IAGA:NEW,"['Newport', 'IAGA:NEW']"
+Nice,Nice,IAGA:NCE,"['Nice', 'IAGA:NCE']"
+Nida,Nida,IAGA:NDA,"['Nida', 'IAGA:NDA']"
+Niemegk,Niemegk,IAGA:NGK,"['Niemegk', 'IAGA:NGK']"
+Nitsanim,Nitsanim,Nitsanim,"['Nitsanim', 'IAGA:NSM']"
+Nizhnedevitsk,Nizhnedevitsk,Nizhnedevitsk,"['Nizhnedevitsk', 'IAGA:NNV']"
+NRD,Nord,IAGA:NRD,"['Nord', 'IAGA:NRD']"
+Norilsk,Norilsk,IAGA:NOK,"['Norilsk', 'IAGA:NOK']"
+Norman Wells,Norman Wells,Norman.Wells,"['Norman.Wells', 'IAGA:NOW']"
+North Pole 10,North Pole 10,North.Pole.10,"['North.Pole.10', 'IAGA:NPJ']"
+North Pole 12,North Pole 12,North.Pole.12,"['North.Pole.12', 'IAGA:NPL']"
+North Pole 13,North Pole 13,North.Pole.13,"['North.Pole.13', 'IAGA:NPM']"
+North Pole 6,North Pole 6,North.Pole.6,"['North.Pole.6', 'IAGA:NPF']"
+North Pole 7,North Pole 7,North.Pole.7,"['North.Pole.7', 'IAGA:NPG']"
+North Pole 8,North Pole 8,North.Pole.8,"['North.Pole.8', 'IAGA:NPH']"
+Northway,Northway,Northway,"['Northway', 'IAGA:NRW']"
+Norway House,Norway House,Norway.House,"['Norway.House', 'IAGA:NHO']"
+Norway Station,Norway Station,Norway.Station,"['Norway.Station', 'IAGA:NWS']"
+Novokazalinsk,Novokazalinsk,Novokazalinsk,"['Novokazalinsk', 'IAGA:NKK']"
+Novolazarevskaya,Novolazarevskaya,Novolazarevskaya,"['Novolazarevskaya', 'IAGA:NVL']"
+Novosibirsk,Novosibirsk,Novosibirsk,"['Novosibirsk', 'IAGA:NVS']"
+Numto,Numto,IAGA:NMT,"['Numto', 'IAGA:NMT']"
+NUR,Nurmijarvi,Nurmijarvi,"['Nurmijarvi', 'IAGA:NUR']"
+Oasis,Oasis,IAGA:OAS,"['Oasis', 'IAGA:OAS']"
+Odessa,Odessa,IAGA:ODA,"['Odessa', 'IAGA:ODA']"
+O'Gyalia,O'Gyalia,O'Gyalia,"[""O'Gyalia"", 'IAGA:OGY']"
+Okinawa,Okinawa,IAGA:OKN,"['Okinawa', 'IAGA:OKN']"
+Onagawa,Onagawa,IAGA:ONW,"['Onagawa', 'IAGA:ONW']"
+Orange Bay,Orange Bay,Orange.Bay,"['Orange.Bay', 'IAGA:ORB']"
+Orcadas Del Sur,Orcadas Del Sur,Orcadas.Del.Sur,"['Orcadas.Del.Sur', 'IAGA:ORC']"
+Oslo,Oslo,IAGA:OSL,"['Oslo', 'IAGA:OSL']"
+Otomari,Otomari,IAGA:OTM,"['Otomari', 'IAGA:OTM']"
+OTT,Ottawa,IAGA:OTT,"['Ottawa', 'IAGA:OTT']"
+OUL,Oulujarvi,Oulujarvi,"['Oulujarvi', 'IAGA:OUL']"
+Palau,Palau,IAGA:PLA,"['Palau', 'IAGA:PLA']"
+Palmyra Island,Palmyra Island,Palmyra.Island,"['Palmyra.Island', 'IAGA:PAI']"
+Panagyurishte,Panagyurishte,Panagyurishte,"['Panagyurishte', 'IAGA:PAG']"
+Papeete,Papeete,IAGA:PPT,"['Papeete', 'IAGA:PPT']"
+Paramaribo,Paramaribo,Paramaribo,"['Paramaribo', 'IAGA:PAB']"
+Paratunka Petropavlovsk,Paratunka/Petropavlovsk,Petropavlovsk,"['Petropavlovsk', 'IAGA:PET']"
+Patacamaya,Patacamaya,Patacamaya,"['Patacamaya', 'IAGA:PTY']"
+Patrick,Patrick,IAGA:PAT,"['Patrick', 'IAGA:PAT']"
+Patrony Irkoutsk,Patrony/Irkoutsk,Irkoutsk,"['Irkoutsk', 'IAGA:IRT']"
+Pebek,Pebek,IAGA:PBK,"['Pebek', 'IAGA:PBK']"
+Pedeli,Pedeli,IAGA:PEG,"['Pedeli', 'IAGA:PEG']"
+Peking,Peking 1,Peking.1,"['Peking.1', 'IAGA:PEK']"
+Penang,Penang,IAGA:PNN,"['Penang', 'IAGA:PNN']"
+Perpignan,Perpignan,Perpignan,"['Perpignan', 'IAGA:PER']"
+Petsamo,Petsamo,IAGA:PTS,"['Petsamo', 'IAGA:PTS']"
+Philadelphia,Philadelphia,Philadelphia,"['Philadelphia', 'IAGA:PGC']"
+Phutuy,Phutuy,IAGA:PHU,"['Phutuy', 'IAGA:PHU']"
+Pilar,Pilar,IAGA:PIL,"['Pilar', 'IAGA:PIL']"
+Pionerskaya,Pionerskaya,Pionerskaya,"['Pionerskaya', 'IAGA:PIO']"
+Pitlekaya,Pitlekaya,Pitlekaya,"['Pitlekaya', 'IAGA:PTL']"
+Plaisance,Plaisance,Plaisance,"['Plaisance', 'IAGA:PLS']"
+Plateau,Plateau,IAGA:PTU,"['Plateau', 'IAGA:PTU']"
+Podkamenaya Tunguska,Podkamenaya Tunguska,Podkamenaya.Tunguska,"['Podkamenaya.Tunguska', 'IAGA:POD']"
+POK,Poker Flat,Poker.Flat,"['Poker.Flat', 'IAGA:POK']"
+Pola,Pola,IAGA:POL,"['Pola', 'IAGA:POL']"
+Pondicherry,Pondicherry,Pondicherry,"['Pondicherry', 'IAGA:PND']"
+Port Aux Francais,Port Aux Francais,Port.Aux.Francais,"['Port.Aux.Francais', 'IAGA:PAF']"
+Port Foulke,Port Foulke,Port.Foulke,"['Port.Foulke', 'IAGA:PFK']"
+Port Jeanne D'Arc,Port Jeanne D'Arc,Port.Jeanne.D'Arc,"[""Port.Jeanne.D'Arc"", 'IAGA:PJA']"
+Port Moresby,Port Moresby,Port.Moresby,"['Port.Moresby', 'IAGA:PMG']"
+Port Stanley,Port Stanley,Port.Stanley,"['Port.Stanley', 'IAGA:PST']"
+Poste De La Baleine,Poste De La Baleine,Poste.De.La.Baleine,"['Poste.De.La.Baleine', 'IAGA:PBQ']"
+Potsdam,Potsdam,IAGA:POT,"['Potsdam', 'IAGA:POT']"
+Prague,Prague,IAGA:PRA,"['Prague', 'IAGA:PRA']"
+Preobrazhenia,Preobrazhenia,Preobrazhenia,"['Preobrazhenia', 'IAGA:PRE']"
+Price,Price,IAGA:PCU,"['Price', 'IAGA:PCU']"
+Pruhonice,Pruhonice,Pruhonice,"['Pruhonice', 'IAGA:PRU']"
+Qianling,Qianling,Qianling,"['Qianling', 'IAGA:QIX']"
+Qiongzhong,Qiongzhong,Qiongzhong,"['Qiongzhong', 'IAGA:QGZ']"
+Qsaybeh,Qsaybeh,IAGA:QSB,"['Qsaybeh', 'IAGA:QSB']"
+Quanzhou,Quanzhou,Quanzhou,"['Quanzhou', 'IAGA:QZH']"
+Quetta,Quetta,IAGA:QUE,"['Quetta', 'IAGA:QUE']"
+Raciborg,Raciborg,Raciborg,"['Raciborg', 'IAGA:RAC']"
+RIT,Rankin Inlet,Rankin.Inlet,"['Rankin.Inlet', 'IAGA:RIT']"
+Rapid City,Rapid City,Rapid.City,"['Rapid.City', 'IAGA:RPC']"
+Refuge Harbour,Refuge Harbour,Refuge.Harbour,"['Refuge.Harbour', 'IAGA:RFH']"
+Regensberg,Regensberg,Regensberg,"['Regensberg', 'IAGA:REG']"
+Resolute Bay,Resolute Bay,Resolute.Bay,"['Resolute.Bay', 'IAGA:RES']"
+Rio De Janeiro,Rio De Janeiro,Rio.De.Janeiro,"['Rio.De.Janeiro', 'IAGA:RDJ']"
+Roburent,Roburent,Roburent,"['Roburent', 'IAGA:ROB']"
+Roi Baudouin,Roi Baudouin,Roi.Baudouin,"['Roi.Baudouin', 'IAGA:RBD']"
+Rostock,Rostock,IAGA:ROK,"['Rostock', 'IAGA:ROK']"
+Rostov On Don,Rostov On Don,Rostov.On.Don,"['Rostov.On.Don', 'IAGA:ROD']"
+Rude Skov,Rude Skov,Rude.Skov,"['Rude.Skov', 'IAGA:RSV']"
+Rybachy,Rybachy,IAGA:RYB,"['Rybachy', 'IAGA:RYB']"
+S Cruz De Tenerife Las Mesas,S Cruz De Tenerife/Las Mesas,Las.Mesas,"['Las.Mesas', 'IAGA:TEN']"
+Sabhawala,Sabhawala,Sabhawala,"['Sabhawala', 'IAGA:SAB']"
+Sable Island,Sable Island,Sable.Island,"['Sable.Island', 'IAGA:SBL']"
+Sachs Harbour,Sachs Harbour,Sachs.Harbour,"['Sachs.Harbour', 'IAGA:SAH']"
+Sagastyr,Sagastyr,Sagastyr,"['Sagastyr', 'IAGA:SAG']"
+Saint Maur,Saint Maur,Saint.Maur,"['Saint.Maur', 'IAGA:PSM']"
+San Fernando,San Fernando,San.Fernando,"['San.Fernando', 'IAGA:SFS']"
+San Jose Dos Campos,San Jose Dos Campos,San.Jose.Dos.Campos,"['San.Jose.Dos.Campos', 'IAGA:SJB']"
+San Jose Las Lajas,San Jose Las Lajas,San.Jose.Las.Lajas,"['San.Jose.Las.Lajas', 'IAGA:SJL']"
+San Juan 1 2 3,San Juan 1-2-3,San.Juan.1-2-3,"['San.Juan.1-2-3', 'IAGA:SJG']"
+San Miguel,San Miguel,San.Miguel,"['San.Miguel', 'IAGA:SMG']"
+San Pablo De Los Montes,San Pablo De Los Montes,San.Pablo.De.Los.Montes,"['San.Pablo.De.Los.Montes', 'IAGA:SPT']"
+Sanae,Sanae,IAGA:SNA,"['Sanae', 'IAGA:SNA']"
+Santiago,Santiago,Santiago,"['Santiago', 'IAGA:SNT']"
+Sanya,Sanya,IAGA:SAN,"['Sanya', 'IAGA:SAN']"
+Saskatoon,Saskatoon,Saskatoon,"['Saskatoon', 'IAGA:SAS']"
+Scoresby Sund,Scoresby Sund,Scoresby.Sund,"['Scoresby.Sund', 'IAGA:SCO']"
+Scott Base,Scott Base,Scott.Base,"['Scott.Base', 'IAGA:SBA']"
+Sdr Stromfjord,Sdr Stromfjord,Sdr.Stromfjord,"['Sdr.Stromfjord', 'IAGA:STF']"
+Seddin,Seddin,IAGA:SED,"['Seddin', 'IAGA:SED']"
+Seoul,Seoul,IAGA:SEO,"['Seoul', 'IAGA:SEO']"
+Seykha,Seykha,IAGA:SEY,"['Seykha', 'IAGA:SEY']"
+Shatsk,Shatsk,IAGA:SHT,"['Shatsk', 'IAGA:SHT']"
+She Shan,She-Shan,She-Shan,"['She-Shan', 'IAGA:SSH']"
+Shepherd Bay,Shepherd Bay,Shepherd.Bay,"['Shepherd.Bay', 'IAGA:SHB']"
+Shillong,Shillong,Shillong,"['Shillong', 'IAGA:SHL']"
+SHU,Shumagin,Shumagin,"['Shumagin', 'IAGA:SHU']"
+Sidmouth,Sidmouth,Sidmouth,"['Sidmouth', 'IAGA:SDH']"
+Silchar,Silchar,IAGA:SIL,"['Silchar', 'IAGA:SIL']"
+Simferopol,Simferopol,Simferopol,"['Simferopol', 'IAGA:SIM']"
+Simosato,Simosato,Simosato,"['Simosato', 'IAGA:SSO']"
+Singapore,Singapore,Singapore,"['Singapore', 'IAGA:SIN']"
+Siple,Siple,IAGA:SPL,"['Siple', 'IAGA:SPL']"
+SIT,Sitka,IAGA:SIT,"['Sitka', 'IAGA:SIT']"
+Slutsk,Slutsk,IAGA:SLU,"['Slutsk', 'IAGA:SLU']"
+Sodankyla,Sodankyla,Sodankyla,"['Sodankyla', 'IAGA:SOD']"
+Sogra,Sogra,IAGA:SOG,"['Sogra', 'IAGA:SOG']"
+Sonmiani,Sonmiani,Sonmiani,"['Sonmiani', 'IAGA:SON']"
+Soroa,Soroa,IAGA:SOR,"['Soroa', 'IAGA:SOR']"
+South Georgia,South Georgia,South.Georgia,"['South.Georgia', 'IAGA:SGE']"
+South Pole,South Pole,South.Pole,"['South.Pole', 'IAGA:SPA']"
+South Uist,South Uist,South.Uist,"['South.Uist', 'IAGA:SOU']"
+Spitsbergen,Spitsbergen,Spitsbergen,"['Spitsbergen', 'IAGA:SPB']"
+Srednikan,Srednikan,Srednikan,"['Srednikan', 'IAGA:SRE']"
+Srobarova,Srobarova,Srobarova,"['Srobarova', 'IAGA:SRO']"
+St Helier,St Helier,St.Helier,"['St.Helier', 'IAGA:STH']"
+STJ,St. John's,St.John's,"[""St.John's"", 'IAGA:STJ']"
+St. Petersburg,St. Petersburg,St..Petersburg,"['St..Petersburg', 'IAGA:SPE']"
+Stepanovka,Stepanovka,Stepanovka,"['Stepanovka', 'IAGA:ODE']"
+Stettin Zabelsdorf,Stettin-Zabelsdorf,Stettin-Zabelsdorf,"['Stettin-Zabelsdorf', 'IAGA:SZA']"
+Stonyhurst,Stonyhurst,Stonyhurst,"['Stonyhurst', 'IAGA:STO']"
+Sudbury,Sudbury,IAGA:SUB,"['Sudbury', 'IAGA:SUB']"
+Sukkertoppen,Sukkertoppen,Sukkertoppen,"['Sukkertoppen', 'IAGA:SKT']"
+Surlari,Surlari,IAGA:SUA,"['Surlari', 'IAGA:SUA']"
+Sveagruva,Sveagruva,Sveagruva,"['Sveagruva', 'IAGA:SVG']"
+Sverdlovsk Yekaterinburg,Sverdlovsk/Yekaterinburg,Yekaterinburg,"['Yekaterinburg', 'IAGA:SVE']"
+Swider,Swider,IAGA:SWI,"['Swider', 'IAGA:SWI']"
+Sydney,Sydney,IAGA:SYD,"['Sydney', 'IAGA:SYD']"
+Syowa Base,Syowa Base,Syowa.Base,"['Syowa.Base', 'IAGA:SYO']"
+Tacubaya,Tacubaya,Tacubaya,"['Tacubaya', 'IAGA:TAC']"
+Tahiti,Tahiti,IAGA:TAH,"['Tahiti', 'IAGA:TAH']"
+Taipei Taihoku,Taipei/Taihoku,IAGA:TAP,"['Taihoku', 'IAGA:TAP']"
+Talara,Talara,IAGA:TAL,"['Talara', 'IAGA:TAL']"
+Talkeetna,Talkeetna,Talkeetna,"['Talkeetna', 'IAGA:TLK']"
+Tamanrasset,Tamanrasset,Tamanrasset,"['Tamanrasset', 'IAGA:TAM']"
+Tambey,Tambey,IAGA:TMB,"['Tambey', 'IAGA:TMB']"
+Tampa,Tampa,IAGA:TPA,"['Tampa', 'IAGA:TPA']"
+Tangerang,Tangerang,Tangerang,"['Tangerang', 'IAGA:TNG']"
+Tashkent 1,Tashkent-1,Tashkent-1,"['Tashkent-1', 'IAGA:TAS']"
+Tashkent 2 Yangi Bazar,Tashkent-2/Yangi-Bazar,Yangi-Bazar,"['Yangi-Bazar', 'IAGA:TKT']"
+Tasiusak,Tasiusak,Tasiusak,"['Tasiusak', 'IAGA:TSK']"
+Tate's Cairn,Tate's Cairn,Tate's.Cairn,"[""Tate's.Cairn"", 'IAGA:TCN']"
+Tatuoca,Tatuoca,IAGA:TTB,"['Tatuoca', 'IAGA:TTB']"
+Teheran,Teheran,IAGA:TEH,"['Teheran', 'IAGA:TEH']"
+Tellnitz,Tellnitz,Tellnitz,"['Tellnitz', 'IAGA:TEL']"
+Teoloyucan,Teoloyucan,Teoloyucan,"['Teoloyucan', 'IAGA:TEO']"
+Teplitz Bay,Teplitz Bay,Teplitz.Bay,"['Teplitz.Bay', 'IAGA:TPB']"
+Terra Nova Bay,Terra Nova Bay,Terra.Nova.Bay,"['Terra.Nova.Bay', 'IAGA:TNB']"
+Terre Adelie,Terre Adelie,Terre.Adelie,"['Terre.Adelie', 'IAGA:TAA']"
+Tevriz,Tevriz,IAGA:TEV,"['Tevriz', 'IAGA:TEV']"
+Thompson,Thompson,Thompson,"['Thompson', 'IAGA:TMP']"
+Thule 1 Dundas,Thule 1/Dundas,IAGA:THD,"['Dundas', 'IAGA:THD']"
+Thule 2 Camp Tuto,Thule-2/Camp Tuto,Camp.Tuto,"['Camp.Tuto', 'IAGA:THU']"
+Thule 3 Qanaq,Thule-3/Qanaq,IAGA:THL,"['Qanaq', 'IAGA:THL']"
+Tiflis,Tiflis,IAGA:TIF,"['Tiflis', 'IAGA:TIF']"
+Tihany,Tihany,IAGA:THY,"['Tihany', 'IAGA:THY']"
+Tikhaya Bay,Tikhaya Bay,Tikhaya.Bay,"['Tikhaya.Bay', 'IAGA:TKH']"
+Tiouine,Tiouine,IAGA:TIO,"['Tiouine', 'IAGA:TIO']"
+Tiruchirapalli,Tiruchirapalli,Tiruchirapalli,"['Tiruchirapalli', 'IAGA:TIP']"
+Tirunelveli,Tirunelveli,Tirunelveli,"['Tirunelveli', 'IAGA:TIR']"
+Tixie Bay,Tixie Bay,Tixie.Bay,"['Tixie.Bay', 'IAGA:TIK']"
+Tokyo,Tokyo,IAGA:TOK,"['Tokyo', 'IAGA:TOK']"
+Toledo,Toledo,IAGA:TOL,"['Toledo', 'IAGA:TOL']"
+Tomsk,Tomsk,IAGA:TMK,"['Tomsk', 'IAGA:TMK']"
+Tondano,Tondano,IAGA:TND,"['Tondano', 'IAGA:TND']"
+Tonghai,Tonghai,IAGA:THJ,"['Tonghai', 'IAGA:THJ']"
+Toolangi,Toolangi,Toolangi,"['Toolangi', 'IAGA:TOO']"
+Toronto,Toronto,IAGA:TOR,"['Toronto', 'IAGA:TOR']"
+Toulouse,Toulouse,Toulouse,"['Toulouse', 'IAGA:TLS']"
+Toungoo,Toungoo,IAGA:TGO,"['Toungoo', 'IAGA:TGO']"
+Toyoharanew,Toyoharanew,Toyoharanew,"['Toyoharanew', 'IAGA:TOH']"
+Trelew,Trelew,IAGA:TRW,"['Trelew', 'IAGA:TRW']"
+Trivandrum,Trivandrum,Trivandrum,"['Trivandrum', 'IAGA:TRD']"
+TRO,Tromso,IAGA:TRO,"['Tromso', 'IAGA:TRO']"
+Tsingtao Qingdao,Tsingtao/Qingdao,IAGA:TSI,"['Qingdao', 'IAGA:TSI']"
+Tsumeb,Tsumeb,IAGA:TSU,"['Tsumeb', 'IAGA:TSU']"
+TUC,Tucson,IAGA:TUC,"['Tucson', 'IAGA:TUC']"
+Tulsa,Tulsa,IAGA:TUL,"['Tulsa', 'IAGA:TUL']"
+Tungsten,Tungsten,Tungsten,"['Tungsten', 'IAGA:TST']"
+Tuntungan,Tuntungan,Tuntungan,"['Tuntungan', 'IAGA:TUN']"
+Uccle,Uccle,IAGA:UCC,"['Uccle', 'IAGA:UCC']"
+Ugut,Ugut,IAGA:UGT,"['Ugut', 'IAGA:UGT']"
+Ujjain,Ujjain,IAGA:UJJ,"['Ujjain', 'IAGA:UJJ']"
+Ukhta,Ukhta,IAGA:UKH,"['Ukhta', 'IAGA:UKH']"
+Ulan Bator,Ulan Bator,Ulan.Bator,"['Ulan.Bator', 'IAGA:UBA']"
+Umba,Umba,IAGA:UMA,"['Umba', 'IAGA:UMA']"
+Uppsala.1,Uppsala.1,Uppsala.1,"['Uppsala.1', 'IAGA:UPP']"
+Uppsala.2,Uppsala.2,Uppsala.2,"['Uppsala.2', 'IAGA:UPS']"
+Uranium City,Uranium City,Uranium.City,"['Uranium.City', 'IAGA:URC']"
+Urumqi,Urumqi,IAGA:WMQ,"['Urumqi', 'IAGA:WMQ']"
+Utrecht,Utrecht,IAGA:UTR,"['Utrecht', 'IAGA:UTR']"
+Val Joyeux,Val Joyeux,Val.Joyeux,"['Val.Joyeux', 'IAGA:VLJ']"
+Valentia,Valentia,Valentia,"['Valentia', 'IAGA:VAL']"
+Van Rensselaer,Van Rensselaer,Van.Rensselaer,"['Van.Rensselaer', 'IAGA:VAN']"
+Vassouras,Vassouras,Vassouras,"['Vassouras', 'IAGA:VSS']"
+VIC,Victoria,Victoria,"['Victoria', 'IAGA:VIC']"
+Vieques,Vieques,IAGA:VQS,"['Vieques', 'IAGA:VQS']"
+Villa Remedios,Villa Remedios,Villa.Remedios,"['Villa.Remedios', 'IAGA:VRE']"
+Visakhapatnam,Visakhapatnam,Visakhapatnam,"['Visakhapatnam', 'IAGA:VSK']"
+Voeikovo,Voeikovo,Voeikovo,"['Voeikovo', 'IAGA:LNN']"
+Voroshilov,Voroshilov,Voroshilov,"['Voroshilov', 'IAGA:VOR']"
+VOS,Vostok,IAGA:VOS,"['Vostok', 'IAGA:VOS']"
+Vykhodnoy,Vykhodnoy,Vykhodnoy,"['Vykhodnoy', 'IAGA:VYK']"
+Vysokaya Dubrava,Vysokaya Dubrava,Vysokaya.Dubrava,"['Vysokaya.Dubrava', 'IAGA:SVD']"
+Wake Island,Wake Island,Wake.Island,"['Wake.Island', 'IAGA:WKE']"
+Warnkenhagen,Warnkenhagen,Warnkenhagen,"['Warnkenhagen', 'IAGA:WRH']"
+Warsaw,Warsaw,IAGA:WSW,"['Warsaw', 'IAGA:WSW']"
+Washington,Washington,Washington,"['Washington', 'IAGA:WDC']"
+Watheroo,Watheroo,Watheroo,"['Watheroo', 'IAGA:WAT']"
+Weston,Weston,IAGA:WES,"['Weston', 'IAGA:WES']"
+White Shell,White Shell,White.Shell,"['White.Shell', 'IAGA:WHS']"
+Wien,Wien,IAGA:WIK,"['Wien', 'IAGA:WIK']"
+Wien Auhof,Wien-Auhof,Wien-Auhof,"['Wien-Auhof', 'IAGA:WIA']"
+Wien Kobenzl,Wien-Kobenzl,Wien-Kobenzl,"['Wien-Kobenzl', 'IAGA:WIK']"
+Wilhelmshaven,Wilhelmshaven,Wilhelmshaven,"['Wilhelmshaven', 'IAGA:WLH']"
+Wilkes,Wilkes,IAGA:WIL,"['Wilkes', 'IAGA:WIL']"
+Wingst,Wingst,IAGA:WNG,"['Wingst', 'IAGA:WNG']"
+Winnipeg,Winnipeg,Winnipeg,"['Winnipeg', 'IAGA:WNP']"
+Witteveen,Witteveen,Witteveen,"['Witteveen', 'IAGA:WIT']"
+Wuhan,Wuhan,IAGA:WHN,"['Wuhan', 'IAGA:WHN']"
+Wustrow,Wustrow,IAGA:WUS,"['Wustrow', 'IAGA:WUS']"
+Yakutsk,Yakutsk,IAGA:YAK,"['Yakutsk', 'IAGA:YAK']"
+Yangi Bazar,Yangi Bazar,Yangi.Bazar,"['Yangi.Bazar', 'IAGA:TKT']"
+Yauca,Yauca,IAGA:YAU,"['Yauca', 'IAGA:YAU']"
+YKC,Yellowknife,Yellowknife,"['Yellowknife', 'IAGA:YKC']"
+Yuzhno Sakhalinsk,Yuzhno Sakhalinsk,Yuzhno.Sakhalinsk,"['Yuzhno.Sakhalinsk', 'IAGA:YSS']"
+Yuzhny Shar,Yuzhny Shar,Yuzhny.Shar,"['Yuzhny.Shar', 'IAGA:YSH']"
+Zaimishche Kazan,Zaimishche/Kazan,IAGA:KZN,"['Kazan', 'IAGA:KZN']"
+Zaria,Zaria,IAGA:ZAR,"['Zaria', 'IAGA:ZAR']"
+Zhong Shan,Zhong Shan,Zhong.Shan,"['Zhong.Shan', 'IAGA:ZHS']"
+Zi Ka Wei,Zi Ka Wei,Zi.Ka.Wei,"['Zi.Ka.Wei', 'IAGA:ZKW']"
+Zinzen,Zinzen,IAGA:ZIN,"['Zinzen', 'IAGA:ZIN']"
+Zo Se,Zo Se,IAGA:ZSC,"['Zo.Se', 'IAGA:ZSC']"
+Zuy,Zuy,IAGA:ZUY,"['Zuy', 'IAGA:ZUY']"
+IBEX,IBEX,Interstellar Boundary Explorer,['']
+ICESTAR Observatory Group,ICESTAR Observatory Group,ICESTAR Ground Observatory Group,['ICESTAR Ground Observatory Group']
+AGO P1,AGO P1,AGO P1,['']
+AGO P2,AGO P2,AGO P2,['']
+AGO P3,AGO P3,AGO P3,['']
+AGO P4,AGO P4,AGO P4,['']
+AGO P5,AGO P5,AGO P5,['']
+AGO P6,AGO P6,AGO P6,['']
+Gakona,Gakona,Gakona,['']
+Iqaluit,Iqaluit,Iqaluit,['']
+McMurdo,McMurdo,McMurdo,['']
+South Pole,South Pole,South Pole,['']
+ICON,Ionospheric Connection Explorer,Ionospheric Connection,"['ICON', '44628']"
+IGPP LANL Observatory Group,IGPP LANL Observatory Group,IGPP LANL magnetometer chain,['IGPP LANL magnetometer chain']
+IGPP LANL Air Force Academy Magnetometer,IGPP-LANL Air Force Academy Magnetometer,IGPP-LANL Air Force Academy Magnetometer,['']
+IGPP LANL Boulder Magnetometer,IGPP-LANL Boulder Magnetometer,IGPP-LANL Boulder Magnetometer,['']
+IGPP LANL Cambridge Magnetometer,IGPP-LANL Cambridge Magnetometer,IGPP-LANL Cambridge Magnetometer,['']
+IGPP LANL Crete Magnetometer,IGPP-LANL Crete Magnetometer,IGPP-LANL Crete Magnetometer,['']
+IGPP LANL Jicamarca Magnetometer,IGPP-LANL Jicamarca Magnetometer,IGPP-LANL Jicamarca Magnetometer,['']
+IGPP LANL Los Alamos National Laboratory Magnetometer,IGPP-LANL Los Alamos National Laboratory Magnetometer,IGPP-LANL Los Alamos National Laboratory Magnetometer,['']
+IGPP LANL Rapid City Magnetometer,IGPP-LANL Rapid City Magnetometer,IGPP-LANL Rapid City Magnetometer,['']
+IGPP LANL San Gabriel Dam Magnetometer,IGPP-LANL San Gabriel Dam Magnetometer,IGPP-LANL San Gabriel Dam Magnetometer,['']
+IGPP LANL SE Louisiana University Magnetometer,IGPP-LANL SE Louisiana University Magnetometer,IGPP-LANL SE Louisiana University Magnetometer,['']
+IGPP LANL Table Mountain Magnetometer,IGPP-LANL Table Mountain Magnetometer,IGPP-LANL Table Mountain Magnetometer,['']
+IGPP LANL Teoloyucan Magnetometer,IGPP-LANL Teoloyucan Magnetometer,IGPP-LANL Teoloyucan Magnetometer,['']
+IGS,International GNSS Service (IGS),International GNSS Service,['International GPS Service']
+Indian Institute of Geomagnetism,Indian Institute of Geomagnetism,IIG,['IIG']
+IMAGE,IMAGE,Imager for Magnetopause-to-Aurora Global Exploration,"['2000-017A', 'MIDEX/IMAGE', 'Imager for Magnetopause-to-Aurora Global Exploration', 'Explorer 78']"
+IMP,IMP Spacecraft Series,IMP Spacecraft Series,['']
+IMP 4,IMP 4,Explorer 34,"['1967-051A', 'IMP-F', 'Explorer 34']"
+IMP 5,IMP 5,Explorer 41,"['1969-053A', 'IMP-G', 'Explorer 41']"
+IMP 6,IMP 6,Explorer 43,"['1971-019A', 'Explorer 43', 'IMP-I']"
+IMP 7,IMP 7,Explorer 47,"['1972-073A', 'Explorer 47', 'IMP-H']"
+IMP 8,IMP 8,Explorer 50,"['IMP-J', 'Explorer 50', '1973-078A']"
+Injun,Injun 5,Explorer 40,"['Explorer 40', 'Injun-C']"
+Interball 1,Interball-1,Interball Tail Probe,"['1995-039A', 'Interball Tail Probe', 'Prognoz 11']"
+Interball 2,Interball-2,Interball Auroral Probe,"['1996-050C', 'Auroral Probe', 'Prognoz 2M', 'Interball Auroral Probe', 'Prognoz 12']"
+Interball Auroral,Interball Auroral,Interball Auroral,['']
+Interball Tail,Interball Tail,Interball Tail,['']
+IRIDIUM,IRIDIUM,IRIDIUM,['']
+IRIDIUM_1_70,IRIDIUM_1_70,IRIDIUM_1_70,['']
+IRIS,Interface Region Imaging Spectrograph (IRIS),Interface Region Imaging Spectrograph,['2013-033A']
+ISEE,ISEE Mission,International Sun-Earth Explorer,['']
+ISEE 1,ISEE 1,International Sun-Earth Explorer-A,"['1977-102A', 'International Sun-Earth Explorer-A', 'Explorer 56', 'ISEE-A']"
+ISEE 2,ISEE 2,International Sun-Earth Explorer-B,"['1977-102B', 'International Sun-Earth Explorer-B', 'ISEE-B']"
+ISEE 3,ISEE 3,International Sun-Earth Explorer-C,"['1978-079A', 'International Sun-Earth Explorer-C', 'ISEE-C', 'International Cometary Explorer', 'ICE', 'Explorer 59']"
+ISIS,ISIS Satellites,International Sats for Ionosph Studies,['International Sats for Ionosph Studies']
+ISIS 1,ISIS 1,International Sats for Ionosph Studies,"['1969-009A', 'International Sats for Ionosph Studies', 'ISIS-A']"
+ISIS 2,ISIS 2,International Sats for Ionosph Studies,"['1971-024A', 'International Sats for Ionosph Studies', 'ISIS-B']"
+ISLL,ISLL,ISLL,['']
+ISS,International Space Station,International Space Station,['']
+JSPO,JSPO,JSPO,['']
+Juno,Juno,Juno Orbiter,['Juno Orbiter']
+Kaguya (SELENE),Kaguya (SELENE),Kaguya (SELENE),['']
+Kitt Peak,Kitt Peak,KP,['KP']
+Korean Multi Purpose Satellite (KOMPSAT 1),Korean Multi-Purpose Satellite (KOMPSAT-1),Korean Multi-Purpose Satellite (KOMPSAT-1),['']
+KSO,KSO,KSO,['']
+LANL,LANL Spacecraft Series,LANL Spacecraft Series,['']
+LANL01A,LANL01A,LANL01A,['']
+LANL02A,LANL02A,LANL02A,['']
+LANL1989,LANL1989,1989-046,['1989-046']
+LANL1990,LANL1990,1990-095,['1990-095']
+LANL1991,LANL1991,1991-080,['1991-080']
+LANL1994,LANL1994,1994-084,['1994-084']
+LANL-97A,LANL1997,LANL-97A,['LANL-97A']
+LANL-01A,LANL2001,LANL-01A,['LANL-01A']
+LANL-02sA,LANL2002,LANL-02sA,['LANL-02sA']
+LANL-97,LANL97A,LANL-97,['LANL-97']
+LOFAR,LOFAR,LOFAR,['']
+Magion 4,Magion-4,Tail Subsatellite S2-X,"['1995-039F', 'S2-X', 'Tail Subsatellite S2-X', 'Interball S2-X']"
+Magsat,Magsat,Explorer 61,"['1979-094A', 'Explorer 61']"
+Mariner,Mariner 10,Mariner 10,['']
+Mars Express,Mars Express,Mars Express,['']
+MSL,"Mars Science Laboratory, MSL",Mars Science Laboratory,['Curiosity']
+MAVEN,Mars Atmosphere and Volatile Evolution,Mars Atmosphere and Volatile EvolutioN,['MAVEN']
+Mid continent Magnetoseismic Chain (McMAC) Americus Station,Mid-continent Magnetoseismic Chain (McMAC) Americus Station,Mid-continent Magnetoseismic Chain (McMAC) Americus Station,['']
+Mid continent Magnetoseismic Chain (McMAC) Bennington Station,Mid-continent Magnetoseismic Chain (McMAC) Bennington Station,Mid-continent Magnetoseismic Chain (McMAC) Bennington Station,['']
+Mid continent Magnetoseismic Chain (McMAC) Glyndon Station,Mid-continent Magnetoseismic Chain (McMAC) Glyndon Station,Mid-continent Magnetoseismic Chain (McMAC) Glyndon Station,['']
+Mid continent Magnetoseismic Chain (McMAC) Linares Station,Mid-continent Magnetoseismic Chain (McMAC) Linares Station,Mid-continent Magnetoseismic Chain (McMAC) Linares Station,['']
+Mid continent Magnetoseismic Chain (McMAC) Lyford Station,Mid-continent Magnetoseismic Chain (McMAC) Lyford Station,Mid-continent Magnetoseismic Chain (McMAC) Lyford Station,['']
+Mid continent Magnetoseismic Chain (McMAC) Purcell Station,Mid-continent Magnetoseismic Chain (McMAC) Purcell Station,Mid-continent Magnetoseismic Chain (McMAC) Purcell Station,['']
+Mid continent Magnetoseismic Chain (McMAC) Richardson Station,Mid-continent Magnetoseismic Chain (McMAC) Richardson Station,Mid-continent Magnetoseismic Chain (McMAC) Richardson Station,['']
+Mid continent Magnetoseismic Chain (McMAC) San Antonio Station,Mid-continent Magnetoseismic Chain (McMAC) San Antonio Station,Mid-continent Magnetoseismic Chain (McMAC) San Antonio Station,['']
+Mid continent Magnetoseismic Chain (McMAC) Worthington Station,Mid-continent Magnetoseismic Chain (McMAC) Worthington Station,Mid-continent Magnetoseismic Chain (McMAC) Worthington Station,['']
+MEASURE,MEASURE,The observatory group created to represent the chain of stations in the MEASURE Array.,"['MEASURE Observatory Chain', 'The observatory group created to represent the chain of stations in the MEASURE Array.']"
+Applied Physics Lab Geomagnetic Observatory,Applied Physics Lab Geomagnetic Observatory,Applied Physics Lab Geomagnetic Observatory,['']
+Bullcreek Observatory Geomagnetic Observatory,Bullcreek Observatory Geomagnetic Observatory,Bullcreek Observatory Geomagnetic Observatory,['']
+Clarkson University Geomagnetic Observatory,Clarkson University Geomagnetic Observatory,Clarkson University Geomagnetic Observatory,['']
+Darksky Observatory Geomagnetic Observatory,Darksky Observatory Geomagnetic Observatory,Darksky Observatory Geomagnetic Observatory,['']
+Grafton Test Facility Geomagnetic Observatory,Grafton Test Facility Geomagnetic Observatory,Grafton Test Facility Geomagnetic Observatory,['']
+The Jacksonville University Geomagnetic Observatory.,The Jacksonville University Geomagnetic Observatory.,The Jacksonville University Geomagnetic Observatory.,['']
+The Millstone Hill Geomagnetic Observatory.,The Millstone Hill Geomagnetic Observatory.,The Millstone Hill Geomagnetic Observatory.,['']
+The University of South Carolina Geomagnetic Observatory.,The University of South Carolina Geomagnetic Observatory.,The University of South Carolina Geomagnetic Observatory.,['']
+MESSENGER,MESSENGER,"Mercury Surface, Space Environment, Geochemistry and Ranging","['Mercury Surface, Space Environment, Geochemistry and Ranging']"
+MetOp A,MetOp-A,MetOp-A,['']
+MetOp A,MetOp-A,MetOp-A,['']
+Observatoire de Paris (Meudon site),Observatoire de Paris (Meudon site),Observatoire de Paris (Meudon site),['']
+MGS,Mars Global Surveyor,Mars Global Surveyor,"['1996-062A', 'MGS', '1996-062A']"
+Magnetosphere Ionosphere Coupling in the Alfvén resonator (MICA),Magnetosphere-Ionosphere Coupling in the Alfvén resonator (MICA),Magnetosphere-Ionosphere Coupling in the Alfvén resonator (MICA),['']
+MMS,MMS,Magnetospheric Multiscale,['']
+MMS 1,MMS-1,MMS-1,['']
+MMS 2,MMS-2,MMS-2,['']
+MMS 3,MMS-3,MMS-3,['']
+MMS 4,MMS-4,MMS-4,['']
+Munin Spacecraft,Munin Spacecraft,Munin Spacecraft,['']
+Neutron Monitor Stations,Neutron Monitor Stations,Neutron Monitor Stations,['']
+Fort Smith,Fort Smith,Fort Smith,['']
+Inuvik,Inuvik,Inuvik,['']
+McMurdo,McMurdo,McMurdo,['']
+Nain,Nain,Nain,['']
+Peawanuck,Peawanuck,Peawanuck,['']
+South Pole,South Pole,South Pole,['']
+SwarthmoreNewark,SwarthmoreNewark,SwarthmoreNewark,['']
+Thule,Thule,Thule,['']
+Climax,Climax,Climax,['']
+Haleakala,Haleakala,Haleakala,['']
+Huancayo,Huancayo,Huancayo,['']
+New Horizons,New Horizons,New Horizons Pluto Kuiper Belt Flyby,['New Horizons Pluto Kuiper Belt Flyby']
+Nimbus,Nimbus 7,Nimbus 7,['']
+NOAA 10,NOAA 10,1986-073A,['1986-073A']
+NOAA 11,NOAA 11,NOAA 11,['']
+NOAA 12,NOAA 12,1991-032A,"['1991-032A', 'NOAA-D']"
+NOAA 13,NOAA 13,Advanced TIROS-N (ATN),"['1993-050A', 'NOAA-I', 'Advanced TIROS-N (ATN)', 'POES']"
+NOAA 14,NOAA 14,Advanced TIROS-N (ATN),"['1994-089A', 'Advanced TIROS-N (ATN)', 'POES', 'NOAA-J']"
+NOAA 15,NOAA 15,Polar Operational Environmental Satellite,"['1998-030A', 'Polar Operational Environmental Satellite', 'POES 15', 'Advanced TIROS-N (ATN)']"
+NOAA 16,NOAA 16,Advanced TIROS-N (ATN),"['2000-055A', 'Advanced TIROS-N (ATN)', 'POES 16']"
+NOAA 17,NOAA 17,Advanced TIROS-N (ATN),"['2002-032A', 'Advanced TIROS-N (ATN)']"
+NOAA 18,NOAA 18,Advanced TIROS-N (ATN),"['2005-018A', 'Advanced TIROS-N (ATN)']"
+NOAA 19,NOAA 19,NOAA-N Prime,"['2009-005A', 'NOAA-N Prime']"
+NOAA 5,NOAA 5,1976-077A,"['1976-077A', 'ITOS-H']"
+NOAA 6,NOAA 6,1979-057A,"['1979-057A', 'NOAA-A']"
+NOAA 7,NOAA 7,1981-059A,"['1981-059A', 'NOAA-C']"
+NOAA 8,NOAA 8,1983-022A,"['1983-022A', 'NOAA-E']"
+NOAA,NOAA 9,NOAA 9,['']
+NOB_RH,NOB_RH,NOB_RH,['']
+NSO Observatory Group,NSO Observatory Group,NSO Observatory Group,['']
+OAC,OAC,OAC,['']
+ObsParis,ObsParis,ObsParis,['']
+Oersted,Oersted,NSSDC ID: 1999-008B,"['Orsted', 'NSSDC ID: 1999-008B']"
+OGO,OGO Satellites,OGO Satellites,['']
+OGO 2,OGO 2,1965-081A,"['OGO-C', 'POGO 1', '01620', '1965-081A']"
+OGO 4,OGO 4,1967-073A,"['1967-073A', 'OGO-D', 'POGO 2']"
+OGO 6,OGO 6,1969-051A,"['1969-051A', 'OGO-F', 'PL-691D', 'S 60', 'POGO 3']"
+Ohzora,Ohzora,Exospheric Sat. C,"['1984-015A', 'Exospheric Sat. C', 'EXOS-C']"
+OMNI,OMNI,OMNI,['']
+OV1 19,OV1-19,1969-025C,"['LANL97A', '1969-025C', '03825']"
+OV3 3,OV3-3,1966-070A,"['1966-070A', '02389']"
+PADRE,PADRE,Solar Polarization and Directivity X-Ray Experiment,['Solar Polarization and Directivity X-Ray Experiment']
+PSP,Parker Solar Probe Spacecraft,Parker Solar Probe,"['PSP', 'Solar Probe Plus Spacecraft', 'SPP']"
+Phobos,Phobos 2,Fobos 2,['Fobos 2']
+PICARD,PICARD,PICARD,['']
+Pic du Midi,Pic du Midi,Pic du Midi,['']
+PINA,PINA,PINA,['']
+Pioneer,Pioneer Spacecraft Series,Pioneer Spacecraft Series,['']
+Pioneer 10,Pioneer 10,1972-012A,"['1972-012A', 'Pioneer-F']"
+Pioneer 11,Pioneer 11,1973-019A,"['1973-019A', 'Pioneer-G']"
+Pioneer Venus Orbiter,Pioneer Venus Orbiter,Pioneer Venus 1978 Orbiter,"['1978-051A', 'Pioneer Venus 1', 'PVO', 'Pioneer 12', 'Pioneer Venus 1978 Orbiter']"
+Polar orbiting Operational Environmental Satellite (POES),Polar-orbiting Operational Environmental Satellite (POES),Polar-orbiting Operational Environmental Satellite (POES),['']
+Polar,POLAR,Polar,"['Polar Plasma Laboratory', 'GGS/Polar', 'ISTP/Polar']"
+PROBA 2,PROBA2,PROBA2,['']
+Prognoz,Prognoz Spacecraft Series,Prognoz Spacecraft Series,['']
+Prognoz 6,Prognoz 6,1977-093A,['1977-093A']
+Prognoz 7,Prognoz 7,1978-101A,['1978-101A']
+Prognoz 9,Prognoz 9,1983-067A,"['1983-067A', 'Relict']"
+RABB,RABB,RABB,['']
+Radio JOVE Observatory Network,Radio JOVE Observatory Network,Radio JOVE Observatory Network,['']
+AJ4CO Radio Observatory,AJ4CO Radio Observatory,AJ4CO,['AJ4CO']
+Hawk's Nest Radio Astronomy Observatory,Hawk's Nest Radio Astronomy Observatory,HNRAO,['HNRAO']
+Middle Tennessee State University,Middle Tennessee State University,MTSU,['MTSU']
+RANK,RANK,RANK,['']
+RBSP,Radiation Belt Storm Probe Satellite,Van Allen Probes,"['Radiation Belt Storm Probe', 'Van Allen Probes']"
+Van Allen Probe A,Van Allen Probe A,Radiation Belt Storm Probe A,['Radiation Belt Storm Probe A']
+Van Allen Probe B,Van Allen Probe B,Radiation Belt Storm Probe B,['Radiation Belt Storm Probe B']
+Redline Emission Geospace Observatory (rEGO),Redline Emission Geospace Observatory (rEGO),Redline Emission Geospace Observatory (rEGO),['']
+RENU 2,"Rocket Experiment for Neutral Upwelling 2, RENU 2, Sounding Rocket Payload",Rocket Experiment for Neutral Upwelling 2,['']
+RHESSI,RHESSI,Reuven Ramaty High Energy Solar Spectroscope Imager,"['2002-004A', 'SMEX/RHESSI', 'Small Explorer/RHESSI', 'HESSI', 'Reuven Ramaty High Energy Solar Spectroscopic Imager']"
+ROCSAT-1,ROCSAT-1,Republic of China Satellite-1,"['Formosat-1', 'Republic of China Satellite-1']"
+Rosetta,Rosetta,Rosetta Comet Rendezvous,['Rosetta Comet Rendezvous']
+S-Cubed_A,S-Cubed A,S-Cubed A,"['Explorer 45', 'SSS-A']"
+S3 3,S3-3,SESP S74-2A,"['SESP S74-2A', 'SS74-2A', 'S74-2', '09007']"
+SAC-C,SAC-C Project,SAC-C Project,"['Satélite de Aplicaciones Científicas-C', 'Scientific Application Satellite-C', 'Oersted-2', 'NSSDC ID: 2000-075B']"
+Sakigake,Sakigake,Pioneer,['Pioneer']
+SAMPEX,SAMPEX,Solar Anomalous and Magnetospheric Particle Explorer,"['1992-038A', 'Small Explorer/SAMPEX', 'Explorer 68', 'SMEX/SAMPEX', 'Solar Anomalous and Magnetospheric Particle Explorer']"
+San Fernando Observatory,San Fernando Observatory,San Fernando Observatory,['']
+San Marco DL,San Marco-DL,San Marco-DL,['']
+SCATHA,SCATHA,Spacecraft Charging AT High Altitude,"['Spacecraft Charging AT High Altitudes', 'STP P78-2']"
+SDIC,SDIC,SDIC,['']
+SDO,SDO,Solar Dynamics Observatory,['Solar Dynamics Observatory']
+Spherical Elementary Current Systems,Spherical Elementary Current Systems,Spherical Elementary Current Systems,['']
+SESAME,SESAME,Satellite Experiments Simultaneous with Antarctic MEasurements,['Satellite Experiments Simultaneous with Antarctic MEasurements']
+Sodankylä Geophysical Observatory,Sodankylä Geophysical Observatory,Sodankylä Geophysical Observatory,['']
+Siple Experiment,Siple Experiment,Siple Experiment,['']
+Skylab,Skylab,1973-027A,['1973-027A']
+SME,SME,SME,['']
+Solar wind Magnetosphere Ionosphere Link Explorer (SMILE),Solar wind-Magnetosphere-Ionosphere Link Explorer (SMILE),Solar wind-Magnetosphere-Ionosphere Link Explorer (SMILE),['']
+SNOE,Student Nitric Oxide Explorer (SNOE),Student Nitric Oxide Explorer,['']
+SOHO,SOHO,Solar and Heliospheric Observatory,"['1995-065A', 'Solar and Heliospheric Observatory']"
+SOLIS,SOLIS,SOLIS,['']
+SORCE,SORCE,Solar Radiation and Climate Experiment,"['2003-004A', 'SOlar Radiation and Climate Experiment']"
+SRN,SRN,Station de Radioastronomie de Nançay,"['Nançay Radioastronomy Observatory', 'Station de Radioastronomie de Nançay', 'Unité Scientifique de Nançay']"
+LOFAR FR606 High Band Array,LOFAR FR606 High Band Array,LOFAR FR606 High Band Array,['']
+LOFAR FR606 Low Band Array,LOFAR FR606 Low Band Array,LOFAR FR606 Low Band Array,['']
+Nancay Decameter Array,Nancay Decameter Array,Nancay Decameter Array,['']
+NenuFAR,NenuFAR,NenuFAR,['']
+Nancay Radioheliograph,Nancay Radioheliograph,Nancay Radioheliograph,['']
+Nancay Radioheliograph,Nancay Radioheliograph,Nancay Radioheliograph,['']
+ORFEES,ORFEES,ORFEES,['']
+ST5,ST5 Mission,ST5 Mission,['']
+ST5 094,ST5-094,2006-008B,"['ST5-B', '2006-008B']"
+ST5 155,ST5-155,2006-008A,"['ST5-A', '2006-008A']"
+ST5 224,ST5-224,2006-008C,"['ST5-C', '2006-008C']"
+Solar Terrestrial Energy Program,Solar-Terrestrial Energy Program,STEP,['STEP']
+STEREO,STEREO Mission,Solar-Terrestrial Relations Observatory,['']
+STEREO A,STEREO A,Solar Terrestrial Relations Observatory A,"['STEREO Ahead', 'STEREO East', 'Solar Terrestrial Relations Observatory A']"
+STEREO B,STEREO B,Solar Terrestrial Relations Observatory B,"['STEREO Behind', 'STEREO West', 'Solar Terrestrial Relations Observatory B']"
+STPSat 1,STPSat-1,STPSat-1,['']
+Suisei,Suisei,Planet A,['Planet A']
+SuperDARN,SuperDARN,SuperDARN,['']
+SuperMAG,SuperMAG,SuperMAG,['']
+Syowa Upper Atmosphere Physics Monitoring Data,Syowa Upper Atmosphere Physics Monitoring Data,SYO,['SYO']
+TALO,TALO,TALO,['']
+THEMIS,THEMIS,Time History of Events and Macroscale Interactions during Substorms,['MIDEX/THEMIS']
+THEMIS-A,THEMIS-A,Time History of Events and Macroscale Interactions during Substorms A,"['Explorer 85', '2007-004A', 'MIDEX/THEMIS', 'THEMIS-P5', '30580']"
+THEMIS-B,THEMIS-B,Time History of Events and Macroscale Interactions during Substorms B,"['Explorer 86', '2007-004B', 'MIDEX/THEMIS', 'THEMIS-P1', 'ARTEMIS-P1', '30581']"
+THEMIS-C,THEMIS-C,Time History of Events and Macroscale Interactions during Substorms C,"['Explorer 87', '2007-004C', 'MIDEX/THEMIS', 'THEMIS-P2', 'ARTEMIS-P2', '30582']"
+THEMIS-D,THEMIS-D,Time History of Events and Macroscale Interactions during Substorms D,"['Explorer 88', '2007-004D', 'MIDEX/THEMIS', 'THEMIS-P3', '30797']"
+THEMIS-E,THEMIS-E,Time History of Events and Macroscale Interactions during Substorms E,"['Explorer 89', '2007-004E', 'MIDEX/THEMIS', 'THEMIS-P4', '30798']"
+THEMIS Ground,THEMIS-Associated Ground Magnetometer Stations,THEMIS-Associated Ground Magnetometer Stations,['']
+CANMAG,CANMAG,Canadian Magnetometer Array,['NASA THEMIS CANMAG Ground Stations']
+NASA THEMIS GBO Athabasca Station,NASA THEMIS GBO Athabasca Station,ATHA,['ATHA']
+NASA THEMIS GBO Fort Simpson Station,NASA THEMIS GBO Fort Simpson Station,FSIM,['FSIM']
+NASA THEMIS GBO Fort Smith Station,NASA THEMIS GBO Fort Smith Station,FSMI,['FSMI']
+NASA THEMIS GBO Fort Yukon Station,NASA THEMIS GBO Fort Yukon Station,FYKN,['FYKN']
+NASA THEMIS GBO Gakona Station,NASA THEMIS GBO Gakona Station,GAKO,['GAKO']
+NASA THEMIS GBO Gillam Station,NASA THEMIS GBO Gillam Station,GILL,['GILL']
+NASA THEMIS GBO Pinawa Station,NASA THEMIS GBO Pinawa Station,PINA,['PINA']
+NASA THEMIS GBO Rankin Station,NASA THEMIS GBO Rankin Station,RANK,['RANK']
+NASA THEMIS GBO Sanikiluaq Station,NASA THEMIS GBO Sanikiluaq Station,SNKQ,"['SNKQ', 'SNK']"
+THEMIS GIMA,THEMIS-GIMA,NASA THEMIS Ground Stations in Alaska,['NASA THEMIS Ground Stations in Alaska']
+EPO,THEMIS-EPO,NASA THEMIS EPO Ground Stations,['NASA THEMIS EPO Ground Stations']
+NASA THEMIS EPO Bay Mills Station,NASA THEMIS EPO Bay Mills Station,BMLS,['BMLS']
+NASA THEMIS EPO Carson City Station,NASA THEMIS EPO Carson City Station,CCNV,['CCNV']
+NASA THEMIS EPO Derby Station,NASA THEMIS EPO Derby Station,DRBY,['DRBY']
+NASA THEMIS EPO Fort Yates Station,NASA THEMIS EPO Fort Yates Station,FYTS,['FYTS']
+NASA THEMIS EPO Hot Springs Station,NASA THEMIS EPO Hot Springs Station,HOTS,['HOTS']
+NASA THEMIS EPO Loysburg Station,NASA THEMIS EPO Loysburg Station,LOYS,['LOYS']
+NASA THEMIS EPO Pine Ridge Station,NASA THEMIS EPO Pine Ridge Station,PINE,['PINE']
+NASA THEMIS EPO Petersburg Station,NASA THEMIS EPO Petersburg Station,PTRS,['PTRS']
+NASA THEMIS EPO Remus Station,NASA THEMIS EPO Remus Station,RMUS,"['RMUS', 'RUMS']"
+NASA THEMIS EPO Shawano Station,NASA THEMIS EPO Shawano Station,SWNO,['SWNO']
+NASA THEMIS EPO Ukiah Station,NASA THEMIS EPO Ukiah Station,UKIA,['UKIA']
+THEMIS GBO,THEMIS-GBO,NASA THEMIS GBO Ground Stations,['NASA THEMIS GBO Ground Stations']
+NASA THEMIS GBO Chibougamau Station,NASA THEMIS GBO Chibougamau Station,CHBG,['CHBG']
+NASA THEMIS GBO Lac de Gras Station,NASA THEMIS GBO Lac de Gras Station,EKAT,['EKAT']
+NASA THEMIS GBO Goose Bay Station,NASA THEMIS GBO Goose Bay Station,GBAY,['GBAY']
+NASA THEMIS GBO Inuvik Station,NASA THEMIS GBO Inuvik Station,INUV,['INUV']
+NASA THEMIS GBO Kapuskasing Station,NASA THEMIS GBO Kapuskasing Station,KAPU,['KAPU']
+NASA THEMIS GBO Kiana Station,NASA THEMIS GBO Kiana Station,KIAN,['KIAN']
+NASA THEMIS GBO Kuujjuarapik Station,NASA THEMIS GBO Kuujjuarapik Station,KUUJ,['KUUJ']
+NASA THEMIS GBO McGrath Station,NASA THEMIS GBO McGrath Station,MCGR,['MCGR']
+NASA THEMIS GBO Narsarsuaq Station,NASA THEMIS GBO Narsarsuaq Station,NRSQ,['NRSQ']
+NASA THEMIS GBO Prince George Station,NASA THEMIS GBO Prince George Station,PGEO,['PGEO']
+NASA THEMIS GBO Snap Lake Station,NASA THEMIS GBO Snap Lake Station,SNAP,['SNAP']
+NASA THEMIS GBO Taloyoak Station,NASA THEMIS GBO Taloyoak Station,TALO,['TALO']
+NASA THEMIS GBO The Pas Station,NASA THEMIS GBO The Pas Station,TPAS,['TPAS']
+NASA THEMIS GBO White Horse Station,NASA THEMIS GBO White Horse Station,WHIT,['WHIT']
+NASA THEMIS GBO Yellow Knife Station,NASA THEMIS GBO Yellow Knife Station,YKNF,['YKNF']
+THULE,THULE,THULE,['']
+TIMED,TIMED,Thermosphere-Ionosphere-Mesosphere Energetics and Dynamics,"['2001-055B', 'Thermosphere Ionosphere Mesosphere Energetics and Dynamics']"
+TIROSN,TIROSN,TIROSN,['']
+TRACE,TRACE,Transition Region and Coronal Explorer,"['1998-020A', 'SMEX/TRACE', 'Small Explorer/TRACE', 'Transition Region and Coronal Explorer', 'Explorer 73']"
+Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites,Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites,Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites,['Tandem Reconnection and Cusp Electrodynamics Reconnaissance Satellites']
+TRACERS 1,TRACERS 1,TRACERS Mission TRACERS 1 spacecraft,['TRACERS Mission TRACERS 1 spacecraft']
+TRACERS 2,TRACERS 2,TRACERS Mission TRACERS 2 spacecraft,['TRACERS Mission TRACERS 2 spacecraft']
+Transition Region Explorer (TREx),Transition Region Explorer (TREx),Transition Region Explorer (TREx),['']
+TWINS,TWINS Mission,Two Wide-angle Imaging Neutral Atom Spectrometers,['']
+TWINS 1,TWINS 1,TWINS 1,['']
+TWINS 2,TWINS 2,TWINS 2,['']
+UARS,UARS,Upper Atmosphere Research Satellite,['']
+SPSG,Space Plasma Simulation Group,UCLA Space Plasma Simulation Group,"['UCLA Space Plasma Simulation Group', 'SPSG']"
+Ulysses,Ulysses,International Solar Polar Mission,"['1990-090B', 'Solar Polar', 'International Solar Polar Mission', 'ULY']"
+University of New Hampshire Observatory,University of New Hampshire Observatory,University of New Hampshire Observatory,['']
+Vega,Vega Mission,Vega Mission,['Venera-Halley']
+Vega 1,Vega 1,Venera-Halley 1,"['Venera-Halley 1', '1984-125A']"
+Vega 2,Vega 2,Venera-Halley 2,"['Venera-Halley 2', '1984-128A']"
+Venus Express,Venus Express,Venus Express,['']
+Voyager,Voyager Spacecraft,Voyager 1 & 2,['']
+Voyager 1,Voyager 1,Mariner Jupiter/Saturn A,"['1977-084A', 'Mariner Jupiter/Saturn A']"
+Voyager 2,Voyager 2,Mariner Jupiter/Saturn B,"['1977-076A', 'Mariner Jupiter/Saturn B']"
+WDC,WDC,World Data Center Ground Observatories,"['WDC Ground Observatories', 'World Data Center Ground Observatories']"
+Abinger Ground Observatory,Abinger Ground Observatory,Abinger Ground Observatory,['']
+Abisko Ground Observatory,Abisko Ground Observatory,Abisko Ground Observatory,['']
+Addis Ababa Ground Observatory,Addis Ababa Ground Observatory,Addis Ababa Ground Observatory,['']
+Agincourt Ground Observatory,Agincourt Ground Observatory,Agincourt Ground Observatory,['']
+Alert Ground Observatory,Alert Ground Observatory,Alert Ground Observatory,['']
+Alibag Ground Observatory,Alibag Ground Observatory,Alibag Ground Observatory,['']
+Alice Springs Ground Observatory,Alice Springs Ground Observatory,Alice Springs Ground Observatory,['']
+Alma Ata Ground Observatory,Alma Ata Ground Observatory,Alma Ata Ground Observatory,['']
+Almeria Ground Observatory,Almeria Ground Observatory,Almeria Ground Observatory,['']
+Amatsia Ground Observatory,Amatsia Ground Observatory,Amatsia Ground Observatory,['']
+Amberley Ground Observatory,Amberley Ground Observatory,Amberley Ground Observatory,['']
+Anchorage Ground Observatory,Anchorage Ground Observatory,Anchorage Ground Observatory,['']
+Annamalainagar Ground Observatory,Annamalainagar Ground Observatory,Annamalainagar Ground Observatory,['']
+Antananarivo Ground Observatory,Antananarivo Ground Observatory,Antananarivo Ground Observatory,['']
+Apia Ground Observatory,Apia Ground Observatory,Apia Ground Observatory,['']
+Arctowski Ground Observatory,Arctowski Ground Observatory,Arctowski Ground Observatory,['']
+Arkhangelsk Ground Observatory,Arkhangelsk Ground Observatory,Arkhangelsk Ground Observatory,['']
+Arti Ground Observatory,Arti Ground Observatory,Arti Ground Observatory,['']
+Ascension Ground Observatory,Ascension Ground Observatory,Ascension Ground Observatory,['']
+Aso Ground Observatory,Aso Ground Observatory,Aso Ground Observatory,['']
+Baguio Ground Observatory,Baguio Ground Observatory,Baguio Ground Observatory,['']
+Baker Lake Ground Observatory,Baker Lake Ground Observatory,Baker Lake Ground Observatory,['']
+Bangui Ground Observatory,Bangui Ground Observatory,Bangui Ground Observatory,['']
+Bar Gyora Ground Observatory,Bar Gyora Ground Observatory,Bar Gyora Ground Observatory,['']
+Barrow Ground Observatory,Barrow Ground Observatory,Barrow Ground Observatory,['']
+Bay St. Louis Ground Observatory,Bay St. Louis Ground Observatory,Bay St. Louis Ground Observatory,['']
+Bear Island Ground Observatory,Bear Island Ground Observatory,Bear Island Ground Observatory,['']
+Beijing Ground Observatory,Beijing Ground Observatory,Beijing Ground Observatory,['']
+Beijing Ming Tombs Ground Observatory,Beijing Ming Tombs Ground Observatory,Beijing Ming Tombs Ground Observatory,['']
+Beloit Ground Observatory,Beloit Ground Observatory,Beloit Ground Observatory,['']
+Belsk Ground Observatory,Belsk Ground Observatory,Belsk Ground Observatory,['']
+Bereznyaki Ground Observatory,Bereznyaki Ground Observatory,Bereznyaki Ground Observatory,['']
+Big Delta Ground Observatory,Big Delta Ground Observatory,Big Delta Ground Observatory,['']
+Borok Ground Observatory,Borok Ground Observatory,Borok Ground Observatory,['']
+Boulder Ground Observatory,Boulder Ground Observatory,Boulder Ground Observatory,['']
+Brorfelde Ground Observatory,Brorfelde Ground Observatory,Brorfelde Ground Observatory,['']
+Budkov Ground Observatory,Budkov Ground Observatory,Budkov Ground Observatory,['']
+Burlington Ground Observatory,Burlington Ground Observatory,Burlington Ground Observatory,['']
+Byrd Station Ground Observatory,Byrd Station Ground Observatory,Byrd Station Ground Observatory,['']
+Cambridge Bay Ground Observatory,Cambridge Bay Ground Observatory,Cambridge Bay Ground Observatory,['']
+Canberra Ground Observatory,Canberra Ground Observatory,Canberra Ground Observatory,['']
+Cape Chelyuskin Ground Observatory,Cape Chelyuskin Ground Observatory,Cape Chelyuskin Ground Observatory,['']
+Cape Town Ground Observatory,Cape Town Ground Observatory,Cape Town Ground Observatory,['']
+Cape Wellen Ground Observatory,Cape Wellen Ground Observatory,Cape Wellen Ground Observatory,['']
+Carrollton Ground Observatory,Carrollton Ground Observatory,Carrollton Ground Observatory,['']
+Casey Ground Observatory,Casey Ground Observatory,Casey Ground Observatory,['']
+Castellaccio Ground Observatory,Castellaccio Ground Observatory,Castellaccio Ground Observatory,['']
+Chambon la Foret Ground Observatory,Chambon-la-Foret Ground Observatory,Chambon-la-Foret Ground Observatory,['']
+Changchun Ground Observatory,Changchun Ground Observatory,Changchun Ground Observatory,['']
+Characato Ground Observatory,Characato Ground Observatory,Characato Ground Observatory,['']
+Charcot Ground Observatory,Charcot Ground Observatory,Charcot Ground Observatory,['']
+Charters Towers Ground Observatory,Charters Towers Ground Observatory,Charters Towers Ground Observatory,['']
+Cheltenham Ground Observatory,Cheltenham Ground Observatory,Cheltenham Ground Observatory,['']
+Chengdu Ground Observatory,Chengdu Ground Observatory,Chengdu Ground Observatory,['']
+Chichijima Ground Observatory,Chichijima Ground Observatory,Chichijima Ground Observatory,['']
+Coimbra Ground Observatory,Coimbra Ground Observatory,Coimbra Ground Observatory,['']
+College Ground Observatory,College Ground Observatory,College Ground Observatory,['']
+Dallas Ground Observatory,Dallas Ground Observatory,Dallas Ground Observatory,['']
+Davao Ground Observatory,Davao Ground Observatory,Davao Ground Observatory,['']
+Davis Ground Observatory,Davis Ground Observatory,Davis Ground Observatory,['']
+De Bilt Ground Observatory,De Bilt Ground Observatory,De Bilt Ground Observatory,['']
+Del Rio Ground Observatory,Del Rio Ground Observatory,Del Rio Ground Observatory,['']
+Dixon Ground Observatory,Dixon Ground Observatory,Dixon Ground Observatory,['']
+Dombas Ground Observatory,Dombas Ground Observatory,Dombas Ground Observatory,['']
+Dourbes Ground Observatory,Dourbes Ground Observatory,Dourbes Ground Observatory,['']
+Dumont d'Urville Ground Observatory,Dumont d'Urville Ground Observatory,Dumont d'Urville Ground Observatory,['']
+Dusheti Ground Observatory,Dusheti Ground Observatory,Dusheti Ground Observatory,['']
+Easter Island Ground Observatory,Easter Island Ground Observatory,Easter Island Ground Observatory,['']
+Ebro Ground Observatory,Ebro Ground Observatory,Ebro Ground Observatory,['']
+Eights Ground Observatory,Eights Ground Observatory,Eights Ground Observatory,['']
+Eilat Ground Observatory,Eilat Ground Observatory,Eilat Ground Observatory,['']
+Esashi Ground Observatory,Esashi Ground Observatory,Esashi Ground Observatory,['']
+Eskdalemuir Ground Observatory,Eskdalemuir Ground Observatory,Eskdalemuir Ground Observatory,['']
+Etaiyapuram Ground Observatory,Etaiyapuram Ground Observatory,Etaiyapuram Ground Observatory,['']
+Eyrewell Ground Observatory,Eyrewell Ground Observatory,Eyrewell Ground Observatory,['']
+Fanning Ground Observatory,Fanning Ground Observatory,Fanning Ground Observatory,['']
+Faraday Islands Ground Observatory,Faraday Islands Ground Observatory,Faraday Islands Ground Observatory,['']
+Fort Churchill Ground Observatory,Fort Churchill Ground Observatory,Fort Churchill Ground Observatory,['']
+Fredericksburg Ground Observatory,Fredericksburg Ground Observatory,Fredericksburg Ground Observatory,['']
+Freetown Ground Observatory,Freetown Ground Observatory,Freetown Ground Observatory,['']
+Fresno Ground Observatory,Fresno Ground Observatory,Fresno Ground Observatory,['']
+Fuquene Ground Observatory,Fuquene Ground Observatory,Fuquene Ground Observatory,['']
+Furstenfeldbruck Ground Observatory,Furstenfeldbruck Ground Observatory,Furstenfeldbruck Ground Observatory,['']
+Glenlea Ground Observatory,Glenlea Ground Observatory,Glenlea Ground Observatory,['']
+Gnangara Ground Observatory,Gnangara Ground Observatory,Gnangara Ground Observatory,['']
+Godhavn Ground Observatory,Godhavn Ground Observatory,Godhavn Ground Observatory,['']
+Golmud Ground Observatory,Golmud Ground Observatory,Golmud Ground Observatory,['']
+Gornotayezhnaya Ground Observatory,Gornotayezhnaya Ground Observatory,Gornotayezhnaya Ground Observatory,['']
+Grahamstown Ground Observatory,Grahamstown Ground Observatory,Grahamstown Ground Observatory,['']
+Great Whale River Ground Observatory,Great Whale River Ground Observatory,Great Whale River Ground Observatory,['']
+Grocka Ground Observatory,Grocka Ground Observatory,Grocka Ground Observatory,['']
+Guam Ground Observatory,Guam Ground Observatory,Guam Ground Observatory,['']
+Guangzhou Ground Observatory,Guangzhou Ground Observatory,Guangzhou Ground Observatory,['']
+Guimar Ground Observatory,Guimar Ground Observatory,Guimar Ground Observatory,['']
+Halley Bay Ground Observatory,Halley Bay Ground Observatory,Halley Bay Ground Observatory,['']
+Hartebeesthoek Ground Observatory,Hartebeesthoek Ground Observatory,Hartebeesthoek Ground Observatory,['']
+Hartland Ground Observatory,Hartland Ground Observatory,Hartland Ground Observatory,['']
+Hatizyo Ground Observatory,Hatizyo Ground Observatory,Hatizyo Ground Observatory,['']
+Havana Ground Observatory,Havana Ground Observatory,Havana Ground Observatory,['']
+Heiss Island Ground Observatory,Heiss Island Ground Observatory,Heiss Island Ground Observatory,['']
+Hel Ground Observatory,Hel Ground Observatory,Hel Ground Observatory,['']
+Helwan Ground Observatory,Helwan Ground Observatory,Helwan Ground Observatory,['']
+Hermanus,Hermanus,Hermanus,['']
+Hollandia Ground Observatory,Hollandia Ground Observatory,Hollandia Ground Observatory,['']
+Honolulu,Honolulu,Honolulu,['']
+Hornsund Ground Observatory,Hornsund Ground Observatory,Hornsund Ground Observatory,['']
+Huancayo Ground Observatory,Huancayo Ground Observatory,Huancayo Ground Observatory,['']
+Hurbanovo Ground Observatory,Hurbanovo Ground Observatory,Hurbanovo Ground Observatory,['']
+Hyderabad Ground Observatory,Hyderabad Ground Observatory,Hyderabad Ground Observatory,['']
+Ibadan Ground Observatory,Ibadan Ground Observatory,Ibadan Ground Observatory,['']
+Iqaluit Ground Observatory,Iqaluit Ground Observatory,Iqaluit Ground Observatory,['']
+Istanbul Kandilli Ground Observatory,Istanbul Kandilli Ground Observatory,Istanbul Kandilli Ground Observatory,['']
+Jaipur Ground Observatory,Jaipur Ground Observatory,Jaipur Ground Observatory,['']
+Jarvis Island Ground Observatory,Jarvis Island Ground Observatory,Jarvis Island Ground Observatory,['']
+Kakadu Ground Observatory,Kakadu Ground Observatory,Kakadu Ground Observatory,['']
+Kakioka,Kakioka,Kakioka,['']
+Kanoya Ground Observatory,Kanoya Ground Observatory,Kanoya Ground Observatory,['']
+Kanozan Ground Observatory,Kanozan Ground Observatory,Kanozan Ground Observatory,['']
+Karachi Ground Observatory,Karachi Ground Observatory,Karachi Ground Observatory,['']
+Kashi Ground Observatory,Kashi Ground Observatory,Kashi Ground Observatory,['']
+Kiev Ground Observatory,Kiev Ground Observatory,Kiev Ground Observatory,['']
+Kiruna Ground Observatory,Kiruna Ground Observatory,Kiruna Ground Observatory,['']
+Kodaikanal Ground Observatory,Kodaikanal Ground Observatory,Kodaikanal Ground Observatory,['']
+Koror Ground Observatory,Koror Ground Observatory,Koror Ground Observatory,['']
+Kourou Ground Observatory,Kourou Ground Observatory,Kourou Ground Observatory,['']
+Kr. Pakhra Ground Observatory,Kr. Pakhra Ground Observatory,Kr. Pakhra Ground Observatory,['']
+La Quiaca Ground Observatory,La Quiaca Ground Observatory,La Quiaca Ground Observatory,['']
+Lanzhou Ground Observatory,Lanzhou Ground Observatory,Lanzhou Ground Observatory,['']
+L'Aquila Ground Observatory,L'Aquila Ground Observatory,L'Aquila Ground Observatory,['']
+Las Mesas Ground Observatory,Las Mesas Ground Observatory,Las Mesas Ground Observatory,['']
+Leadville Ground Observatory,Leadville Ground Observatory,Leadville Ground Observatory,['']
+Learmonth Ground Observatory,Learmonth Ground Observatory,Learmonth Ground Observatory,['']
+Leirvogur Ground Observatory,Leirvogur Ground Observatory,Leirvogur Ground Observatory,['']
+Leningradskaya Ground Observatory,Leningradskaya Ground Observatory,Leningradskaya Ground Observatory,['']
+Lerwick Ground Observatory,Lerwick Ground Observatory,Lerwick Ground Observatory,['']
+Little America Ground Observatory,Little America Ground Observatory,Little America Ground Observatory,['']
+Livingston Island Ground Observatory,Livingston Island Ground Observatory,Livingston Island Ground Observatory,['']
+Logrono Ground Observatory,Logrono Ground Observatory,Logrono Ground Observatory,['']
+Loparskoe Ground Observatory,Loparskoe Ground Observatory,Loparskoe Ground Observatory,['']
+Lovo Ground Observatory,Lovo Ground Observatory,Lovo Ground Observatory,['']
+Luanda Capelo Ground Observatory,Luanda Capelo Ground Observatory,Luanda Capelo Ground Observatory,['']
+Lunping Ground Observatory,Lunping Ground Observatory,Lunping Ground Observatory,['']
+Lviv Ground Observatory,Lviv Ground Observatory,Lviv Ground Observatory,['']
+Lwiro Ground Observatory,Lwiro Ground Observatory,Lwiro Ground Observatory,['']
+Macquarie Island Ground Observatory,Macquarie Island Ground Observatory,Macquarie Island Ground Observatory,['']
+Magadan Ground Observatory,Magadan Ground Observatory,Magadan Ground Observatory,['']
+Manhay Ground Observatory,Manhay Ground Observatory,Manhay Ground Observatory,['']
+Manzhouli Ground Observatory,Manzhouli Ground Observatory,Manzhouli Ground Observatory,['']
+Maputo Ground Observatory,Maputo Ground Observatory,Maputo Ground Observatory,['']
+Martin de Vivies Ground Observatory,Martin de Vivies Ground Observatory,Martin de Vivies Ground Observatory,['']
+Mawson Ground Observatory,Mawson Ground Observatory,Mawson Ground Observatory,['']
+MBour Ground Observatory,MBour Ground Observatory,MBour Ground Observatory,['']
+Meanook Ground Observatory,Meanook Ground Observatory,Meanook Ground Observatory,['']
+Memambetsu Ground Observatory,Memambetsu Ground Observatory,Memambetsu Ground Observatory,['']
+Midway Ground Observatory,Midway Ground Observatory,Midway Ground Observatory,['']
+Minck Ground Observatory,Minck Ground Observatory,Minck Ground Observatory,['']
+Mirny Ground Observatory,Mirny Ground Observatory,Mirny Ground Observatory,['']
+Misallat Ground Observatory,Misallat Ground Observatory,Misallat Ground Observatory,['']
+Mizusawa Ground Observatory,Mizusawa Ground Observatory,Mizusawa Ground Observatory,['']
+Moca Ground Observatory,Moca Ground Observatory,Moca Ground Observatory,['']
+Molodezhnaya Ground Observatory,Molodezhnaya Ground Observatory,Molodezhnaya Ground Observatory,['']
+Monte Capellino Ground Observatory,Monte Capellino Ground Observatory,Monte Capellino Ground Observatory,['']
+Mould Bay Ground Observatory,Mould Bay Ground Observatory,Mould Bay Ground Observatory,['']
+Muntinlupa Ground Observatory,Muntinlupa Ground Observatory,Muntinlupa Ground Observatory,['']
+Murchison Bay Ground Observatory,Murchison Bay Ground Observatory,Murchison Bay Ground Observatory,['']
+Nagpur Ground Observatory,Nagpur Ground Observatory,Nagpur Ground Observatory,['']
+Nagycenk Ground Observatory,Nagycenk Ground Observatory,Nagycenk Ground Observatory,['']
+Nairobi Ground Observatory,Nairobi Ground Observatory,Nairobi Ground Observatory,['']
+Nampula Ground Observatory,Nampula Ground Observatory,Nampula Ground Observatory,['']
+Narsarsuaq Ground Observatory,Narsarsuaq Ground Observatory,Narsarsuaq Ground Observatory,['']
+Neumayer Station Ground Observatory,Neumayer Station Ground Observatory,Neumayer Station Ground Observatory,['']
+Newport Ground Observatory,Newport Ground Observatory,Newport Ground Observatory,['']
+Niemegk Ground Observatory,Niemegk Ground Observatory,Niemegk Ground Observatory,['']
+Norway Station Ground Observatory,Norway Station Ground Observatory,Norway Station Ground Observatory,['']
+Novokazalinsk Ground Observatory,Novokazalinsk Ground Observatory,Novokazalinsk Ground Observatory,['']
+Novolazarevskaya Ground Observatory,Novolazarevskaya Ground Observatory,Novolazarevskaya Ground Observatory,['']
+"Novosibirsk, Klyuch Ground Observatory","Novosibirsk, Klyuch Ground Observatory","Novosibirsk, Klyuch Ground Observatory",['']
+Nurmijarvi Ground Observatory,Nurmijarvi Ground Observatory,Nurmijarvi Ground Observatory,['']
+Oasis Ground Observatory,Oasis Ground Observatory,Oasis Ground Observatory,['']
+Ottawa Ground Observatory,Ottawa Ground Observatory,Ottawa Ground Observatory,['']
+Pamatai Ground Observatory,Pamatai Ground Observatory,Pamatai Ground Observatory,['']
+Panagyurishte Ground Observatory,Panagyurishte Ground Observatory,Panagyurishte Ground Observatory,['']
+Paramaribo Ground Observatory,Paramaribo Ground Observatory,Paramaribo Ground Observatory,['']
+Paratunka Ground Observatory,Paratunka Ground Observatory,Paratunka Ground Observatory,['']
+Patrony Ground Observatory,Patrony Ground Observatory,Patrony Ground Observatory,['']
+Penteli Ground Observatory,Penteli Ground Observatory,Penteli Ground Observatory,['']
+Phuthuy Ground Observatory,Phuthuy Ground Observatory,Phuthuy Ground Observatory,['']
+Pilar Ground Observatory,Pilar Ground Observatory,Pilar Ground Observatory,['']
+Pionerskaya Ground Observatory,Pionerskaya Ground Observatory,Pionerskaya Ground Observatory,['']
+Plateau Ground Observatory,Plateau Ground Observatory,Plateau Ground Observatory,['']
+Podkamennaya Ground Observatory,Podkamennaya Ground Observatory,Podkamennaya Ground Observatory,['']
+Pondicherry Ground Observatory,Pondicherry Ground Observatory,Pondicherry Ground Observatory,['']
+Port Alfred Ground Observatory,Port Alfred Ground Observatory,Port Alfred Ground Observatory,['']
+Port aux Francais Ground Observatory,Port aux Francais Ground Observatory,Port aux Francais Ground Observatory,['']
+Port Moresby Ground Observatory,Port Moresby Ground Observatory,Port Moresby Ground Observatory,['']
+Port Stanley Ground Observatory,Port Stanley Ground Observatory,Port Stanley Ground Observatory,['']
+Poste de la Baleine Ground Observatory,Poste de la Baleine Ground Observatory,Poste de la Baleine Ground Observatory,['']
+Price Ground Observatory,Price Ground Observatory,Price Ground Observatory,['']
+Pruhonice Ground Observatory,Pruhonice Ground Observatory,Pruhonice Ground Observatory,['']
+Qianling Ground Observatory,Qianling Ground Observatory,Qianling Ground Observatory,['']
+Qiongzhong Ground Observatory,Qiongzhong Ground Observatory,Qiongzhong Ground Observatory,['']
+Qsaybeh Ground Observatory,Qsaybeh Ground Observatory,Qsaybeh Ground Observatory,['']
+Quanzhou Ground Observatory,Quanzhou Ground Observatory,Quanzhou Ground Observatory,['']
+Quetta Ground Observatory,Quetta Ground Observatory,Quetta Ground Observatory,['']
+Resolute Ground Observatory,Resolute Ground Observatory,Resolute Ground Observatory,['']
+Roburent Ground Observatory,Roburent Ground Observatory,Roburent Ground Observatory,['']
+Roi Baudouin Ground Observatory,Roi Baudouin Ground Observatory,Roi Baudouin Ground Observatory,['']
+Rude Skov Ground Observatory,Rude Skov Ground Observatory,Rude Skov Ground Observatory,['']
+Sabhawala Ground Observatory,Sabhawala Ground Observatory,Sabhawala Ground Observatory,['']
+Saint Johns Ground Observatory,Saint Johns Ground Observatory,Saint Johns Ground Observatory,['']
+San Fernando Ground Observatory,San Fernando Ground Observatory,San Fernando Ground Observatory,['']
+San Juan,San Juan,San Juan,['']
+San Pablo Toledo Ground Observatory,San Pablo-Toledo Ground Observatory,San Pablo-Toledo Ground Observatory,['']
+Sanae Ground Observatory,Sanae Ground Observatory,Sanae Ground Observatory,['']
+Sao Miguel Ground Observatory,Sao Miguel Ground Observatory,Sao Miguel Ground Observatory,['']
+Sapa Ground Observatory,Sapa Ground Observatory,Sapa Ground Observatory,['']
+Scott Base Ground Observatory,Scott Base Ground Observatory,Scott Base Ground Observatory,['']
+Shillong Ground Observatory,Shillong Ground Observatory,Shillong Ground Observatory,['']
+Shumagin Ground Observatory,Shumagin Ground Observatory,Shumagin Ground Observatory,['']
+Silchar Ground Observatory,Silchar Ground Observatory,Silchar Ground Observatory,['']
+Simosato Ground Observatory,Simosato Ground Observatory,Simosato Ground Observatory,['']
+Sitka Ground Observatory,Sitka Ground Observatory,Sitka Ground Observatory,['']
+Sodankyla Ground Observatory,Sodankyla Ground Observatory,Sodankyla Ground Observatory,['']
+South Georgia Ground Observatory,South Georgia Ground Observatory,South Georgia Ground Observatory,['']
+South Pole Ground Observatory,South Pole Ground Observatory,South Pole Ground Observatory,['']
+Stepanovka Ground Observatory,Stepanovka Ground Observatory,Stepanovka Ground Observatory,['']
+Stonyhurst Ground Observatory,Stonyhurst Ground Observatory,Stonyhurst Ground Observatory,['']
+Sukkertoppen Ground Observatory,Sukkertoppen Ground Observatory,Sukkertoppen Ground Observatory,['']
+Surlari Ground Observatory,Surlari Ground Observatory,Surlari Ground Observatory,['']
+Swider Ground Observatory,Swider Ground Observatory,Swider Ground Observatory,['']
+Tahiti Ground Observatory,Tahiti Ground Observatory,Tahiti Ground Observatory,['']
+Talara Ground Observatory,Talara Ground Observatory,Talara Ground Observatory,['']
+Tamanrasset Ground Observatory,Tamanrasset Ground Observatory,Tamanrasset Ground Observatory,['']
+Tangerang Ground Observatory,Tangerang Ground Observatory,Tangerang Ground Observatory,['']
+Tatuoca Ground Observatory,Tatuoca Ground Observatory,Tatuoca Ground Observatory,['']
+Tehran Ground Observatory,Tehran Ground Observatory,Tehran Ground Observatory,['']
+Teoloyucan Ground Observatory,Teoloyucan Ground Observatory,Teoloyucan Ground Observatory,['']
+Thule Ground Observatory,Thule Ground Observatory,Thule Ground Observatory,['']
+Tihany Ground Observatory,Tihany Ground Observatory,Tihany Ground Observatory,['']
+Tikhaya Bay Ground Observatory,Tikhaya Bay Ground Observatory,Tikhaya Bay Ground Observatory,['']
+Tirunelveli Ground Observatory,Tirunelveli Ground Observatory,Tirunelveli Ground Observatory,['']
+Tixie Bay Ground Observatory,Tixie Bay Ground Observatory,Tixie Bay Ground Observatory,['']
+Toledo Ground Observatory,Toledo Ground Observatory,Toledo Ground Observatory,['']
+Tomsk Ground Observatory,Tomsk Ground Observatory,Tomsk Ground Observatory,['']
+Tondano Ground Observatory,Tondano Ground Observatory,Tondano Ground Observatory,['']
+Tonghai Ground Observatory,Tonghai Ground Observatory,Tonghai Ground Observatory,['']
+Toolangi Ground Observatory,Toolangi Ground Observatory,Toolangi Ground Observatory,['']
+Trelew Ground Observatory,Trelew Ground Observatory,Trelew Ground Observatory,['']
+Trivandrum Ground Observatory,Trivandrum Ground Observatory,Trivandrum Ground Observatory,['']
+Tromso Ground Observatory,Tromso Ground Observatory,Tromso Ground Observatory,['']
+Tsumeb Ground Observatory,Tsumeb Ground Observatory,Tsumeb Ground Observatory,['']
+Tucson Ground Observatory,Tucson Ground Observatory,Tucson Ground Observatory,['']
+Tuntungan Ground Observatory,Tuntungan Ground Observatory,Tuntungan Ground Observatory,['']
+Ujjain Ground Observatory,Ujjain Ground Observatory,Ujjain Ground Observatory,['']
+Uppsala Ground Observatory,Uppsala Ground Observatory,Uppsala Ground Observatory,['']
+V.Dubr. Ground Observatory,V.Dubr. Ground Observatory,V.Dubr. Ground Observatory,['']
+Val Joyeux Ground Observatory,Val Joyeux Ground Observatory,Val Joyeux Ground Observatory,['']
+Valentia Ground Observatory,Valentia Ground Observatory,Valentia Ground Observatory,['']
+Vannovskaya Ground Observatory,Vannovskaya Ground Observatory,Vannovskaya Ground Observatory,['']
+Vassouras Ground Observatory,Vassouras Ground Observatory,Vassouras Ground Observatory,['']
+Victoria Ground Observatory,Victoria Ground Observatory,Victoria Ground Observatory,['']
+Vieques Ground Observatory,Vieques Ground Observatory,Vieques Ground Observatory,['']
+Visakhapatnam Ground Observatory,Visakhapatnam Ground Observatory,Visakhapatnam Ground Observatory,['']
+Vostok Ground Observatory,Vostok Ground Observatory,Vostok Ground Observatory,['']
+Voyeykovo Ground Observatory,Voyeykovo Ground Observatory,Voyeykovo Ground Observatory,['']
+Watheroo Ground Observatory,Watheroo Ground Observatory,Watheroo Ground Observatory,['']
+Whiteshell Ground Observatory,Whiteshell Ground Observatory,Whiteshell Ground Observatory,['']
+Wien Kobenzl Ground Observatory,Wien Kobenzl Ground Observatory,Wien Kobenzl Ground Observatory,['']
+Wilkes Ground Observatory,Wilkes Ground Observatory,Wilkes Ground Observatory,['']
+Wingst Ground Observatory,Wingst Ground Observatory,Wingst Ground Observatory,['']
+Witteveen Ground Observatory,Witteveen Ground Observatory,Witteveen Ground Observatory,['']
+Wuhan Ground Observatory,Wuhan Ground Observatory,Wuhan Ground Observatory,['']
+Y. Basar Ground Observatory,Y. Basar Ground Observatory,Y. Basar Ground Observatory,['']
+Yakutsk Ground Observatory,Yakutsk Ground Observatory,Yakutsk Ground Observatory,['']
+Yazhno Sakhalinsk Ground Observatory,Yazhno Sakhalinsk Ground Observatory,Yazhno Sakhalinsk Ground Observatory,['']
+Yellowknife Ground Observatory,Yellowknife Ground Observatory,Yellowknife Ground Observatory,['']
+Zaymishche Ground Observatory,Zaymishche Ground Observatory,Zaymishche Ground Observatory,['']
+Zo Se Ground Observatory,Zo-Se Ground Observatory,Zo-Se Ground Observatory,['']
+Wind,Wind,ISTP/Wind,"['ISTP/Wind', 'GGS/Wind', 'Wind/ISTP', 'Wind/GGS']"
+WSO,WSO,WSO,['']
+YNAO,YNAO,YNAO,['']
+Yohkoh,Yohkoh,1991-062A,"['1991-062A', 'Solar-A']"
+Zond,Zond 3,Zond 3,['']
