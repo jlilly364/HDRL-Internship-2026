@@ -198,7 +198,7 @@ def nameReplace(desiredRoot: etree.ElementTree) -> tuple[bool, str]:
     print('\n')
     return changeMade, changeMessage
 
-def addHelioData(desiredRoot: etree.ElementTree):
+def addHelioData(desiredRoot: etree.ElementTree, metadata: etree.ElementTree):
     """Add HelioData links as InformationURLs to SPASE records for 
         better interlinking
     
@@ -209,7 +209,11 @@ def addHelioData(desiredRoot: etree.ElementTree):
     :return: A tuple with boolean (changeMade) and string (changeMessage)
     :rtype: tuple
     """
-
+    changeMade = False
+    changeMessage = ""
+    #dataLicenseAdded = False
+    index = None
+    namespaces = {"spase": "http://www.spase-group.org/data/schema"}
     """
     Replace the first part of SPASE ResourceID up to “NumericalData/” with 
     “https://helio.data.nasa.gov/dataset/” and replace the remaining slashes 
@@ -221,7 +225,7 @@ def addHelioData(desiredRoot: etree.ElementTree):
     For ones found in subdirectories, include each subdirectory with an underscore separating them. (e.g https://spase-metadata.org/SMWG/Observatory/Ground/NASA.Stennis.Space.Center.html → https://helio.data.nasa.gov/mission/Ground_NASA.Stennis.Space.Center) .
     """
 
-    # Boolean for presence of InformationURL in current SPASE record
+    """# Boolean for presence of InformationURL in current SPASE record
     foundIU = False
     changeMade = False
     a=0
@@ -230,7 +234,7 @@ def addHelioData(desiredRoot: etree.ElementTree):
     for child in desiredRoot.iter(tag=etree.Element):
         if child.tag.endswith("InformationURL"):
             targetChild = child
-    # check to see if RevisionHistory container is already present
+    # check to see if InformationURL container is already present
     childrenElts = list(targetChild)
     print(childrenElts)
     for child in targetChild.iter(tag=etree.Element):
@@ -239,29 +243,42 @@ def addHelioData(desiredRoot: etree.ElementTree):
                 foundIU = True
                 IU_Child = child
                 a+=1
-                print(f"InformationURL found:{a}")
+                print(f"InformationURLs found: {a}")
         except AttributeError as err:
             continue
-
-    """# Iterate over root to find and add InformationURL field
-    for child in desiredRoot.iter(tag=etree.Element):
-        a += 1
-        if child.tag.endswith("NumericalData"):
-            targetChild = child
-            for child in targetChild:
-                if child.tag.endswith("ResourceID"):
-                    targetChild = child
-                    for child in targetChild:
-                        child.text = \
-                            child.text.replace("spase://NASA/NumericalData/",
-                                               "https://helio.data.nasa.gov/dataset/")
-                        print(child.text)"""
 
     changeMade = True
     changeMessage = "Added HelioData InformationURL"
     print(changeMessage)
-    print('\n')
+    print('\n')"""
 
+    
+    desired_tag = desiredRoot.tag.split("}")
+
+    for child in desiredRoot.iter(tag=etree.Element):
+        if child.tag.endswith("ResourceID"):
+            RID = child.text
+            print(f'ResourceID: {RID}')
+            #helioDataURL = 
+    
+    # add MetadataRightsList
+    root = metadata.getroot()
+    spase_location = ".//spase:NumericalData/ResourceHeader/InformationURL"
+    existingInformationURL = metadata.find(spase_location,
+                                           namespaces=namespaces)
+    # if MetadataRightsList is not already in record
+    if not existingInformationURL:
+        root.insert(1, etree.Element("InformationURL"))
+        newInformationURL = root[1]
+        # add subelements and attributes
+        infoElt = etree.SubElement(newInformationURL, "Rights")
+        etree.SubElement(infoElt, "Name").text = "HelioData"
+        etree.SubElement(infoElt, "URL").text = f"{RID}"
+        etree.SubElement(infoElt, "Description").text = "The HelioData mission page provides an overview of the mission and more, such as all SPASE dataset records associated with it"
+        
+        changeMade = True
+        changeMessage = "Added HelioData URL as InformationURL entry"
+    
     return changeMade, changeMessage
 
 def main(folders, permanent=False, IDsProvided=False) -> None:
@@ -330,9 +347,9 @@ def main(folders, permanent=False, IDsProvided=False) -> None:
                     # make file reflect the change made in this script
                     #print(record)
                     #changeMade, changeMessage1 = nameReplace(desiredRoot)
-                    changeMade, changeMessage1 = addHelioData(desiredRoot)
+                    changeMade, changeMessage1 = addHelioData(desiredRoot,tree)
                     if changeMade:
-                        changeMessage = changeMessage1 + ' JWL'
+                        changeMessage = changeMessage1 + '. JWL'
                         
                         # update dates and adds a RevisionHistory/Note text (if doing new correction)
                         updateRevisions(desiredRoot, changeMessage)
