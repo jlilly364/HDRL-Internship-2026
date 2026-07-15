@@ -1,14 +1,12 @@
+# Code utilizes and modifies functionality developed by Zach Boquet
+# (https://github.com/Kurokio, zach.c.boquet@nasa.gov) for updating 
+# SPASE metadata records
+
 import lxml
-import time
-import html
-import copy
 from lxml import etree
 import xml.etree.ElementTree as ET
 import os
 from datetime import datetime, timedelta
-import re
-from typing import Union
-import requests
 import pandas as pd
 import numpy as np
 from pathlib import Path
@@ -17,7 +15,7 @@ from soso.strategies.spase.spase import SPASE, get_resource_id
 
 # Establish filepath to home directory
 homeDir = str(Path.home()).replace("\\", "/")
-print(homeDir)
+
 def getPaths(entry, paths) -> list:
     """Takes the absolute path of a SPASE record directory to be walked
     to extract all SPASE records present. Returns these paths using the
@@ -217,26 +215,54 @@ def addHelioData(desiredRoot: etree.ElementTree):
     “https://helio.data.nasa.gov/dataset/” and replace the remaining slashes 
     with underscores. 
     (e.g. https://spase-metadata.org/NASA/NumericalData/MMS/1/FIELDS/FGM/Survey/Level2/PT0.125S -> https://helio.data.nasa.gov/dataset/MMS_1_FIELDS_FGM_Survey_Level2_PT0.125S)
-    SPASE -> HelioData mission page blueprint: “https://helio.data.nasa.gov/mission/” + SPASE Observatory file name without the ‘.xml/.html’ (e.g. https://spase-metadata.org/SMWG/Observatory/MMS.html → https://helio.data.nasa.gov/mission/MMS). Will need to check Observatory folders in SMWG and NASA repos since some observatories (such as AeroCube-6) are not in SMWG.
-    For ones found in subdirectories, include each subdirectory with an underscore separating them. (e.g https://spase-metadata.org/SMWG/Observatory/Ground/NASA.Stennis.Space.Center.html → https://helio.data.nasa.gov/mission/Ground_NASA.Stennis.Space.Center) .
-"""
 
-    # Iterate over root to find and replace PersonID field
+    SPASE -> HelioData mission page blueprint: “https://helio.data.nasa.gov/mission/” + SPASE Observatory file name without the ‘.xml/.html’ (e.g. https://spase-metadata.org/SMWG/Observatory/MMS.html → https://helio.data.nasa.gov/mission/MMS). Will need to check Observatory folders in SMWG and NASA repos since some observatories (such as AeroCube-6) are not in SMWG.
+
+    For ones found in subdirectories, include each subdirectory with an underscore separating them. (e.g https://spase-metadata.org/SMWG/Observatory/Ground/NASA.Stennis.Space.Center.html → https://helio.data.nasa.gov/mission/Ground_NASA.Stennis.Space.Center) .
+    """
+
+    # Boolean for presence of InformationURL in current SPASE record
+    foundIU = False
+    changeMade = False
+    a=0
+
+    # iterate thru to add another (or new) InformationURL
+    for child in desiredRoot.iter(tag=etree.Element):
+        if child.tag.endswith("InformationURL"):
+            targetChild = child
+    # check to see if RevisionHistory container is already present
+    childrenElts = list(targetChild)
+    print(childrenElts)
+    for child in targetChild.iter(tag=etree.Element):
+        try:
+            if child.tag.endswith("InformationURL"):
+                foundIU = True
+                IU_Child = child
+                a+=1
+                print(f"InformationURL found:{a}")
+        except AttributeError as err:
+            continue
+
+    """# Iterate over root to find and add InformationURL field
     for child in desiredRoot.iter(tag=etree.Element):
         a += 1
-        if child.tag.endswith("ResourceHeader"):
+        if child.tag.endswith("NumericalData"):
             targetChild = child
             for child in targetChild:
-                if child.tag.endswith("Contact"):
+                if child.tag.endswith("ResourceID"):
                     targetChild = child
                     for child in targetChild:
-                        if child.tag.endswith("PersonID"):
-                            if child.text.endswith("Haggerty"):
-                                print(child.text)
-                                child.text = child.text.replace("Dennis.",
-                                                                "Dennis.K.")
-                                print(child.text)
+                        child.text = \
+                            child.text.replace("spase://NASA/NumericalData/",
+                                               "https://helio.data.nasa.gov/dataset/")
+                        print(child.text)"""
 
+    changeMade = True
+    changeMessage = "Added HelioData InformationURL"
+    print(changeMessage)
+    print('\n')
+
+    return changeMade, changeMessage
 
 def main(folders, permanent=False, IDsProvided=False) -> None:
     # list that holds SPASE records already checked
@@ -261,7 +287,7 @@ def main(folders, permanent=False, IDsProvided=False) -> None:
             SPASE_paths.append(formattedRecord)
     else:
         SPASE_paths = getPaths(folders, SPASE_paths)
-    print("You entered " + folder)
+    #print("You entered " + folder)
     if len(SPASE_paths) == 0:
         print("No records found. Returning.")
     else:
@@ -303,7 +329,8 @@ def main(folders, permanent=False, IDsProvided=False) -> None:
                     # call to correction scripts here
                     # make file reflect the change made in this script
                     #print(record)
-                    changeMade, changeMessage1 = nameReplace(desiredRoot)
+                    #changeMade, changeMessage1 = nameReplace(desiredRoot)
+                    changeMade, changeMessage1 = addHelioData(desiredRoot)
                     if changeMade:
                         changeMessage = changeMessage1 + ' JWL'
                         
@@ -342,10 +369,10 @@ def main(folders, permanent=False, IDsProvided=False) -> None:
                         xsdFile = f"{cwd}/spase-latest.xsd"
                         
                         # change to filepath
-                        validationScript = f'"{cwd}/validate.php"'.strip()
+                        validationScript = f'"{homeDir}/HDRL-Internship-2026/update_records/validate.php"'.strip()
                         print(f"Executing `php {validationScript} {xsdFile} {record}`")
-                        proc = subprocess.Popen(f"C:/Users/Jimmy/php-8.5.7-nts-Win32-vs17-x64/php.exe {validationScript} {xsdFile} {record}", shell=True, stdout=subprocess.PIPE, cwd=homeDir)
-                        #proc = subprocess.Popen(f".\php\php {validationScript} {xsdFile} {record}", shell=True, stdout=subprocess.PIPE, cwd=homeDir)
+                        #proc = subprocess.Popen(f"C:/Users/Jimmy/php-8.5.7-nts-Win32-vs17-x64/php.exe {validationScript} {xsdFile} {record}", shell=True, stdout=subprocess.PIPE, cwd=homeDir)
+                        proc = subprocess.Popen(f"{homeDir}/php/php.exe {validationScript} {xsdFile} {record}", shell=True, stdout=subprocess.PIPE, cwd=homeDir)
                         script_response = str(proc.stdout.read(), "utf-8").strip()
                         print(script_response)
                         if script_response != 'Validation success':
@@ -377,5 +404,9 @@ def main(folders, permanent=False, IDsProvided=False) -> None:
     return correctedDfRows
 
 # Path to list of incorrect files
-updateList = Path(homeDir+"/jimmy_spase/haggerty_incorrect.txt").read_text().splitlines()
-main(updateList, IDsProvided=True)
+#updateList = Path(homeDir+"/jimmy_spase/haggerty_incorrect.txt").read_text().splitlines()
+#main(updateList, IDsProvided=True)
+
+folder = Path(homeDir+"/NASA/NumericalData")
+print(folder)
+main(folder)
