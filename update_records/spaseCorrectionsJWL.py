@@ -225,47 +225,39 @@ def addHelioData(desiredRoot: etree.ElementTree, metadata: etree.ElementTree):
     For ones found in subdirectories, include each subdirectory with an underscore separating them. (e.g https://spase-metadata.org/SMWG/Observatory/Ground/NASA.Stennis.Space.Center.html → https://helio.data.nasa.gov/mission/Ground_NASA.Stennis.Space.Center) .
     """
 
-    """# Boolean for presence of InformationURL in current SPASE record
-    foundIU = False
-    changeMade = False
-    a=0
-
-    # iterate thru to add another (or new) InformationURL
-    for child in desiredRoot.iter(tag=etree.Element):
-        if child.tag.endswith("InformationURL"):
-            targetChild = child
-    # check to see if InformationURL container is already present
-    childrenElts = list(targetChild)
-    print(childrenElts)
-    for child in targetChild.iter(tag=etree.Element):
-        try:
-            if child.tag.endswith("InformationURL"):
-                foundIU = True
-                IU_Child = child
-                a+=1
-                print(f"InformationURLs found: {a}")
-        except AttributeError as err:
-            continue
-
-    changeMade = True
-    changeMessage = "Added HelioData InformationURL"
-    print(changeMessage)
-    print('\n')"""
-
-    # 1. Check what the root element actually is
+    """# 1. Check what the root element actually is
     print(f"DEBUG: desiredRoot tag is: {desiredRoot.tag}")
 
-    # 2. Print all direct children of desiredRoot
+     2. Print all direct children of desiredRoot
     #print("DEBUG: desiredRoot has these direct children:")
     #for child in desiredRoot:
-        #print(f"  - {child.tag}")
+        #print(f"  - {child.tag}")"""
 
+    # Get tag of desiredRoot
     desired_tag = desiredRoot.tag.split("}")
-    #print(desired_tag[1])
-    spase_location = "spase:ResourceHeader"
-    print(f"DEBUG: spase_location is: {spase_location}")
+    print(desired_tag[1])
 
-    ResourceHeader = desiredRoot.find(spase_location,namespaces=namespaces)
+    suffix = ""
+    if desired_tag[1] == "NumericalData":
+        suffix = "dataset"
+    elif desired_tag[1] == "Observatory":
+        suffix = "mission"
+    
+    #spase_location = "spase:ResourceHeader"
+    #print(f"DEBUG: spase_location is: {spase_location}")
+
+    # Access ResourceID field to recreate SPASE URL
+    ResourceID = desiredRoot.find("spase:ResourceID",namespaces=namespaces)
+    spaseURL = ResourceID.text
+    print(f"spaseURL = {spaseURL}")
+    helioURL = spaseURL.replace(f"spase://NASA//{desired_tag[1]}",
+                               f"https://helio.data.nasa.gov/{suffix}/")\
+                                .replace("/","_")
+    print(f"helioURL = {helioURL}")
+
+    # Access ResourceHeader field to find its subelements 
+    # (i.e. InformationURL)
+    ResourceHeader = desiredRoot.find("spase:ResourceHeader",namespaces=namespaces)
     if ResourceHeader is not None:
         # Now this will successfully work without throwing a NoneType error!
         childrenElts = list(ResourceHeader)
@@ -285,7 +277,7 @@ def addHelioData(desiredRoot: etree.ElementTree, metadata: etree.ElementTree):
     ResourceHeader.insert(index, etree.Element("InformationURL"))
     newInfoURL = ResourceHeader[index]
     etree.SubElement(newInfoURL, "Name").text = "HelioData"
-    etree.SubElement(newInfoURL, "URL").text = "TEST_URL"
+    etree.SubElement(newInfoURL, "URL").text = helioURL
     etree.SubElement(newInfoURL, "Description").text = "The HelioData mission page provides an overview of the mission and more, such as all SPASE dataset records associated with it"
 
     changeMade = True
