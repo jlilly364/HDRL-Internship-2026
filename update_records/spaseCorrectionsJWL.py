@@ -252,32 +252,44 @@ def addHelioData(desiredRoot: etree.ElementTree, metadata: etree.ElementTree):
     print(changeMessage)
     print('\n')"""
 
-    
-    desired_tag = desiredRoot.tag.split("}")
+    # 1. Check what the root element actually is
+    print(f"DEBUG: desiredRoot tag is: {desiredRoot.tag}")
 
-    for child in desiredRoot.iter(tag=etree.Element):
-        if child.tag.endswith("ResourceID"):
-            RID = child.text
-            print(f'ResourceID: {RID}')
-            #helioDataURL = 
+    # 2. Print all direct children of desiredRoot
+    #print("DEBUG: desiredRoot has these direct children:")
+    #for child in desiredRoot:
+        #print(f"  - {child.tag}")
+
+    desired_tag = desiredRoot.tag.split("}")
+    #print(desired_tag[1])
+    spase_location = "spase:ResourceHeader"
+    print(f"DEBUG: spase_location is: {spase_location}")
+
+    ResourceHeader = desiredRoot.find(spase_location,namespaces=namespaces)
+    if ResourceHeader is not None:
+        # Now this will successfully work without throwing a NoneType error!
+        childrenElts = list(ResourceHeader)
+        print(f"Success! Found {len(childrenElts)} children in ResourceHeader")
+    else:
+        print("Failed to find ResourceHeader.")
+
+    InfoURLs = ResourceHeader.findall("spase:InformationURL", namespaces=namespaces)
     
-    # add MetadataRightsList
-    root = metadata.getroot()
-    spase_location = ".//spase:NumericalData/ResourceHeader/InformationURL"
-    existingInformationURL = metadata.find(spase_location,
-                                           namespaces=namespaces)
-    # if MetadataRightsList is not already in record
-    if not existingInformationURL:
-        root.insert(1, etree.Element("InformationURL"))
-        newInformationURL = root[1]
-        # add subelements and attributes
-        infoElt = etree.SubElement(newInformationURL, "Rights")
-        etree.SubElement(infoElt, "Name").text = "HelioData"
-        etree.SubElement(infoElt, "URL").text = f"{RID}"
-        etree.SubElement(infoElt, "Description").text = "The HelioData mission page provides an overview of the mission and more, such as all SPASE dataset records associated with it"
-        
-        changeMade = True
-        changeMessage = "Added HelioData URL as InformationURL entry"
+    if InfoURLs:
+        index = childrenElts.index(InfoURLs[-1])
+    else:
+        # get index of closest elt to InformationURL, so can insert a new one after that elt
+        for child in ResourceHeader.iter(tag=etree.Element):
+            if child.tag.endswith("Contact"):
+                index = childrenElts.index(child)
+    ResourceHeader.insert(index, etree.Element("InformationURL"))
+    newInfoURL = ResourceHeader[index]
+    etree.SubElement(newInfoURL, "Name").text = "HelioData"
+    etree.SubElement(newInfoURL, "URL").text = "TEST_URL"
+    etree.SubElement(newInfoURL, "Description").text = "The HelioData mission page provides an overview of the mission and more, such as all SPASE dataset records associated with it"
+
+    changeMade = True
+    changeMessage = "Added HelioData InformationURL"
     
     return changeMade, changeMessage
 
@@ -423,7 +435,7 @@ def main(folders, permanent=False, IDsProvided=False) -> None:
 #updateList = Path(homeDir+"/jimmy_spase/haggerty_incorrect.txt").read_text().splitlines()
 #main(updateList, IDsProvided=True)
 
-folder = Path(homeDir+"/NASA/NumericalData")
-file = 'C:\\Users\\jwlilly\\NASA\\NumericalData\\ACE\\Attitude\\Definitive'
+folder = Path(homeDir+"/NASA/NumericalData/")
+file = 'C:/Users/jwlilly/NASA/NumericalData/ACE/Attitude/Definitive'
 #print(folder)
 main(file)
