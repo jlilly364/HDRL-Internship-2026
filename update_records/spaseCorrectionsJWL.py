@@ -248,28 +248,44 @@ def addHelioData(desiredRoot: etree.ElementTree, metadata: etree.ElementTree):
 
     # Access ResourceID field to recreate SPASE URL
     ResourceID = desiredRoot.find("spase:ResourceID",namespaces=namespaces)
+    
+    # Get SPASE URL from ResourceID
     spaseURL = ResourceID.text
+
+    # Establish base path for HelioData URL
+    helioURL_base = f"https://helio.data.nasa.gov/{suffix}/"
+    # Extract file from SPASE URL and replace / at the end with _
+    helioFile = spaseURL.partition(f"{desired_tag[1]}/")[2].replace('/','_')
+    # Combine HelioData base and file
+    helioURL = helioURL_base + helioFile
     print(f"spaseURL = {spaseURL}")
-    helioURL = spaseURL.replace(f"spase://NASA//{desired_tag[1]}",
-                               f"https://helio.data.nasa.gov/{suffix}/")\
-                                .replace("/","_")
-    print(f"helioURL = {helioURL}")
+    print(f"helioURL_base = {helioURL_base}")
+    print(f"helioFile = {helioFile}")
+    print(f"helioURL = {helioURL}\n")
 
     # Access ResourceHeader field to find its subelements 
     # (i.e. InformationURL)
-    ResourceHeader = desiredRoot.find("spase:ResourceHeader",namespaces=namespaces)
+    ResourceHeader = desiredRoot.find("spase:ResourceHeader",
+                                      namespaces=namespaces)
+    # Verify ResourceHeader is in SPASE record
     if ResourceHeader is not None:
-        # Now this will successfully work without throwing a NoneType error!
         childrenElts = list(ResourceHeader)
         print(f"Success! Found {len(childrenElts)} children in ResourceHeader")
     else:
         print("Failed to find ResourceHeader.")
 
-    InfoURLs = ResourceHeader.findall("spase:InformationURL", namespaces=namespaces)
-    
+    # Create list of all InformationURLs already in SPASE record
+    InfoURLs = ResourceHeader.findall("spase:InformationURL",
+                                      namespaces=namespaces)
+    print(len(InfoURLs))
+    # If record has InformationURL objects already, place new one at the end
     if InfoURLs:
-        index = childrenElts.index(InfoURLs[-1])
+        print(True)
+        index = childrenElts.index(InfoURLs[-1])+1
+    
+    # If record does not have InformationURL objects already, insert a new one
     else:
+        print(False)
         # get index of closest elt to InformationURL, so can insert a new one after that elt
         for child in ResourceHeader.iter(tag=etree.Element):
             if child.tag.endswith("Contact"):
