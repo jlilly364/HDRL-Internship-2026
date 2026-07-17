@@ -145,6 +145,13 @@ def updateRevisions(desiredRoot: etree.ElementTree, note:str) -> None:
         etree.SubElement(revisionChild, "ReleaseDate").text = newDate
         etree.SubElement(revisionChild, "Note").text = note
 
+def updateVersion(root:etree.ElementTree, newVersion:str) -> None:
+    child = root[0]
+    if child.tag.endswith("Version"):
+        # change version to be 2.7 and above
+        if child.text != newVersion:
+            child.text = newVersion
+
 def updateRelease(desiredRoot:etree.ElementTree) -> str:
     now = datetime.now().isoformat("T", "seconds")
     newDate = now + "Z"
@@ -211,7 +218,7 @@ def addHelioData(desiredRoot: etree.ElementTree, metadata: etree.ElementTree):
     """
     changeMade = False
     changeMessage = ""
-    #dataLicenseAdded = False
+    
     index = None
     namespaces = {"spase": "http://www.spase-group.org/data/schema"}
     """
@@ -244,7 +251,16 @@ def addHelioData(desiredRoot: etree.ElementTree, metadata: etree.ElementTree):
     # Convert SPASE URL to corresponding HelioData URL
     helioURL_base = f"https://helio.data.nasa.gov/{suffix}/"
     helioFile = spaseURL.partition(f"{desired_tag[1]}/")[2].replace('/','_')
+    print(helioFile)
+    # Remove SPASE file extension for HelioData URL
     helioURL = helioURL_base + helioFile
+    """print(helioFile)
+    if helioFile.endswith(".xml"):
+        helioURL = helioURL_base + helioFile.replace(".xml","")
+    elif helioFile.endswith(".html"):
+        helioURL = helioURL_base + helioFile.replace(".html","")
+    else:
+        print(f"Unrecognized file extension: {Path(helioFile).suffix}")"""
 
     # Access ResourceHeader to find its subelements (i.e. InformationURL)
     ResourceHeader = desiredRoot.find("spase:ResourceHeader",
@@ -361,6 +377,7 @@ def main(folders, permanent=False, IDsProvided=False) -> None:
                         
                         # update dates and adds a RevisionHistory/Note text (if doing new correction)
                         updateRevisions(desiredRoot, changeMessage)
+                        #updateVersion(desiredRoot,"2.7.1")
 
                         # add record that was changed to tracking list
                         if changeMade:
@@ -391,8 +408,9 @@ def main(folders, permanent=False, IDsProvided=False) -> None:
                         cwd = str(Path.cwd()).replace("\\", "/")
                         print(cwd)
                         # CHANGE homeDir
-                        xsdFile = f"{cwd}/spase-latest.xsd"
-                        
+                        #xsdFile = f"{cwd}/spase-latest.xsd"
+                        xsdFile = f"{cwd}/spase-2.3.0.xsd"
+
                         # change to filepath
                         validationScript = f'"{homeDir}/HDRL-Internship-2026/update_records/validate.php"'.strip()
                         print(f"Executing `php {validationScript} {xsdFile} {record}`")
@@ -431,6 +449,12 @@ def main(folders, permanent=False, IDsProvided=False) -> None:
 #updateList = Path(homeDir+"/jimmy_spase/haggerty_incorrect.txt").read_text().splitlines()
 #main(updateList, IDsProvided=True)
 
-folders = Path(homeDir+"/NASA/NumericalData/")
+# Paths to files that need to be updated with HelioData URLs
+#directories = ['C:/Users/jwlilly/SMWG/Observatory/AUGSBURG/']
+# directories = [f"{homeDir}/NASA/NumericalData/",
+#            f"{homeDir}/SMWG/Observatory/",
+#            f"{homeDir}/NASA/Observatory/"]
 
-main(folders)
+# for directory in directories:
+#     main(directory)
+main('C:/Users/jwlilly/NASA/NumericalData/')
