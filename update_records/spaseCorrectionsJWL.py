@@ -225,26 +225,15 @@ def addHelioData(desiredRoot: etree.ElementTree, metadata: etree.ElementTree):
     For ones found in subdirectories, include each subdirectory with an underscore separating them. (e.g https://spase-metadata.org/SMWG/Observatory/Ground/NASA.Stennis.Space.Center.html → https://helio.data.nasa.gov/mission/Ground_NASA.Stennis.Space.Center) .
     """
 
-    """# 1. Check what the root element actually is
-    print(f"DEBUG: desiredRoot tag is: {desiredRoot.tag}")
-
-     2. Print all direct children of desiredRoot
-    #print("DEBUG: desiredRoot has these direct children:")
-    #for child in desiredRoot:
-        #print(f"  - {child.tag}")"""
-
     # Get tag of desiredRoot
     desired_tag = desiredRoot.tag.split("}")
-    print(desired_tag[1])
 
+    # Select appropriate HelioData directory
     suffix = ""
     if desired_tag[1] == "NumericalData":
         suffix = "dataset"
     elif desired_tag[1] == "Observatory":
         suffix = "mission"
-    
-    #spase_location = "spase:ResourceHeader"
-    #print(f"DEBUG: spase_location is: {spase_location}")
 
     # Access ResourceID field to recreate SPASE URL
     ResourceID = desiredRoot.find("spase:ResourceID",namespaces=namespaces)
@@ -252,50 +241,49 @@ def addHelioData(desiredRoot: etree.ElementTree, metadata: etree.ElementTree):
     # Get SPASE URL from ResourceID
     spaseURL = ResourceID.text
 
-    # Establish base path for HelioData URL
+    # Convert SPASE URL to corresponding HelioData URL
     helioURL_base = f"https://helio.data.nasa.gov/{suffix}/"
-    # Extract file from SPASE URL and replace / at the end with _
     helioFile = spaseURL.partition(f"{desired_tag[1]}/")[2].replace('/','_')
-    # Combine HelioData base and file
     helioURL = helioURL_base + helioFile
-    print(f"spaseURL = {spaseURL}")
-    print(f"helioURL_base = {helioURL_base}")
-    print(f"helioFile = {helioFile}")
-    print(f"helioURL = {helioURL}\n")
 
-    # Access ResourceHeader field to find its subelements 
-    # (i.e. InformationURL)
+    # Access ResourceHeader to find its subelements (i.e. InformationURL)
     ResourceHeader = desiredRoot.find("spase:ResourceHeader",
                                       namespaces=namespaces)
-    # Verify ResourceHeader is in SPASE record
+    """# Verify ResourceHeader is in SPASE record
     if ResourceHeader is not None:
         childrenElts = list(ResourceHeader)
-        print(f"Success! Found {len(childrenElts)} children in ResourceHeader")
+        print(f"Found {len(childrenElts)} children in ResourceHeader")
     else:
-        print("Failed to find ResourceHeader.")
+        print("No ResourceHeader found.")"""
 
-    # Create list of all InformationURLs already in SPASE record
+    # Create new InformationURL element for HelioData
+    newInfoURL = etree.Element("InformationURL")
+
+    # Find all InformationURLs already in SPASE record
     InfoURLs = ResourceHeader.findall("spase:InformationURL",
                                       namespaces=namespaces)
-    print(len(InfoURLs))
+    
     # If record has InformationURL objects already, place new one at the end
     if InfoURLs:
-        print(True)
-        index = childrenElts.index(InfoURLs[-1])+1
-    
+        print(f"Found {len(InfoURLs)} InformationURLs. Adding new InformationURL.")
+        #index = childrenElts.index(InfoURLs[-1])
+        InfoURLs[-1].addnext(newInfoURL)
+
     # If record does not have InformationURL objects already, insert a new one
     else:
-        print(False)
-        # get index of closest elt to InformationURL, so can insert a new one after that elt
-        for child in ResourceHeader.iter(tag=etree.Element):
-            if child.tag.endswith("Contact"):
-                index = childrenElts.index(child)
-    ResourceHeader.insert(index, etree.Element("InformationURL"))
-    newInfoURL = ResourceHeader[index]
+        print("No prior InformationURLs. Inserting after last Contact.")
+
+        # Find all Contacts in SPASE record and append new InfoURL
+        Contacts = ResourceHeader.findall("spase:Contact",
+                                          namespaces=namespaces)
+        Contacts[-1].addnext(newInfoURL)
+    
+    # Insert HelioData link in InformationURL
     etree.SubElement(newInfoURL, "Name").text = "HelioData"
     etree.SubElement(newInfoURL, "URL").text = helioURL
-    etree.SubElement(newInfoURL, "Description").text = "The HelioData mission page provides an overview of the mission and more, such as all SPASE dataset records associated with it"
+    etree.SubElement(newInfoURL, "Description").text = "The HelioData mission page provides an overview of the mission and more, such as all SPASE dataset records associated with it."
 
+    # Reflect that HelioData URL was added to SPASE record
     changeMade = True
     changeMessage = "Added HelioData InformationURL"
     
@@ -443,7 +431,6 @@ def main(folders, permanent=False, IDsProvided=False) -> None:
 #updateList = Path(homeDir+"/jimmy_spase/haggerty_incorrect.txt").read_text().splitlines()
 #main(updateList, IDsProvided=True)
 
-folder = Path(homeDir+"/NASA/NumericalData/")
-file = 'C:/Users/jwlilly/NASA/NumericalData/ACE/Attitude/Definitive'
-#print(folder)
-main(file)
+folders = Path(homeDir+"/NASA/NumericalData/")
+
+main(folders)
