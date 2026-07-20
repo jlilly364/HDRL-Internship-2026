@@ -374,8 +374,8 @@ def main(folders, permanent=False, IDsProvided=False) -> None:
                         oldVersion = updateVersion(root,currentVersion)
 
                         if oldVersion != currentVersion:
-                            print(f"Schema is outdated: ({updateVersion(root,currentVersion)}). Updating Schema\n")
-                            changeMessage += ', SPASE description updated to version 2.7.1. JWL'
+                            print(f"Schema is outdated: ({oldVersion}). Updating Schema\n")
+                            changeMessage += f', Updated to SPASE Version {currentVersion}. JWL'
                         else:
                             print(f"Schema is current ({currentVersion})")
                             changeMessage += '. JWL'
@@ -455,12 +455,10 @@ def main(folders, permanent=False, IDsProvided=False) -> None:
 
 # Paths to files that need to be updated with HelioData URLs
 #directories = ['C:/Users/jwlilly/SMWG/Observatory/AUGSBURG/']
-# directories = [f"{homeDir}/NASA/NumericalData/",
-#                f"{homeDir}/SMWG/Observatory/",
-#                f"{homeDir}/NASA/Observatory/"]
+"""directories = [f"{homeDir}/NASA/NumericalData/",
+               f"{homeDir}/SMWG/Observatory/",
+               f"{homeDir}/NASA/Observatory/"]
 
-# for directory in directories:
-#     main(directory)
-
-#main(f"{homeDir}/NASA/Observatory/")
+for directory in directories:
+    main(directory)"""
 main(f"{homeDir}/SMWG/Observatory/")
