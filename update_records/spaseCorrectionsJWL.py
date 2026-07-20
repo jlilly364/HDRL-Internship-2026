@@ -147,10 +147,14 @@ def updateRevisions(desiredRoot: etree.ElementTree, note:str) -> None:
 
 def updateVersion(root:etree.ElementTree, newVersion:str) -> None:
     child = root[0]
+    oldVersion = ""
     if child.tag.endswith("Version"):
+        oldVersion = child.text
         # change version to be 2.7 and above
         if child.text != newVersion:
             child.text = newVersion
+    
+    return oldVersion
 
 def updateRelease(desiredRoot:etree.ElementTree) -> str:
     now = datetime.now().isoformat("T", "seconds")
@@ -221,16 +225,6 @@ def addHelioData(desiredRoot: etree.ElementTree, metadata: etree.ElementTree):
     
     index = None
     namespaces = {"spase": "http://www.spase-group.org/data/schema"}
-    """
-    Replace the first part of SPASE ResourceID up to “NumericalData/” with 
-    “https://helio.data.nasa.gov/dataset/” and replace the remaining slashes 
-    with underscores. 
-    (e.g. https://spase-metadata.org/NASA/NumericalData/MMS/1/FIELDS/FGM/Survey/Level2/PT0.125S -> https://helio.data.nasa.gov/dataset/MMS_1_FIELDS_FGM_Survey_Level2_PT0.125S)
-
-    SPASE -> HelioData mission page blueprint: “https://helio.data.nasa.gov/mission/” + SPASE Observatory file name without the ‘.xml/.html’ (e.g. https://spase-metadata.org/SMWG/Observatory/MMS.html → https://helio.data.nasa.gov/mission/MMS). Will need to check Observatory folders in SMWG and NASA repos since some observatories (such as AeroCube-6) are not in SMWG.
-
-    For ones found in subdirectories, include each subdirectory with an underscore separating them. (e.g https://spase-metadata.org/SMWG/Observatory/Ground/NASA.Stennis.Space.Center.html → https://helio.data.nasa.gov/mission/Ground_NASA.Stennis.Space.Center) .
-    """
 
     # Get tag of desiredRoot
     desired_tag = desiredRoot.tag.split("}")
@@ -373,11 +367,21 @@ def main(folders, permanent=False, IDsProvided=False) -> None:
                     #changeMade, changeMessage1 = nameReplace(desiredRoot)
                     changeMade, changeMessage1 = addHelioData(desiredRoot,tree)
                     if changeMade:
-                        changeMessage = changeMessage1 + '. JWL'
+                        changeMessage = changeMessage1
                         
+                        # Check SPASE schema version, update if needed
+                        currentVersion = "2.7.1"
+                        oldVersion = updateVersion(root,currentVersion)
+
+                        if oldVersion != currentVersion:
+                            print(f"Schema is outdated: ({updateVersion(root,currentVersion)}). Updating Schema\n")
+                            changeMessage += ', SPASE description updated to version 2.7.1. JWL'
+                        else:
+                            print(f"Schema is current ({currentVersion})")
+                            changeMessage += '. JWL'
+
                         # update dates and adds a RevisionHistory/Note text (if doing new correction)
                         updateRevisions(desiredRoot, changeMessage)
-                        #updateVersion(desiredRoot,"2.7.1")
 
                         # add record that was changed to tracking list
                         if changeMade:
@@ -408,8 +412,8 @@ def main(folders, permanent=False, IDsProvided=False) -> None:
                         cwd = str(Path.cwd()).replace("\\", "/")
                         print(cwd)
                         # CHANGE homeDir
-                        #xsdFile = f"{cwd}/spase-latest.xsd"
-                        xsdFile = f"{cwd}/spase-2.3.0.xsd"
+                        xsdFile = f"{cwd}/spase-latest.xsd"
+                        #xsdFile = f"{cwd}/spase-2.3.0.xsd"
 
                         # change to filepath
                         validationScript = f'"{homeDir}/HDRL-Internship-2026/update_records/validate.php"'.strip()
@@ -452,9 +456,11 @@ def main(folders, permanent=False, IDsProvided=False) -> None:
 # Paths to files that need to be updated with HelioData URLs
 #directories = ['C:/Users/jwlilly/SMWG/Observatory/AUGSBURG/']
 # directories = [f"{homeDir}/NASA/NumericalData/",
-#            f"{homeDir}/SMWG/Observatory/",
-#            f"{homeDir}/NASA/Observatory/"]
+#                f"{homeDir}/SMWG/Observatory/",
+#                f"{homeDir}/NASA/Observatory/"]
 
 # for directory in directories:
 #     main(directory)
-main('C:/Users/jwlilly/NASA/NumericalData/')
+
+#main(f"{homeDir}/NASA/Observatory/")
+main(f"{homeDir}/SMWG/Observatory/")
