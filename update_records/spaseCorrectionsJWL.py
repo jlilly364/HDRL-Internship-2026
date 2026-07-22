@@ -461,4 +461,5 @@ def main(folders, permanent=False, IDsProvided=False) -> None:
 
 for directory in directories:
     main(directory)"""
-main(f"{homeDir}/SMWG/Observatory/")
+#main(f"{homeDir}/SMWG/Observatory/")
+main(f"{homeDir}/NASA/NumericalData/")
