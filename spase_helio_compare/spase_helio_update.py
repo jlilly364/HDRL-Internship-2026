@@ -19,47 +19,6 @@ class spase_helio_update:
         self.all_names = Path.cwd() /"spase_helio_compare/csv/all_helioData_spase_names.csv"
         self.all_names_df = pd.read_csv(self.all_names)
 
-    """def shortResourceCompare(self,diff=False,save=False):
-        #Compare short_name (HelioData 'ID') to SPASE 'ResourceName'
-        
-        :param diff: User choice to save file showing differences, 
-                        defaults to = False
-        :type diff: boolean 
-        :param save: User choice to save comparison file, 
-                        defaults to False
-        :type save: boolean
-
-        :return: SPASE ResourceNames and HelioData short_names
-        :rtype: pd.DataFrame
-        #
-        
-
-        # Create file with short_names and ResourceNames that differ
-        if diff:
-            # Get indices where 'short_name' and 'ResourceName' differ
-            ind_short_diff = ~self.helio_df['short_name']\
-                                .isin(self.spase_df['ResourceName'])
-
-            # Create dataframe by combining masked columns
-            shortRes_df = pd.concat([self.helio_df['short_name']
-                                     .loc[ind_short_diff],
-                                     self.spase_df['ResourceName']
-                                     .loc[ind_short_diff]],axis=1,
-                                     keys=['HelioData_short_name',
-                                           'SPASE_ResourceName'])
-
-            # Write to file
-            if save:
-                shortRes_df.to_csv('spase_helio_compare/csv/short_Resource_diff.csv',
-                                   index=False)
-
-                shortRes_df.to_excel('spase_helio_compare/excel/short_Resource_diff.xlsx',
-                                     index=False)
-
-        return(self.spase_df['ResourceName'],self.helio_df['short_name'])
-    
-    """
-
     def longAlternateUpdate(self, save=False):
         """Add and/or move long_name (HelioData 'Name') to first element
         of  SPASE 'AlternateName' list
