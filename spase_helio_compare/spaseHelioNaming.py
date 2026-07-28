@@ -120,9 +120,9 @@ class spaseHelioNaming:
                     print(f"{self.helioField}_name matches first element of {self.spaseField}Name list!\n")
 
                 # Create new dataframe of differing long and Alternate names
-                updated_df = pd.concat([helioNames, spaseNames],axis=1,
-                                       keys=[f"HelioData_{self.helioField}_name",
-                                             f"SPASE_{self.spaseField}Name"])
+                updated_df = pd.concat([spaseNames,helioNames],axis=1,
+                                       keys=[f"SPASE_{self.spaseField}Name",
+                                             f"HelioData_{self.helioField}_name"])
 
         elif self.spaseField == "Resource":
             spaseNames = self.allNames_df[f"SPASE_{self.spaseField}Name"]
@@ -137,13 +137,13 @@ class spaseHelioNaming:
         
         # Write to file
         if save:
-            updated_df.to_csv(f"spase_helio_compare/csv/test_{self.helioField}_{self.spaseField}_update.csv",
-                                index=False)
+            updatedFile = f"{self.spaseField}_{self.helioField}_update.csv"
+            updated_df.to_csv(f"spase_helio_compare/csv/{updatedFile}",index=False)
 
 if __name__ == "__main__":    
     # Instantiate class
     comparison = spaseHelioNaming(spaseField="Alternate")
 
     # Call functions
-    comparison.spaseHelioCompare(save=True)
-    #comparison.spaseHelioUpdate(save=False)
+    #comparison.spaseHelioCompare(save=False)
+    comparison.spaseHelioUpdate(save=True)
