@@ -1,4 +1,4 @@
-from rapidfuzz import fuzz
+from rapidfuzz import fuzz, distance
 from pathlib import Path
 import pandas as pd
 
@@ -119,30 +119,43 @@ class spaseHelioNaming:
                 else:
                     print(f"{self.helioField}_name matches first element of {self.spaseField}Name list!\n")
 
-                # Create new dataframe of differing long and Alternate names
-                updated_df = pd.concat([spaseNames,helioNames],axis=1,
-                                       keys=[f"SPASE_{self.spaseField}Name",
-                                             f"HelioData_{self.helioField}_name"])
+            # Create new dataframe of differing Alternate and long names
+            updated_df = pd.concat([spaseNames,helioNames],axis=1,
+                                    keys=[f"SPASE_{self.spaseField}Name",
+                                          f"HelioData_{self.helioField}_name"])
 
         elif self.spaseField == "Resource":
             spaseNames = self.allNames_df[f"SPASE_{self.spaseField}Name"]
 
             for i in self.allNames_df.index[:50]:
                 if helioNames[i] != spaseNames[i]:
-                    print(f"\n{self.helioField}_name ('{helioNames[i]}') different than {self.spaseField}Name ('{spaseNames[i]}').\n")
+                    if helioNames[i] not in spaseNames[i]:
+                        charDiff = distance.Levenshtein.distance(helioNames[i],spaseNames[i])
+                        if charDiff > 1:
+                            print(f"{helioNames[i]} | {spaseNames[i]} (charDiff = {charDiff})")
+                        #print(f">Character diff = {distance.Levenshtein.distance(helioNames[i],spaseNames[i])}\n")
+                    """
+                        if distance.Levenshtein.distance(helioNames[i],spaseNames[i]):
+                            print(f"\n>{self.helioField}_name ('{helioNames[i]}') not in {self.spaseField}Name ('{spaseNames[i]}').\n")
+                    else:
+                        print(f"\n{self.helioField}_name ('{helioNames[i]}') different than {self.spaseField}Name ('{spaseNames[i]}').\n")"""
                 else:
                     print(f"Match! {self.helioField}_name ('{helioNames[i]}') same as {self.spaseField}Name ('{spaseNames[i]}').")
 
-
+            # Create new dataframe of differing Resource and short names
+            updated_df = pd.concat([spaseNames,helioNames],axis=1,
+                                    keys=[f"SPASE_{self.spaseField}Name",
+                                          f"HelioData_{self.helioField}_name"])
         
         # Write to file
         if save:
             updatedFile = f"{self.spaseField}_{self.helioField}_update.csv"
-            updated_df.to_csv(f"spase_helio_compare/csv/{updatedFile}",index=False)
+            updated_df.to_csv(f"spase_helio_compare/csv/TEST_{updatedFile}",index=False)
 
 if __name__ == "__main__":    
     # Instantiate class
-    comparison = spaseHelioNaming(spaseField="Alternate")
+    #comparison = spaseHelioNaming(spaseField="Alternate")
+    comparison = spaseHelioNaming(spaseField="Resource")
 
     # Call functions
     #comparison.spaseHelioCompare(save=False)
