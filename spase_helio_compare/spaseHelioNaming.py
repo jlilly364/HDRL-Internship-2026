@@ -46,16 +46,32 @@ class spaseHelioNaming:
         :rtype: pd.DataFrame
         """
 
-        indMask = []        
+        resourceIDs = self.allNames_df["SPASE_ResourceID"]
+        spaseNames = self.allNames_df[f'HelioData_{self.helioField}_name']
+        helioNames = self.allNames_df[f'SPASE_{self.spaseField}Name']
+
+        indMask = []     
+        j = 0   
         # Get indices where names differ
         indMask = ~self.allNames_df[f'HelioData_{self.helioField}_name']\
                     .isin(self.allNames_df[f'SPASE_{self.spaseField}Name'])
+        # for spaseName, helioName in zip(spaseNames,helioNames):
+        #     spaseName_clean = spaseName.replace(" ", "").replace("-", "").replace("/", "")
+        #     helioName_clean = helioName.replace(" ", "").replace("-", "").replace("/", "")
+
+        #     if spaseName_clean != helioName_clean:
+        #         j += 1
+        #         print(f"{spaseName} != {helioName}")
+        # print(f"{j} names that differ by more than hyphen,slash, or space")
+
         
         # Create DataFrame with SPASE and HelioData names that differ
-        masked_df = pd.concat([self.allNames_df[f'SPASE_{self.spaseField}Name'].loc[indMask],
-                                self.allNames_df[f'HelioData_{self.helioField}_name'].loc[indMask]],
-                                axis=1,keys=[f'SPASE_{self.spaseField}Name',
-                                             f'HelioData_{self.helioField}_name'])
+        masked_df = pd.concat([resourceIDs.loc[indMask],
+                               spaseNames.loc[indMask],
+                               helioNames.loc[indMask]],
+                               axis=1,keys=["SPASE_ResourceID",
+                                            f'SPASE_{self.spaseField}Name',
+                                            f'HelioData_{self.helioField}_name'])
 
         # Write to file
         if save:
@@ -67,7 +83,7 @@ class spaseHelioNaming:
                                 {self.spaseField}_{self.helioField}_diff.xlsx',
                                 index=False)"""
 
-        return(indMask)
+        #return(indMask)
 
     def spaseHelioUpdate(self,save=False):
         """Add and/or move long_name (HelioData 'Name') to first element
@@ -81,7 +97,8 @@ class spaseHelioNaming:
         :rtype: pd.DataFrame
         """
 
-        # Initialize lists of SPASE and HelioData names
+        # Initialize lists of SPASE ResourceIDs & names and HelioData names
+        resourceIDs = self.allNames_df["SPASE_ResourceID"]
         spaseNames = []
         helioNames = self.allNames_df[f"HelioData_{self.helioField}_name"]
 
@@ -119,8 +136,9 @@ class spaseHelioNaming:
                     print(f"{self.helioField}_name matches first element of {self.spaseField}Name list!\n")
 
             # Create new dataframe of differing Alternate and long names
-            updated_df = pd.concat([spaseNames,helioNames],axis=1,
-                                    keys=[f"SPASE_{self.spaseField}Name",
+            updated_df = pd.concat([resourceIDs,spaseNames,helioNames],axis=1,
+                                    keys=["SPASE_ResourceID",
+                                          f"SPASE_{self.spaseField}Name",
                                           f"HelioData_{self.helioField}_name"])
 
         elif self.spaseField == "Resource":
@@ -128,11 +146,12 @@ class spaseHelioNaming:
 
             for i in self.allNames_df.index[:100]:
                 if helioNames[i] != spaseNames[i]:
-                    spaseNames.at[i] = helioNames[i]
+                    #spaseNames.at[i] = helioNames[i]
                     if helioNames[i] not in spaseNames[i]:
                         charDiff = distance.Levenshtein.distance(helioNames[i],spaseNames[i])
                         if charDiff > 1:
                             print(f"{helioNames[i]} | {spaseNames[i]} (charDiff = {charDiff})")
+                            spaseNames.at[i] = helioNames[i]
                         #print(f">Character diff = {distance.Levenshtein.distance(helioNames[i],spaseNames[i])}\n")
                     """
                         if distance.Levenshtein.distance(helioNames[i],spaseNames[i]):
@@ -158,6 +177,7 @@ if __name__ == "__main__":
     comparison = spaseHelioNaming(spaseField="Resource")
 
     # Call functions
-    INDMAX = comparison.spaseHelioCompare(save=False)
-    print(len(INDMAX))
+    comparison.spaseHelioCompare(save=True)
+    #INDMAX = comparison.spaseHelioCompare(save=False)
+    #print(len(INDMAX))
     #comparison.spaseHelioUpdate(save=True)
