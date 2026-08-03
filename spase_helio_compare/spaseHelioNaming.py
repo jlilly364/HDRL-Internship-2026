@@ -1,3 +1,4 @@
+from rapidfuzz import fuzz, distance
 from pathlib import Path
 import pandas as pd
 
@@ -25,12 +26,12 @@ class spaseHelioNaming:
         # Initialize name of SPASE and HelioData field
         self.spaseField = spaseField
         self.helioField = ""
-        if self.spaseField == "Resource":
+        if self.spaseField == ("Resource"):# or "ResourceID"
             self.helioField = "short"
         elif self.spaseField == "Alternate":
             self.helioField = "long"
         else:
-            ValueError("Not a valid HelioData naming field")
+            raise ValueError("Not a valid SPASE naming field")
         print(self.spaseField,self.helioField)
 
     def spaseHelioCompare(self,save=False):
@@ -45,31 +46,28 @@ class spaseHelioNaming:
         :rtype: pd.DataFrame
         """
 
-        indMask = []
-        # Create DataFrame with SPASE and HelioData names that differ
-        
+        indMask = []        
         # Get indices where names differ
         indMask = ~self.allNames_df[f'HelioData_{self.helioField}_name']\
                     .isin(self.allNames_df[f'SPASE_{self.spaseField}Name'])
-
-        # Create dataframe by combining masked columns
-        masked_df = pd.concat([self.allNames_df[f'HelioData_{self.helioField}_name'].loc[indMask],
-                                self.allNames_df[f'SPASE_{self.spaseField}Name'].loc[indMask]],
-                                axis=1,keys=[f'HelioData_{self.helioField}_name',
-                                            f'SPASE_{self.spaseField}Name'])
+        
+        # Create DataFrame with SPASE and HelioData names that differ
+        masked_df = pd.concat([self.allNames_df[f'SPASE_{self.spaseField}Name'].loc[indMask],
+                                self.allNames_df[f'HelioData_{self.helioField}_name'].loc[indMask]],
+                                axis=1,keys=[f'SPASE_{self.spaseField}Name',
+                                             f'HelioData_{self.helioField}_name'])
 
         # Write to file
         if save:
-            masked_df.to_csv(f'spase_helio_compare/csv/test_{self.helioField}_{self.spaseField}_diff.csv',
+            masked_df.to_csv(f'spase_helio_compare/csv/{self.spaseField}_{self.helioField}_diff.csv',
                                 index=False)
             print("Comparison file successfully generated")
 
             """compare_df.to_excel(f'spase_helio_compare/excel/\
-                                {self.helioField}_{self.spaseField}_diff.xlsx',
+                                {self.spaseField}_{self.helioField}_diff.xlsx',
                                 index=False)"""
 
-        return(self.allNames_df[f'HelioData_{self.helioField}_name'].loc[indMask],
-               self.allNames_df[f'SPASE_{self.spaseField}Name'].loc[indMask])
+        return(indMask)
 
     def spaseHelioUpdate(self,save=False):
         """Add and/or move long_name (HelioData 'Name') to first element
@@ -120,20 +118,46 @@ class spaseHelioNaming:
                 else:
                     print(f"{self.helioField}_name matches first element of {self.spaseField}Name list!\n")
 
-                # Create new dataframe of differing long and Alternate names
-                updated_df = pd.concat([helioNames, spaseNames],axis=1,
-                                       keys=[f"HelioData_{self.helioField}_name",
-                                             f"SPASE_{self.spaseField}Name"])
+            # Create new dataframe of differing Alternate and long names
+            updated_df = pd.concat([spaseNames,helioNames],axis=1,
+                                    keys=[f"SPASE_{self.spaseField}Name",
+                                          f"HelioData_{self.helioField}_name"])
+
+        elif self.spaseField == "Resource":
+            spaseNames = self.allNames_df[f"SPASE_{self.spaseField}Name"]
+
+            for i in self.allNames_df.index[:100]:
+                if helioNames[i] != spaseNames[i]:
+                    spaseNames.at[i] = helioNames[i]
+                    if helioNames[i] not in spaseNames[i]:
+                        charDiff = distance.Levenshtein.distance(helioNames[i],spaseNames[i])
+                        if charDiff > 1:
+                            print(f"{helioNames[i]} | {spaseNames[i]} (charDiff = {charDiff})")
+                        #print(f">Character diff = {distance.Levenshtein.distance(helioNames[i],spaseNames[i])}\n")
+                    """
+                        if distance.Levenshtein.distance(helioNames[i],spaseNames[i]):
+                            print(f"\n>{self.helioField}_name ('{helioNames[i]}') not in {self.spaseField}Name ('{spaseNames[i]}').\n")
+                    else:
+                        print(f"\n{self.helioField}_name ('{helioNames[i]}') different than {self.spaseField}Name ('{spaseNames[i]}').\n")"""
+                else:
+                    print(f"Match! {self.helioField}_name ('{helioNames[i]}') same as {self.spaseField}Name ('{spaseNames[i]}').")
+
+            # Create new dataframe of differing Resource and short names
+            updated_df = pd.concat([spaseNames,helioNames],axis=1,
+                                    keys=[f"SPASE_{self.spaseField}Name",
+                                          f"HelioData_{self.helioField}_name"])
         
-                # Write to file
-                if save:
-                    updated_df.to_csv(f"spase_helio_compare/csv/test_{self.helioField}_{self.spaseField}_update.csv",
-                                      index=False)
+        # Write to file
+        if save:
+            updatedFile = f"{self.spaseField}_{self.helioField}_update.csv"
+            updated_df.to_csv(f"spase_helio_compare/csv/TEST_{updatedFile}",index=False)
 
 if __name__ == "__main__":    
     # Instantiate class
-    comparison = spaseHelioNaming(spaseField="Alternate")
+    #comparison = spaseHelioNaming(spaseField="Alternate")
+    comparison = spaseHelioNaming(spaseField="Resource")
 
     # Call functions
-    #comparison.spaseHelioCompare(spaseField="Alternate",save=True)
-    comparison.spaseHelioUpdate(save=True)
+    INDMAX = comparison.spaseHelioCompare(save=False)
+    print(len(INDMAX))
+    #comparison.spaseHelioUpdate(save=True)
